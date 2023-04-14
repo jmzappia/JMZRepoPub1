@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PostgreSQL",
+    "\\PostgreSQL\\src",
+    "\\PostgreSQL\\src\\backend",
+    "\\PostgreSQL\\src\\backend\\access",
+    "\\PostgreSQL\\src\\backend\\access\\table"
+  ],
+  "SelectedNode": "\\PostgreSQL\\src\\backend\\access\\table\\Makefile",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,174 @@
+.f_cuerpo_pop {
+	max-height: 100%;
+	max-width: 100%;
+	background-color: white;
+	margin-top: 5px;
+	margin-left: 5px;
+	align-content: center;
+	overflow: hidden;
+
+}
+
+.f_pie_pop {
+	margin-top: 7px;
+	margin-left: 7px;
+	font-family: 'Calibri', 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS';
+	font-size: 12px;
+	line-height: 15px;
+	color: darkblue;
+
+}
+
+.tipo_pop {
+	margin-top: 7px;
+	margin-left: 7px;
+	font-family: 'Calibri', 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS';
+	font-size: 15px;
+	line-height: 20px;
+	color: black;
+	resize: none;
+	scroll-snap-type: x none;
+	scroll-snap-type: y mandatory;
+	block-size: fit-content;
+	scroll-behavior: inherit;
+
+}
+
+.tipo_pop_bis {
+	margin-top: 0px;
+	margin-left: 7px;
+	font-family: 'Calibri', 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS';
+	font-size: 15px;
+	line-height: 20px;
+	color: black;
+	resize: none;
+	scroll-snap-type: x none;
+	scroll-snap-type: y mandatory;
+	block-size: fit-content;
+	scroll-behavior: inherit;
+}
+
+.tipo_tit_pop {
+	background-color: white;
+	margin-top: 20px;
+	margin-left: 7px;
+	margin-bottom: 15px;
+	align-content: center;
+	font-family: 'Calibri', 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS';
+	font-size: 30px;
+	line-height: 0px;
+	font-display: auto;
+	font-weight: 500;
+	clear: right;
+	color: darkblue;
+}
+
+.tipo_bajada_pop {
+	background-color: white;
+	margin-top: 7px;
+	margin-left: 7px;
+	align-content: center;
+	font-family: 'Calibri', 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS';
+	font-size: 15px;
+	line-height: 20px;
+	color: black;
+}
+
+.tipo_sub_pop {
+	background-color: white;
+	margin-top: 15px;
+	margin-left: 7px;
+	align-content: center;
+	font-family: 'Calibri', 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS';
+	font-size: 15px;
+	line-height: 20px;
+	color: darkblue;
+	font-weight:bold;
+
+}
+
+.tipo_txt_pop {
+	background-color: white;
+	margin-top: 7px;
+	margin-left: 10px;
+	align-content: center;
+	font-family: 'Calibri', 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS';
+	font-size: 15px;
+	line-height: 20px;
+	color: black;
+
+}
+
+.tipo_fot_pop {
+	background-color: white;
+	margin-top: 7px;
+	margin-left: 7px;
+	border: thin;
+	border-color: black;
+	padding-right: 20px;
+	display: block;
+	clear: both;
+	float: left;
+	
+}
+
+.tipo_pie_pop {
+	margin-top: 7px;
+	margin-left: 7px;
+	font-family: 'Calibri', 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS';
+	font-size: 12px;
+	line-height: 15px;
+	color: darkblue;
+
+}
+
+.tipo_vid_pop {
+	margin-top: 7px;
+	margin-left: 7px;
+	align-content: center;
+    width: 590px;
+	
+}
+
+.tipo_aud_pop {
+	background-color: white;
+	margin-top: 7px;
+	margin-left: 7px;
+	align-content: center;
+	width: 590px;
+
+}
+
+.tipo_fot_pop_1 {
+	background-color: white;
+	margin-top: auto;
+	margin-left: 0px;
+	align-content: center;
+	align-items: center;
+	width: 580px;
+	justify-content: center;
+	overflow: hidden;
+	clear: both;
+	float: left;
+
+}
+
+.video-respon {
+	position: relative;
+	padding-bottom: 56.25%;
+	padding-top: 30px; 
+	height: 0;
+	overflow: hidden;
+
+}
+
+	.video-respon iframe,
+	.video-respon object,
+	.video-respon embed {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+
+	}

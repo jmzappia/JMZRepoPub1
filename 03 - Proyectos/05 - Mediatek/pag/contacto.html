@@ -1,0 +1,155 @@
+﻿<!DOCTYPE html>
+
+<html lang="es-ar" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="author" content="Julián Marcelo Zappia">
+    <meta name="description" content="Integración de Clases 1 a 4 | 6 a 10 - Curso Full Stack Web UTN">
+    <meta name="application-name" content="contacto.html - Información de la Profesión">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge, Chrome=edge">
+    <meta http-equiv="Expires" content="0">
+    <meta http-equiv="Last-Modified" content="0">
+    <meta http-equiv="Cache-Control" content="no-cache, mustrevalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+
+    <title>Contacto</title>
+
+    <script type="text/javascript" src="../jsc/Contacto.js"></script>
+    <link rel="stylesheet" type="text/css" href="../css/Contacto.css" />
+
+</head>
+
+<body id="bodycontacto" class="body_contacto">
+
+    <p id="t" class="tipo_pop_bis">
+        <img src="../img/arriba_y_abajo.jpg" width="565" height="2" />
+        <br />
+        <br />
+        <img src="../img/Popup_Contacto_Head.jpg" width="570" height="" />
+        <br />
+
+    </p>
+
+    <div class="body_contacto">
+
+        <div class="body_contacto">
+            <br />
+            <b>Escribime y en breve me contactaré con vos.</b>
+            <br />
+            <br />
+
+            <form action="#" method="post">
+                <p>
+                    <label for="nombre" class="label_contacto">
+                        Nombre   :
+                        <span class="obligatorio">(*)</span>
+                    </label>
+
+                    <input type="text" class="input_contacto" name="introducir_nombre" id="nombre" required="required" placeholder="Escribe tu nombre">
+
+                </p>
+
+                <p>
+                    <label for="email" class="colocar_email">
+                        Email    :
+                        <span class="obligatorio">(*)</span>
+                    </label>
+
+                    <input type="email" class="input_contacto" name="introducir_email" id="email" required="required" placeholder="Escribe tu Email">
+
+                </p>
+
+                <p>
+                    <label for="telefone" class="colocar_telefono">
+                        Teléfono  :
+                    </label>
+
+                    <input type="tel" class="input_contacto" name="introducir_telefono" id="telefono" placeholder="Escribe tu teléfono">
+
+                </p>
+
+
+                <p>
+                    <label for="website" class="colocar_website">
+                        Sitio web :
+                    </label>
+
+                    <input type="url" class="input_contacto" name="introducir_website" id="website" placeholder="Escribe la URL de tu web">
+
+                </p>
+
+                <p>
+                    <label for="asunto" class="colocar_asunto">
+                        Asunto    :
+                        <span class="required">(*)</span>
+                    </label>
+
+                    <input type="text" class="input_contacto" name="introducir_asunto" id="asunto" required="required" placeholder="Escribe un asunto">
+
+                </p>
+
+                <p>
+                    <label for="mensaje" class="colocar_mensaje">
+                        Mensaje:
+                        <span class="obligatorio">(*)</span>
+                    </label>
+
+                </p>
+
+                <p class="textarea_contacto">
+                    <textarea cols="72" rows="10" dirname="../log" class="textarea_contacto" name="introducir_mensaje" id="mensaje" required="required" placeholder="Dejame tu comentario..."></textarea>
+                </p>
+
+                <script type="text/javascript">
+                    let valida_boton = validar();
+
+                </script>
+
+                <center>
+                    <button type="submit" class="button_contacto" name="enviar_formulario" id="enviar" onclick="javascript:guardarForm()">Enviar</button>
+
+                </center>
+
+                <p class="aviso">
+                    <span class="required">(*) Los campos son requeridos.</span>
+
+                </p>
+
+                <script type="text/javascript">
+                    if (enviar.guardarForm) {
+                        alert("Comentario enviado!");
+                        this.window.close;
+
+                    }
+                    
+                </script>
+
+            </form>
+
+        </div>
+
+    </div>
+
+    <footer>
+
+        <div id="f" class="tipo_pie_pop">
+            <img src="../img/perfil_abajo.jpg" width="565" height="5" />
+
+            <center>
+                <br />
+                (C) 2022 Julián Marcelo Zappia | Todos los derechos reservados | Prohibida su publicación, replicación y/o difusión<br />
+                Protegido por la Ley de Datos Personales | Sitio creado por Julián Marcelo Zappia<br />
+                Integración Clases 1, 2, 3, 4, 7, 8, 9, 10 | Desarrollo Full Stack Web | UTN BA<br />
+                <br />
+            </center>
+
+        </div>
+
+    </footer>
+
+</body>
+
+</html>

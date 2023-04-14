@@ -1,0 +1,27 @@
+{
+  "name": "web-app-meli",
+  "version": "0.0.0",
+  "description": "WebAppMELI",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.36.0",
+    "gmelisdk": "^1.1.16",
+    "hubot-mercadolibre_cl": "^1.0.0",
+    "meli-nodejs-sdk": "^0.1.1",
+    "meli-sdk": "^1.0.3",
+    "meli-sdk-node": "^0.0.2",
+    "melif": "^1.0.6",
+    "mercadolibre": "^0.0.13",
+    "mercadolibre-api": "^0.6.3",
+    "mercadolibre-api-cg": "^1.0.1",
+    "mercadolibre-new": "^1.0.0",
+    "mercadolibre-node-sdk": "^1.0.3",
+    "mercadolibre-nodejs-sdk": "^3.0.1",
+    "mercadolibre-sdk": "^1.1.0",
+    "ml_test_user": "^1.0.4"
+  },
+  "eslintConfig": {}
+}

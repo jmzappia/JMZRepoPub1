@@ -1,0 +1,32 @@
+<Project>
+  <Import Project="$([MSBuild]::GetPathOfFileAbove('Directory.Build.props', '$(MSBuildThisFileDirectory)'))" />
+  <Import Project="..\build\MicroBuild.Plugins.props" />
+
+  <PropertyGroup>
+    <!-- Needed to avoid build errors on VS2022, which doesn't support 4.0 (the default if TFV isn't specified) -->
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+
+    <TargetType>build-manifest</TargetType>
+    <FinalizeManifest>true</FinalizeManifest>
+    <FinalizeSkipLayout>true</FinalizeSkipLayout>
+    <ProductName>LibraryManagerPackagesManifest</ProductName>
+    <ProductFamily>vs</ProductFamily>
+    <ProductFamilyVersion>2016</ProductFamilyVersion>
+    <ComputeRelativeUrls>true</ComputeRelativeUrls>
+    <OutputPath>$(BaseOutputPath)\setup</OutputPath>
+
+    <SBOMSourceDirectory>$(ManifestOutputPath)\_manifest\spdx_2.2</SBOMSourceDirectory>
+    <SBOMDestinationDirectory>$(RepoRoot)\bin\sbom</SBOMDestinationDirectory>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <MergeManifest Include="$(ManifestOutputPath)\*.json"
+                   SBOMFileLocation="$(SBOMSourceDirectory)\manifest.spdx.json"
+                   SBOMFileDestPath="$(SBOMDestinationDirectory)">
+      <RelativeUrl>/</RelativeUrl>
+    </MergeManifest>
+  </ItemGroup>
+
+  <Import Project="$(MicroBuildPluginDirectory)\Microsoft.VisualStudioEng.MicroBuild.Plugins.SwixBuild.*\build\Microsoft.VisualStudioEng.MicroBuild.Plugins.SwixBuild.targets"/>
+
+</Project>

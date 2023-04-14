@@ -1,0 +1,47 @@
+{
+  "name": "y",
+  "version": "1.0.1",
+  "description": "Use ECMA6 import/export syntax from within NodeJS (simply require this module)",
+  "main": "index.html",
+  "typepropiedad": "module",
+
+  "dependencies": {
+    "esbuild": "^0.15.5",
+    "hooks": "^0.3.2",
+    "node-hook": "^0.4.1",
+    "node-import": "^0.9.2",
+    "require": "^2.4.20",
+    "ts-node": "^10.9.1",
+    "ts-node-dev": "^2.0.0",
+    "use-custom-hooks": "^1.10.2",
+    "use-the-hook": "^2.2.1"
+  },
+
+  "scripts": {
+    "test": ""
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Macmee/import-export.git"
+  },
+
+  "keywords": [
+    "import",
+    "export",
+    "module",
+    "ecma6",
+    "commonjs"
+  ],
+
+  "author": "= <=> (=)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Macmee/import-export/issues"
+  },
+  "homepage": "https://github.com/Macmee/import-export",
+  "type": "module",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}

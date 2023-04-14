@@ -1,0 +1,3 @@
+D:\Repos\JMZRepoPub1\03 - Tests de Evaluación\DISBYTE SA\04 - Tercera Etapa\MercadoLibre\WebAppMELI\obj\Debug\WebAppMELI.njsproj.AssemblyReference.cache
+D:\Repos\JMZRepoPub1\03 - Tests de Evaluación\DISBYTE SA\04 - Tercera Etapa\MercadoLibre\WebAppMELI\obj\Debug\WebAppMELI.njsproj.CoreCompileInputs.cache
+D:\Repos\JMZRepoPub1\03 - Tests de Evaluación\DISBYTE SA\04 - Tercera Etapa\MercadoLibre\WebAppMELI\bin\Microsoft.NodejsTools.WebRole.dll

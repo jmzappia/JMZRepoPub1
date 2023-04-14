@@ -1,0 +1,193 @@
+.body_contacto {
+    background-color: white;
+    margin-top: 7px;
+    margin-left: 7px;
+    margin-bottom: 7px;
+    align-content: center;
+    font-family: 'Calibri', 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS';
+    font-size: 15px;
+    line-height: 20px;
+    font-display: auto;
+    clear: right;
+    color: darkblue;
+    overflow: auto;
+
+}
+
+
+.form_contacto {
+    background-color: white;
+    width: 500px;
+    height: auto;
+    margin-top: 7px;
+    border-radius: 10px;
+    padding-top: 0px;
+    padding-bottom: 7px;
+    padding-left: 7px;
+    font-family: 'Calibri', 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS';
+    font-size: 15px;
+    line-height: 20px;
+    font-display: auto;
+    clear: right;
+    color: black;
+
+}
+
+
+.input_contacto {
+    background-color: white;
+    width: 520px;
+    height: 30px;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: darkblue;
+    margin-top: 10px;
+    padding-left: 30px;
+    margin-bottom: 20px;
+    font-family: 'Calibri', 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS';
+    font-size:15px;
+    line-height:20px;
+
+}
+
+
+textarea_contacto {
+    background-color: white;
+    width: 520px;
+    height: 300px;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #ab4493;
+    margin-top: 10px;
+    padding-left: 30px;
+    margin-bottom: 20px;
+    padding-top: 15px;
+    font-family: 'Calibri', 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS';
+    font-size: 15px;
+    line-height: 20px;
+    resize:none;
+
+}
+
+
+.label_contacto {
+    display: block;
+    float: inline-start;
+    font-family: 'Calibri', 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS';
+
+}
+
+
+.button_contacto {
+    margin-top: 2px;
+    margin-left: 5px;
+    padding: .500rem .50rem;
+    border-radius: .25rem;
+    font-family: 'Calibri', 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS';
+    font-size: 17px;
+    vertical-align: auto;
+    background-color: darkblue;
+    color: white;
+    border: hidden;
+    transition: background-color .15s ease-in-out;
+    width: 200px;
+    height: 40px;
+}
+
+
+.button_contacto:hover, .btn_contacto:focus {
+    background-color: dodgerblue;
+
+}
+
+
+.button_contacto:active {
+    background-color: darkblue;
+
+}
+
+
+.button_texto {
+    font-family: 'Calibri', 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS';
+    font-size: 17px;
+    vertical-align: middle;
+    color: white;
+
+}
+
+
+.span_contacto {
+    color: white;
+
+}
+
+
+.aviso_contacto {
+    font-size: 13px;
+    color: #0e0e0e;
+
+}
+
+
+.h1_cntacto {
+    font-size: 39px;
+    text-align: left;
+    padding-bottom: 20px;
+    color: #ab4493;
+
+}
+
+
+.h3_contacto {
+    font-size: 16px;
+    padding-bottom: 30px;
+    color: #0e0e0e;
+
+}
+
+
+.p_contacto {
+    font-size: 14px;
+    color: #0e0e0e;
+
+}
+
+
+.webkit-input-placeholder {
+    color: #a8a8a8;
+
+}
+
+
+.webkit-textarea-placeholder {
+    color: #a8a8a8;
+
+}
+
+
+.form_contacto input:focus {
+    outline: 0;
+    border: 1px solid #97d848;
+
+}
+
+
+.form_contacto textarea:focus {
+    outline: 0;
+    border: 1px solid #97d848;
+
+}
+
+
+.tipo_pie_pop {
+    margin-top: 7px;
+    margin-left: 7px;
+    font-family: 'Calibri', 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS';
+    font-size: 12px;
+    line-height: 15px;
+    color: darkblue;
+    overflow: hidden;
+
+}
