@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SSLVpnTunnels>
+    <Tunnel name="VPN" start_time="2022-12-20 09:45:02" log_file="FCDiagData\VPN\SSLVpnTunnelLog_0.xml" stop_time="2022-12-20 09:45:50" />
+</SSLVpnTunnels>

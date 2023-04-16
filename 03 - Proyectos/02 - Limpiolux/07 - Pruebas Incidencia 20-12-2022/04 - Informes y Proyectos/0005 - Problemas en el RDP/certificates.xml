@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Certificates>
+    <cert_stores>
+        <store_location name="local system">
+            <store name="MY">
+                <cert name="localhost" issuer="localhost" friendly_name="IIS Express Development Certificate" />
+            </store>
+            <store name="ROOT">
+                <cert name="FCTEMS8821007338" issuer="FCTEMS8821007338" />
+                <cert name="Microsoft Identity Verification Root Certificate Authority 2020" issuer="Microsoft Identity Verification Root Certificate Authority 2020" />
+                <cert name="DigiCert Trusted Root G4" issuer="DigiCert Trusted Root G4" />
+                <cert name="GlobalSign" issuer="GlobalSign" />
+                <cert name="Microsoft Root Certificate Authority" issuer="Microsoft Root Certificate Authority" friendly_name="Microsoft Root Certificate Authority" />
+                <cert name="Thawte Timestamping CA" issuer="Thawte Timestamping CA" friendly_name="Thawte Timestamping CA" />
+                <cert name="DigiCert Global Root CA" issuer="DigiCert Global Root CA" />
+                <cert name="Microsoft Root Authority" issuer="Microsoft Root Authority" friendly_name="Microsoft Root Authority" />
+                <cert name="Symantec Enterprise Mobile Root for Microsoft" issuer="Symantec Enterprise Mobile Root for Microsoft" />
+                <cert name="Microsoft Root Certificate Authority 2011" issuer="Microsoft Root Certificate Authority 2011" friendly_name="Microsoft Root Certificate Authority 2011" />
+                <cert name="GlobalSign" issuer="GlobalSign" />
+                <cert name="Microsoft Authenticode(tm) Root Authority" issuer="Microsoft Authenticode(tm) Root Authority" friendly_name="Microsoft Authenticode(tm) Root" />
+                <cert name="Avira Security NetProtection Root 2" issuer="Avira Security NetProtection Root 2" />
+                <cert name="Microsoft Root Certificate Authority 2010" issuer="Microsoft Root Certificate Authority 2010" friendly_name="Microsoft Root Certificate Authority 2010" />
+                <cert name="VeriSign Universal Root Certification Authority" issuer="VeriSign Universal Root Certification Authority" />
+                <cert name="Microsoft ECC TS Root Certificate Authority 2018" issuer="Microsoft ECC TS Root Certificate Authority 2018" friendly_name="Microsoft ECC TS Root Certificate Authority 2018" />
+                <cert name="Copyright (c) 1997 Microsoft Corp." issuer="Copyright (c) 1997 Microsoft Corp." friendly_name="Microsoft Timestamp Root" />
+                <cert name="NO LIABILITY ACCEPTED, (c)97 VeriSign, Inc." issuer="NO LIABILITY ACCEPTED, (c)97 VeriSign, Inc." friendly_name="VeriSign Time Stamping CA" />
+                <cert name="Microsoft ECC Product Root Certificate Authority 2018" issuer="Microsoft ECC Product Root Certificate Authority 2018" friendly_name="Microsoft ECC Product Root Certificate Authority 2018" />
+                <cert name="DigiCert Assured ID Root CA" issuer="DigiCert Assured ID Root CA" />
+                <cert name="Microsoft Time Stamp Root Certificate Authority 2014" issuer="Microsoft Time Stamp Root Certificate Authority 2014" friendly_name="Microsoft Time Stamp Root Certificate Authority 2014" />
+                <cert name="Actalis Authentication Root CA" issuer="Actalis Authentication Root CA" friendly_name="Actalis Authentication Root CA" />
+                <cert name="DigiCert Global Root G2" issuer="DigiCert Global Root G2" friendly_name="DigiCert Global Root G2" />
+                <cert name="QuoVadis Root Certification Authority" issuer="QuoVadis Root Certification Authority" friendly_name="QuoVadis Root Certification Authority" />
+                <cert name="DigiCert Trusted Root G4" issuer="DigiCert Trusted Root G4" friendly_name="DigiCert Trusted Root G4" />
+                <cert name="DST Root CA X3" issuer="DST Root CA X3" friendly_name="DST Root CA X3" />
+                <cert name="GlobalSign" issuer="GlobalSign" friendly_name="GlobalSign Root CA - R3" />
+                <cert name="Baltimore CyberTrust Root" issuer="Baltimore CyberTrust Root" friendly_name="DigiCert Baltimore Root" />
+                <cert name="Certum Trusted Network CA 2" issuer="Certum Trusted Network CA 2" friendly_name="Certum Trusted Network CA 2" />
+                <cert name="AAA Certificate Services" issuer="AAA Certificate Services" friendly_name="Sectigo (AAA)" />
+                <cert name="ISRG Root X1" issuer="ISRG Root X1" friendly_name="ISRG Root X1" />
+                <cert name="SSL.com Root Certification Authority RSA" issuer="SSL.com Root Certification Authority RSA" friendly_name="SSL.com Root Certification Authority RSA" />
+                <cert name="Starfield Root Certificate Authority - G2" issuer="Starfield Root Certificate Authority - G2" friendly_name="Starfield Root Certificate Authority – G2" />
+                <cert name="Entrust Root Certification Authority" issuer="Entrust Root Certification Authority" friendly_name="Entrust" />
+                <cert name="GlobalSign Root CA" issuer="GlobalSign Root CA" friendly_name="GlobalSign Root CA - R1" />
+                <cert name="COMODO RSA Certification Authority" issuer="COMODO RSA Certification Authority" friendly_name="Sectigo (formerly Comodo CA)" />
+                <cert name="Starfield Class 2 Certification Authority" issuer="Starfield Class 2 Certification Authority" friendly_name="Starfield Class 2 Certification Authority" />
+                <cert name="DigiCert Global Root CA" issuer="DigiCert Global Root CA" friendly_name="DigiCert" />
+                <cert name="thawte Primary Root CA" issuer="thawte Primary Root CA" friendly_name="thawte" />
+                <cert name="Entrust Root Certification Authority - G2" issuer="Entrust Root Certification Authority - G2" friendly_name="Entrust.net" />
+                <cert name="DigiCert Global Root G3" issuer="DigiCert Global Root G3" friendly_name="DigiCert Global Root G3" />
+                <cert name="Class 3 Public Primary Certification Authority" issuer="Class 3 Public Primary Certification Authority" friendly_name="VeriSign Class 3 Public Primary CA" />
+                <cert name="Thawte Premium Server CA" issuer="Thawte Premium Server CA" friendly_name="thawte" />
+                <cert name="DigiCert High Assurance EV Root CA" issuer="DigiCert High Assurance EV Root CA" friendly_name="DigiCert" />
+                <cert name="Starfield Services Root Certificate Authority" issuer="Starfield Services Root Certificate Authority" friendly_name="Starfield Technologies Inc." />
+                <cert name="Hotspot 2.0 Trust Root CA - 03" issuer="Hotspot 2.0 Trust Root CA - 03" friendly_name="Hotspot 2.0 Trust Root CA - 03" />
+                <cert name="Entrust.net Certification Authority (2048)" issuer="Entrust.net Certification Authority (2048)" friendly_name="Entrust (2048)" />
+                <cert name="GlobalSign Code Signing Root R45" issuer="GlobalSign Code Signing Root R45" friendly_name="GlobalSign Code Signing Root R45" />
+                <cert name="VeriSign Class 3 Public Primary Certification Authority - G5" issuer="VeriSign Class 3 Public Primary Certification Authority - G5" friendly_name="VeriSign" />
+                <cert name="Go Daddy Root Certificate Authority - G2" issuer="Go Daddy Root Certificate Authority - G2" friendly_name="Go Daddy Root Certificate Authority – G2" />
+                <cert name="Security Communication RootCA1" issuer="Security Communication RootCA1" friendly_name="SECOM Trust Systems CO LTD" />
+                <cert name="USERTrust RSA Certification Authority" issuer="USERTrust RSA Certification Authority" friendly_name="Sectigo" />
+                <cert name="Go Daddy Class 2 Certification Authority" issuer="Go Daddy Class 2 Certification Authority" friendly_name="Go Daddy Class 2 Certification Authority" />
+                <cert name="Certum Trusted Network CA" issuer="Certum Trusted Network CA" friendly_name="Certum Trusted Network CA" />
+                <cert name="DigiCert Assured ID Root CA" issuer="DigiCert Assured ID Root CA" friendly_name="DigiCert" />
+                <cert name="AddTrust External CA Root" issuer="AddTrust External CA Root" friendly_name="Sectigo (AddTrust)" />
+                <cert name="limpiolux-SERVER-CA" issuer="limpiolux-SERVER-CA" />
+                <cert name="CA-Limpiolux" issuer="CA-Limpiolux" />
+            </store>
+            <store name="CA">
+                <cert name="Root Agency" issuer="Root Agency" />
+                <cert name="www.verisign.com/CPS Incorp.by Ref. LIABILITY LTD.(c)97 VeriSign" issuer="Class 3 Public Primary Certification Authority" />
+                <cert name="Microsoft TPM Root Certificate Authority 2014" issuer="Microsoft TPM Root Certificate Authority 2014" />
+                <cert name="EUS-INTC-KEYID-E7083F22152A7492EC59B0C4243437648B15DBB7" issuer="Microsoft TPM Root Certificate Authority 2014" />
+                <cert name="DigiCert SHA2 Assured ID Code Signing CA" issuer="DigiCert Assured ID Root CA" />
+                <cert name="Microsoft Windows Hardware Compatibility" issuer="Microsoft Root Authority" />
+                <cert name="limpiolux-SERVER-CA" issuer="limpiolux-SERVER-CA" />
+                <cert name="CA-Limpiolux" issuer="CA-Limpiolux" />
+            </store>
+        </store_location>
+        <store_location name="current user">
+            <store name="MY">
+                <cert name="B6BDC2170BE24F388F462DDF3078FE3B" issuer="FCTEMS8821007338" />
+                <cert name="Adobe Content Certificate 10-5" issuer="Adobe Intermediate CA 10-3" />
+                <cert name="2cbaa221-31a0-4340-95b6-4ac1d8761663" issuer="MS-Organization-Access" />
+                <cert name="Adobe Intermediate CA 10-3" issuer="Adobe Root CA 10-3" />
+                <cert name="Adobe Intermediate CA 10-4" issuer="Adobe Root CA 10-3" />
+                <cert name="Julian Zappia" issuer="CA-Limpiolux" />
+                <cert name="Adobe Content Certificate 10-6" issuer="Adobe Intermediate CA 10-4" />
+                <cert name="localhost" issuer="localhost" friendly_name="ASP.NET Core HTTPS development certificate" />
+            </store>
+            <store name="ROOT">
+                <cert name="FCTEMS8821007338" issuer="FCTEMS8821007338" />
+                <cert name="Microsoft Identity Verification Root Certificate Authority 2020" issuer="Microsoft Identity Verification Root Certificate Authority 2020" />
+                <cert name="DigiCert Trusted Root G4" issuer="DigiCert Trusted Root G4" />
+                <cert name="GlobalSign" issuer="GlobalSign" />
+                <cert name="Microsoft Root Certificate Authority" issuer="Microsoft Root Certificate Authority" friendly_name="Microsoft Root Certificate Authority" />
+                <cert name="Thawte Timestamping CA" issuer="Thawte Timestamping CA" friendly_name="Thawte Timestamping CA" />
+                <cert name="DigiCert Global Root CA" issuer="DigiCert Global Root CA" />
+                <cert name="Microsoft Root Authority" issuer="Microsoft Root Authority" friendly_name="Microsoft Root Authority" />
+                <cert name="Symantec Enterprise Mobile Root for Microsoft" issuer="Symantec Enterprise Mobile Root for Microsoft" />
+                <cert name="Microsoft Root Certificate Authority 2011" issuer="Microsoft Root Certificate Authority 2011" friendly_name="Microsoft Root Certificate Authority 2011" />
+                <cert name="GlobalSign" issuer="GlobalSign" />
+                <cert name="Microsoft Authenticode(tm) Root Authority" issuer="Microsoft Authenticode(tm) Root Authority" friendly_name="Microsoft Authenticode(tm) Root" />
+                <cert name="Avira Security NetProtection Root 2" issuer="Avira Security NetProtection Root 2" />
+                <cert name="Microsoft Root Certificate Authority 2010" issuer="Microsoft Root Certificate Authority 2010" friendly_name="Microsoft Root Certificate Authority 2010" />
+                <cert name="VeriSign Universal Root Certification Authority" issuer="VeriSign Universal Root Certification Authority" />
+                <cert name="Microsoft ECC TS Root Certificate Authority 2018" issuer="Microsoft ECC TS Root Certificate Authority 2018" friendly_name="Microsoft ECC TS Root Certificate Authority 2018" />
+                <cert name="Copyright (c) 1997 Microsoft Corp." issuer="Copyright (c) 1997 Microsoft Corp." friendly_name="Microsoft Timestamp Root" />
+                <cert name="NO LIABILITY ACCEPTED, (c)97 VeriSign, Inc." issuer="NO LIABILITY ACCEPTED, (c)97 VeriSign, Inc." friendly_name="VeriSign Time Stamping CA" />
+                <cert name="Microsoft ECC Product Root Certificate Authority 2018" issuer="Microsoft ECC Product Root Certificate Authority 2018" friendly_name="Microsoft ECC Product Root Certificate Authority 2018" />
+                <cert name="DigiCert Assured ID Root CA" issuer="DigiCert Assured ID Root CA" />
+                <cert name="Microsoft Time Stamp Root Certificate Authority 2014" issuer="Microsoft Time Stamp Root Certificate Authority 2014" friendly_name="Microsoft Time Stamp Root Certificate Authority 2014" />
+                <cert name="Actalis Authentication Root CA" issuer="Actalis Authentication Root CA" friendly_name="Actalis Authentication Root CA" />
+                <cert name="DigiCert Global Root G2" issuer="DigiCert Global Root G2" friendly_name="DigiCert Global Root G2" />
+                <cert name="QuoVadis Root Certification Authority" issuer="QuoVadis Root Certification Authority" friendly_name="QuoVadis Root Certification Authority" />
+                <cert name="DigiCert Trusted Root G4" issuer="DigiCert Trusted Root G4" friendly_name="DigiCert Trusted Root G4" />
+                <cert name="DST Root CA X3" issuer="DST Root CA X3" friendly_name="DST Root CA X3" />
+                <cert name="GlobalSign" issuer="GlobalSign" friendly_name="GlobalSign Root CA - R3" />
+                <cert name="Baltimore CyberTrust Root" issuer="Baltimore CyberTrust Root" friendly_name="DigiCert Baltimore Root" />
+                <cert name="Certum Trusted Network CA 2" issuer="Certum Trusted Network CA 2" friendly_name="Certum Trusted Network CA 2" />
+                <cert name="AAA Certificate Services" issuer="AAA Certificate Services" friendly_name="Sectigo (AAA)" />
+                <cert name="ISRG Root X1" issuer="ISRG Root X1" friendly_name="ISRG Root X1" />
+                <cert name="SSL.com Root Certification Authority RSA" issuer="SSL.com Root Certification Authority RSA" friendly_name="SSL.com Root Certification Authority RSA" />
+                <cert name="Starfield Root Certificate Authority - G2" issuer="Starfield Root Certificate Authority - G2" friendly_name="Starfield Root Certificate Authority – G2" />
+                <cert name="Entrust Root Certification Authority" issuer="Entrust Root Certification Authority" friendly_name="Entrust" />
+                <cert name="GlobalSign Root CA" issuer="GlobalSign Root CA" friendly_name="GlobalSign Root CA - R1" />
+                <cert name="COMODO RSA Certification Authority" issuer="COMODO RSA Certification Authority" friendly_name="Sectigo (formerly Comodo CA)" />
+                <cert name="Starfield Class 2 Certification Authority" issuer="Starfield Class 2 Certification Authority" friendly_name="Starfield Class 2 Certification Authority" />
+                <cert name="DigiCert Global Root CA" issuer="DigiCert Global Root CA" friendly_name="DigiCert" />
+                <cert name="thawte Primary Root CA" issuer="thawte Primary Root CA" friendly_name="thawte" />
+                <cert name="Entrust Root Certification Authority - G2" issuer="Entrust Root Certification Authority - G2" friendly_name="Entrust.net" />
+                <cert name="DigiCert Global Root G3" issuer="DigiCert Global Root G3" friendly_name="DigiCert Global Root G3" />
+                <cert name="Class 3 Public Primary Certification Authority" issuer="Class 3 Public Primary Certification Authority" friendly_name="VeriSign Class 3 Public Primary CA" />
+                <cert name="Thawte Premium Server CA" issuer="Thawte Premium Server CA" friendly_name="thawte" />
+                <cert name="DigiCert High Assurance EV Root CA" issuer="DigiCert High Assurance EV Root CA" friendly_name="DigiCert" />
+                <cert name="Starfield Services Root Certificate Authority" issuer="Starfield Services Root Certificate Authority" friendly_name="Starfield Technologies Inc." />
+                <cert name="Hotspot 2.0 Trust Root CA - 03" issuer="Hotspot 2.0 Trust Root CA - 03" friendly_name="Hotspot 2.0 Trust Root CA - 03" />
+                <cert name="Entrust.net Certification Authority (2048)" issuer="Entrust.net Certification Authority (2048)" friendly_name="Entrust (2048)" />
+                <cert name="GlobalSign Code Signing Root R45" issuer="GlobalSign Code Signing Root R45" friendly_name="GlobalSign Code Signing Root R45" />
+                <cert name="VeriSign Class 3 Public Primary Certification Authority - G5" issuer="VeriSign Class 3 Public Primary Certification Authority - G5" friendly_name="VeriSign" />
+                <cert name="Go Daddy Root Certificate Authority - G2" issuer="Go Daddy Root Certificate Authority - G2" friendly_name="Go Daddy Root Certificate Authority – G2" />
+                <cert name="Security Communication RootCA1" issuer="Security Communication RootCA1" friendly_name="SECOM Trust Systems CO LTD" />
+                <cert name="USERTrust RSA Certification Authority" issuer="USERTrust RSA Certification Authority" friendly_name="Sectigo" />
+                <cert name="Go Daddy Class 2 Certification Authority" issuer="Go Daddy Class 2 Certification Authority" friendly_name="Go Daddy Class 2 Certification Authority" />
+                <cert name="Certum Trusted Network CA" issuer="Certum Trusted Network CA" friendly_name="Certum Trusted Network CA" />
+                <cert name="DigiCert Assured ID Root CA" issuer="DigiCert Assured ID Root CA" friendly_name="DigiCert" />
+                <cert name="AddTrust External CA Root" issuer="AddTrust External CA Root" friendly_name="Sectigo (AddTrust)" />
+                <cert name="limpiolux-SERVER-CA" issuer="limpiolux-SERVER-CA" />
+                <cert name="CA-Limpiolux" issuer="CA-Limpiolux" />
+            </store>
+            <store name="CA">
+                <cert name="Entrust Certification Authority - L1K" issuer="Entrust Root Certification Authority - G2" />
+                <cert name="ZeroSSL RSA Domain Secure Site CA" issuer="USERTrust RSA Certification Authority" />
+                <cert name="DigiCert Trusted G4 RSA4096 SHA256 TimeStamping CA" issuer="DigiCert Trusted Root G4" />
+                <cert name="COMODO RSA Code Signing CA" issuer="COMODO RSA Certification Authority" />
+                <cert name="Microsoft Code Signing PCA 2010" issuer="Microsoft Root Certificate Authority 2010" />
+                <cert name="GoGetSSL RSA Codesigning CA" issuer="USERTrust RSA Certification Authority" />
+                <cert name="DigiCert SHA2 Secure Server CA" issuer="DigiCert Global Root CA" />
+                <cert name="Microsoft Time-Stamp PCA 2010" issuer="Microsoft Root Certificate Authority 2010" />
+                <cert name="Sectigo RSA Domain Validation Secure Server CA" issuer="USERTrust RSA Certification Authority" />
+                <cert name="Go Daddy Secure Certificate Authority - G2" issuer="Go Daddy Root Certificate Authority - G2" />
+                <cert name="Sectigo RSA Time Stamping CA" issuer="USERTrust RSA Certification Authority" />
+                <cert name="Root Agency" issuer="Root Agency" />
+                <cert name="www.verisign.com/CPS Incorp.by Ref. LIABILITY LTD.(c)97 VeriSign" issuer="Class 3 Public Primary Certification Authority" />
+                <cert name="Microsoft TPM Root Certificate Authority 2014" issuer="Microsoft TPM Root Certificate Authority 2014" />
+                <cert name="EUS-INTC-KEYID-E7083F22152A7492EC59B0C4243437648B15DBB7" issuer="Microsoft TPM Root Certificate Authority 2014" />
+                <cert name="DigiCert SHA2 Assured ID Code Signing CA" issuer="DigiCert Assured ID Root CA" />
+                <cert name="Microsoft Windows Hardware Compatibility" issuer="Microsoft Root Authority" />
+                <cert name="limpiolux-SERVER-CA" issuer="limpiolux-SERVER-CA" />
+                <cert name="CA-Limpiolux" issuer="CA-Limpiolux" />
+            </store>
+        </store_location>
+    </cert_stores>
+    <fct_folder name="local" />
+    <fct_folder name="ca" />
+</Certificates>

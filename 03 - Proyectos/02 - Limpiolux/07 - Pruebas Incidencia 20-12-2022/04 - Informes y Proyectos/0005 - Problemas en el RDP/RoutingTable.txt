@@ -1,0 +1,56 @@
+===========================================================================
+ILista de interfaces
+  3...00 09 0f aa 00 01 ......Fortinet SSL VPN Virtual Ethernet Adapter
+ 11...50 81 40 b8 40 0a ......Realtek PCIe GbE Family Controller
+ 16...ce 6b 1e 30 cf 4f ......Microsoft Wi-Fi Direct Virtual Adapter
+  7...ee 6b 1e 30 cf 4f ......Microsoft Wi-Fi Direct Virtual Adapter #2
+  4...00 09 0f fe 00 01 ......Fortinet Virtual Ethernet Adapter (NDIS 6.30)
+ 17...cc 6b 1e 30 cf 4f ......Realtek RTL8822CE 802.11ac PCIe Adapter
+ 12...cc 6b 1e 30 cf 50 ......Bluetooth Device (Personal Area Network)
+  1...........................Software Loopback Interface 1
+===========================================================================
+
+IPv4 Tabla de enrutamiento
+===========================================================================
+Rutas activas:
+Destino de red        M scara de red   Puerta de enlace   Interfaz  M‚trica
+          0.0.0.0          0.0.0.0      192.168.1.1     192.168.1.42     35
+        10.10.0.0    255.255.255.0     172.30.22.11     172.30.22.10      1
+        10.90.0.0    255.255.255.0     172.30.22.11     172.30.22.10      1
+        127.0.0.0        255.0.0.0      En v¡nculo         127.0.0.1    331
+        127.0.0.1  255.255.255.255      En v¡nculo         127.0.0.1    331
+  127.255.255.255  255.255.255.255      En v¡nculo         127.0.0.1    331
+     172.30.22.10  255.255.255.255      En v¡nculo      172.30.22.10    257
+   181.10.198.154  255.255.255.255      192.168.1.1     192.168.1.42     35
+      192.168.0.0      255.255.0.0     172.30.22.11     172.30.22.10      1
+      192.168.1.0    255.255.255.0      En v¡nculo      192.168.1.42    291
+      192.168.1.1  255.255.255.255      En v¡nculo      192.168.1.42     35
+     192.168.1.42  255.255.255.255      En v¡nculo      192.168.1.42    291
+    192.168.1.255  255.255.255.255      En v¡nculo      192.168.1.42    291
+        224.0.0.0        240.0.0.0      En v¡nculo         127.0.0.1    331
+        224.0.0.0        240.0.0.0      En v¡nculo      192.168.1.42    291
+        224.0.0.0        240.0.0.0      En v¡nculo      172.30.22.10    257
+  255.255.255.255  255.255.255.255      En v¡nculo         127.0.0.1    331
+  255.255.255.255  255.255.255.255      En v¡nculo      192.168.1.42    291
+  255.255.255.255  255.255.255.255      En v¡nculo      172.30.22.10    257
+===========================================================================
+Rutas persistentes:
+  Ninguno
+
+IPv6 Tabla de enrutamiento
+===========================================================================
+Rutas activas:
+ Cuando destino de red m‚trica      Puerta de enlace
+  1    331 ::1/128                  En v¡nculo
+ 17    291 fe80::/64                En v¡nculo
+  3    261 fe80::/64                En v¡nculo
+ 17    291 fe80::763a:213f:9f4f:a22c/128
+                                    En v¡nculo
+  3    261 fe80::e94d:23:7f50:794e/128
+                                    En v¡nculo
+  1    331 ff00::/8                 En v¡nculo
+ 17    291 ff00::/8                 En v¡nculo
+  3    261 ff00::/8                 En v¡nculo
+===========================================================================
+Rutas persistentes:
+  Ninguno

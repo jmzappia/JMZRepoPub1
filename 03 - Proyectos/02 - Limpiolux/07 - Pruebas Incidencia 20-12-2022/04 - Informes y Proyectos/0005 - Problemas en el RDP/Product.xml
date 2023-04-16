@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProductInfo installed="true" version="7.0.1.0083" product_code="{5EB98A24-BFFA-4433-81CF-A496861CC299}" inst_dir="C:\Program Files\Fortinet\FortiClient\">
+    <Feature name="AV" installed="true" />
+    <Feature name="VPN" installed="true" />
+    <Feature name="WF" installed="true" />
+</ProductInfo>

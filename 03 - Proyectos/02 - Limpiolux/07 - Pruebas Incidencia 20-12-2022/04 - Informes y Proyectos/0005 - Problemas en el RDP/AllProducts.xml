@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<InstalledProducts>
+    <Product code="{004672DD-C106-4013-B637-77EEB7366D43}" name="Microsoft .NET Targeting Pack - 7.0.0 (x64)" version="56.3.50341" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{00EDB336-98F9-40B5-9618-9488AA1940FB}" name="Microsoft SQL Server Migration Assistant for Access" version="9.2.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{010792BA-551A-3AC0-A7EF-0FAB4156C382}" name="Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664" version="12.0.40664" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{02594FB6-9905-CBB9-10E8-EFCFB7122D7C}" name="Windows SDK Desktop Tools x86" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{03171E2B-59AB-46A3-9084-23E51C0D2010}" name="Microsoft .NET AppHost Pack - 6.0.11 (x64_x86)" version="48.47.50420" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{04CA054C-2F40-44B0-8610-8D51EC9444FE}" name="Microsoft Azure Compute Emulator - v2.9.7" version="2.9.8999.43" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{04D84C30-B442-49D2-A139-B8AAA7ACD445}" name="vs_devenvsharedmsi" version="17.4.33006" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{053FAF1A-02A7-3BCE-B9F0-1033CAA40C57}" name="Microsoft ASP.NET Core 7.0.0 Targeting Pack (x64)" version="7.0.0.22518" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{0635CF1C-93EC-48CA-8FB7-75A01C6A1184}" name="CorelDRAW Graphics Suite 2021 - Common (x64)" version="23.1" publisher="Corel Corporation" inst_dir="" />
+    <Product code="{06CD45E6-FF5E-4D8E-BC01-B276A90DADF2}" name="Ghostscript GPL 8.64 (Msi Setup)" version="8.64" publisher="Corel Corporation" inst_dir="c:\Program Files (x86)\gs\gs8.64\" />
+    <Product code="{0731AF47-C7FC-4261-A041-2DF5C84990F9}" name="Microsoft.Maui.Core.Runtime.win (x64)" version="7.0.49.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{079233A2-1388-4D9C-B9FB-39296A0E0401}" name="Microsoft SQL Server Migration Assistant for Oracle" version="9.2.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{07A30B54-870D-4D46-86BC-7ED4E8266BBE}" name="icecap_collectionresources" version="17.4.33006" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{07C264CA-9C71-4E02-B76C-DCCA9F7F0537}" name="Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-arm (x64)" version="7.0.0.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{085B39AA-6B9D-4B67-88B4-F3F940206142}" name="SolarWinds Permissions Analyzer for Active Directory" version="21.3.0" publisher="SolarWinds" inst_dir="" />
+    <Product code="{08A76600-E2BE-4B94-BFAE-112786C036F8}" name="Microsoft.NETCore.App.Runtime.Mono.iossimulator-x86 (x64)" version="6.0.11.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{08C9E30B-298C-47FB-8C21-14B65593770F}" name="Visual C++ Library CRT Desktop Appx Package" version="14.34.31933" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{0A6B2B97-E369-4D98-9F62-5F55357BC1EF}" name="Microsoft.NET.Runtime.MonoAOTCompiler.Task (x64)" version="7.0.0.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{0B12F7E3-EDAA-AF92-20BB-88540FEF54BA}" name="Windows SDK DirectX x64 Remote" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{0B826206-3626-4E96-A675-0BDE6B8711B6}" name="VS Immersive Activate Helper" version="17.0.118.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{0C85743B-48E7-4948-96D6-C3BB90246418}" name="Microsoft Web Deploy 4.0" version="10.0.5923" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{0CFED2F8-EF60-4B23-BF67-590AEDB24AA9}" name="Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-arm64 (x64)" version="6.0.11.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{0D2DCFF8-7746-445B-B643-9E85ABE01173}" name="Microsoft Build of OpenJDK con Hotspot 11.0.12+7 (x64)" version="11.0.12.7" publisher="Microsoft" inst_dir="C:\Program Files\Microsoft\jdk-11.0.12.7-hotspot\" />
+    <Product code="{0DA313AA-554E-45CB-B053-D5E00A416F8E}" name="Microsoft.Maui.Controls.Ref.ios (x64)" version="7.0.49.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{0DE775A3-1C63-4210-9CDC-D23F5330D715}" name="vs_devenx64vmsi" version="17.4.33006" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{0E4D6ADD-4C45-4D99-900D-8F0F9C0E2411}" name="VS WCF Debugging" version="17.0.118.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{0F2D2736-F436-3F10-FB30-9D279F58305B}" name="WinRT Intellisense Mobile - en-us" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{0F5E7D7D-8969-DC1B-205D-024FB54A0417}" name="Windows SDK Signing Tools" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{0F83608E-8856-3377-8CA0-A33FC18F1825}" name="Microsoft Windows Communication Foundation Diagnostic Pack for x86" version="17.4.33006" publisher="Microsoft" inst_dir="" />
+    <Product code="{0FD1809D-688F-4ED2-B630-78D102F598B4}" name="CorelDRAW Graphics Suite 2021 - Font Manager (x64)" version="23.1" publisher="Corel Corporation" inst_dir="" />
+    <Product code="{0FD3FF86-793E-41E6-B0BE-8EAB0233D8EE}" name="Microsoft.NETCore.App.Runtime.Mono.iossimulator-arm64 (x64)" version="6.0.11.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{0FDF83A0-924C-4B8C-8C0A-AF48D737C6AB}" name=".NET Android Templates (x64)" version="33.0.4.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{101301DA-495A-4F9A-8417-BFA676F08057}" name="Microsoft.Maui.Essentials.Ref.android (x64)" version="7.0.49.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{10E164CE-B5CF-40F6-946E-8DFD4DC76D38}" name="Microsoft.Maui.Essentials.Ref.ios (x64)" version="7.0.49.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{10FDFCE6-CCA6-4470-8720-E64018D59916}" name="Microsoft.NETCore.App.Runtime.Mono.maccatalyst-x64 (x64)" version="6.0.11.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{11F3D40C-8E60-44C5-8336-4E7F67F965CF}" name="MySQL Examples and Samples 8.0" version="8.0.31" publisher="Oracle Corporation" inst_dir="C:\Program Files (x86)\MySQL\Samples and Examples 8.0" />
+    <Product code="{12702494-9E6A-3F5E-9441-2B7D258A639B}" name="Microsoft .NET CoreRuntime SDK" version="1.1.27004.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{12B0A225-610B-43DA-8585-E2EAD563D611}" name="vs_filehandler_amd64" version="17.4.33006" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{12C67924-9967-4AF5-888A-1962CBBCFA7A}" name="Microsoft.NETCore.App.Runtime.Mono.iossimulator-x86 (x64)" version="7.0.0.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{14705B25-5AC2-82AC-DB79-A35219016ABB}" name="Windows Team Extension SDK" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{1531A21C-13F8-4F5B-8B6D-841CF4473ADE}" name="Microsoft.iOS.Runtime.iossimulator-x86 (x64)" version="16.0.1478.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{15941C7F-810D-41DF-8C5A-8D0490277AFB}" name="Windows SDK AddOn" version="10.1.0.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{15FF6229-E3FA-324F-B7BC-855ADE2E4000}" name="Microsoft ASP.NET Core 6.0.11 Targeting Pack (x64)" version="6.0.11.22523" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{16064DCB-F2A4-4484-9A19-162E92FA4C63}" name="Microsoft .NET AppHost Pack - 7.0.0 (x64_arm64)" version="56.3.50341" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{1671CCF3-0C70-4C71-BBA2-83408AB325B5}" name="MySQL Connector C++ 8.0" version="8.0.31" publisher="Oracle Corporation" inst_dir="C:\Program Files\MySQL\Connector C++ 8.0\" />
+    <Product code="{167FE453-9020-43D2-B1A3-EF5717FA8CAE}" name="Microsoft.Android.Runtime.33.android-x86 (x64)" version="33.0.4.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{170DD847-223F-49AB-8C82-FF49DAEC1BB0}" name="Microsoft .NET Targeting Pack - 6.0.11 (x86)" version="48.47.50420" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{173847FF-DAF3-4D36-A274-85BB54E34982}" name="Microsoft.NET.Workload.Emscripten.net6.Manifest (x64)" version="56.31.50225" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{176AC6B0-1B9D-4257-94DD-02B006CBC779}" name="CorelDRAW Graphics Suite 2021 - IPM Content ES (x64)" version="23.0" publisher="Corel Corporation" inst_dir="c:\Program Files\Corel\CorelDRAW Graphics Suite 2021\" />
+    <Product code="{1784A8CD-F7FE-47E2-A87D-1F31E7242D0D}" name="Microsoft .NET Framework 4.7.2 Targeting Pack" version="4.7.03062" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{1879EB47-0086-44FA-8DF3-30C7183543A1}" name="Microsoft.MacCatalyst.Sdk (x64)" version="15.4.2372.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{192E20E1-D873-40DC-9D0B-0E46E651C583}" name="Microsoft Windows Desktop Runtime - 7.0.0 (x64)" version="56.3.50353" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{1977185E-706A-4595-89E7-57ACBAE56CBC}" name="Microsoft.Maui.Core.Ref.android (x64)" version="7.0.49.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{19EE9809-F1C8-4723-B43E-AAC1EF0253FD}" name="Microsoft .NET Toolset 7.0.100 (x64)" version="28.5.24432" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{1A457607-6262-3949-63D4-E1F85A3D95FD}" name="Windows SDK Desktop Libs x64" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{1AB2F81F-A360-4BE1-B68F-B50F0609A1AE}" name="vs_minshellx64msi" version="17.4.33006" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{1B0B9544-5D83-4B35-AC27-EFB17D35EE51}" name="Workflow Manager Client 1.0" version="2.1.10525.2" publisher="Microsoft Corporation" inst_dir="C:\Program Files\Reference Assemblies\Microsoft\Workflow Manager\1.0\" />
+    <Product code="{1BEEFEDD-E1B7-464E-9598-93E6FC56EA27}" name="CorelDRAW Graphics Suite 2021 - Models (x64)" version="23.0.1" publisher="Corel Corporation" inst_dir="" />
+    <Product code="{1D8E6291-B0D5-35EC-8441-6616F567A0F7}" name="Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219" version="10.0.40219" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{1DAACD18-4E07-4086-9586-F6C0B5C59574}" name="CorelDRAW Graphics Suite 2021 - Draw (x64)" version="23.1" publisher="Corel Corporation" inst_dir="" />
+    <Product code="{1E6FD90D-F267-3707-AF94-F7C8317A8BF6}" name="Microsoft ASP.NET Core 6.0.11 Shared Framework (x86)" version="6.0.11.22523" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{1EC0A6CE-CE4F-41B2-969B-73D53BFEDE5C}" name="Microsoft.Maui.Controls.Ref.win (x64)" version="7.0.49.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{1EF48E65-5B07-4502-B6C2-43BC8311DAC3}" name="vs_minshellinteropsharedmsi" version="17.4.33006" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{1FF69612-5A91-3565-7EE3-0539A04E3B8D}" name="Windows IoT Extension SDK Contracts" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{20B74F73-4216-4F7B-950F-6159E4400BB0}" name="Microsoft.iOS.Runtime.ios-arm64 (x64)" version="16.0.1478.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{22676F90-06C7-4DC0-96C2-FAE79AB306F4}" name="Intel® Hardware Accelerated Execution Manager" version="6.2.0" publisher="Intel Corporation" inst_dir="" />
+    <Product code="{22E13608-4DB0-4977-A267-3AAFA09CD54A}" name="ClickOnce Bootstrapper Package for Microsoft .NET Framework" version="4.8.09037" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{23074B75-C8E6-49E3-8CD9-4A6E47BEE886}" name="Microsoft Windows Desktop Targeting Pack - 7.0.0 (x86)" version="56.3.50353" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{242B85D2-9F98-49DD-9B29-80A5E3855C3D}" name="MySQL Router 8.0" version="8.0.31" publisher="Oracle Corporation" inst_dir="C:\Program Files\MySQL\MySQL Router 8.0\" />
+    <Product code="{24697401-4625-40DC-A9AB-9F44CA8671B4}" name="Microsoft SQL Server Migration Assistant for MySQL Extension Pack" version="9.2.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{24CA683D-8174-4EBF-AD4D-3F2DD7814716}" name="Microsoft Exchange Web Services Managed API 2.1" version="15.0.847.30" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{25A5E58C-C943-469C-BECE-DB57E9AD3D8E}" name="Microsoft.NETCore.App.Runtime.Mono.ios-arm64 (x64)" version="6.0.11.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{25FE65F9-FAE5-4918-8D98-7925A5ACA844}" name="Microsoft Windows Desktop Targeting Pack - 7.0.0 (x64)" version="56.3.50353" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{2635EEB8-0BDC-43F4-8477-3F3A17485D9A}" name="SQL Server Management Studio for Analysis Services" version="15.0.18424.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{26732A1D-49EF-4A43-9342-338027C7E43E}" name="vcpp_crt.redist.clickonce" version="14.34.31931" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{26778A28-6410-4CCA-B7D4-63A23C58526F}" name="sptools_Microsoft.VisualStudio.OfficeDeveloperTools.Msi" version="16.0.29931" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{26D20F81-7672-441B-9092-88E0D2409992}" name="Microsoft Visual C++ 2022 X86 Debug Runtime - 14.34.31931" version="14.34.31931" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{270FEB74-C5B3-4F4F-8AF0-D643063EE511}" name="Microsoft .NET Runtime - 7.0.0 (x86)" version="56.3.50341" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{2775BA11-ED2D-46FC-A27F-9E1A44BC2584}" name="Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-x86 (x64)" version="6.0.11.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{286C892D-FBAC-41ED-AFE7-37355E4FA5AA}" name=".NET MAUI Templates (x64)" version="7.0.49.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{28E7B326-6E09-4960-88C1-AF305A11665C}" name="Microsoft Visual C++ 2022 X64 Debug Runtime - 14.34.31931" version="14.34.31931" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{28FC9ED0-0724-49DC-8365-54DDFDB49B2B}" name="Microsoft.Maui.Core.Ref.win (x64)" version="7.0.49.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{2B04948F-C144-4CF0-B6A9-B21648F57DF4}" name="Microsoft.NETCore.App.Runtime.Mono.maccatalyst-x64 (x64)" version="7.0.0.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{2BBFD34C-C7E1-4A3D-8C06-B4B5E32EDE04}" name="Microsoft.AspNetCore.Components.WebView.Maui (x64)" version="7.0.49.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{2C1EAF52-E660-4991-BA26-7EECDE728889}" name="Microsoft.Maui.Controls.Ref.maccatalyst (x64)" version="7.0.49.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{2C217F34-E92F-45CD-B516-D1197870B97B}" name="Microsoft.NETCore.App.Runtime.Mono.iossimulator-x64 (x64)" version="7.0.0.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{2CBA883F-51A6-3D7D-DBB9-0527D39433CB}" name="Application Verifier x64 External Package" version="10.1.22000.832" publisher="Microsoft" inst_dir="" />
+    <Product code="{2CC6A4A7-AAC2-46C9-9DBB-3727B5954F65}" name="Microsoft .NET Framework 4.6 Targeting Pack" version="4.6.00081" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{2D2EBB11-484D-8F73-FA25-3FFABCE371F0}" name="Windows SDK" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{2DE3AD95-4E56-49E6-ADA5-30D9D0666F5E}" name="Chrome Remote Desktop Host" version="108.0.5359.16" publisher="Google LLC" inst_dir="" />
+    <Product code="{30092A0E-1D50-8D66-E5EB-01F6AA8C1FFE}" name="Windows SDK Desktop Headers arm64" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{31A3EB09-E226-B0E5-FA70-FF4B3CAD2ECF}" name="Windows SDK for Windows Store Apps DirectX x86 Remote" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{31B6D021-BC97-82C5-9C42-16AB86C37215}" name="Windows SDK Facade Windows WinMD Versioned" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{31CD96CF-4A33-4535-A6CC-F419CEAEFD70}" name="CorelDRAW Graphics Suite 2021 - Writing Tools (x64)" version="23.1" publisher=" Corel Corporation" inst_dir="c:\Program Files\Corel\CorelDRAW Graphics Suite 2021\" />
+    <Product code="{33DB43C3-E6BE-40AE-AECF-56E9F03E3B4D}" name="Corel Graphics - Windows Shell Extension" version="23.0.362" publisher="Corel Corporation" inst_dir="c:\Program Files\Common Files\Corel\Shared\Shell Extension\" />
+    <Product code="{36E492B8-CB83-4DA5-A5D2-D99A8E8228A1}" name="Microsoft SQL Server 2019 LocalDB " version="15.0.4153.1" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{36F01827-0DE5-460B-A12D-CBC724DE407E}" name="Microsoft System CLR Types para SQL Server 2019" version="15.0.2000.5" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{37B8F9C7-03FB-3253-8781-2517C99D7C00}" name="Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030" version="11.0.61030" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{37F57019-97E6-4AF4-A4F5-2D78974B87F4}" name="Microsoft.iOS.Runtime.iossimulator-x64 (x64)" version="16.0.1478.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{3822188C-C37E-4290-A537-64EC84F2990B}" name="Microsoft.NETCore.App.Runtime.Mono.android-arm (x64)" version="7.0.0.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{3826E149-22D5-470D-B8A7-D11244EA2720}" name="vs_clickoncebootstrappermsires" version="17.4.33006" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{382E6F30-A3BA-4356-AED2-DDD2326D547F}" name="CorelDRAW Graphics Suite 2021 - ES (x64)" version="23.1" publisher="Corel Corporation" inst_dir="" />
+    <Product code="{386447C4-363F-4CFF-AC3D-53508C90FC85}" name="Microsoft.Maui.Essentials.Runtime.any (x64)" version="7.0.49.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{38B6ED09-22FC-48AD-867C-7880A9C52229}" name="Microsoft Windows Desktop Runtime - 7.0.0 (x86)" version="56.3.50353" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{39E53B42-BF1F-3E91-909E-0B31388C3573}" name="Microsoft Workflow Debugger v1.0 for amd64" version="17.0.33006" publisher="Microsoft" inst_dir="" />
+    <Product code="{3A519C5D-298C-46D8-927B-6B0D55D9744F}" name="Microsoft.NETCore.App.Runtime.Mono.ios-arm (x64)" version="7.0.0.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{3A729419-6608-486A-B4DE-45DAAA2D690B}" name="Microsoft .NET Host - 7.0.0 (x86)" version="56.3.50341" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{3A8F388C-D0F7-0A66-0EDE-D477B1B1B2F4}" name="WinRT Intellisense IoT - Other Languages" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{3B22360A-203E-32F6-81F0-F3309C072EDC}" name="Microsoft ASP.NET Web Tools Packages 17.0 - ESN" version="17.0.20604.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{3BA7CAA9-97BA-4528-B7E1-B640910BB149}" name="Microsoft Azure PowerShell - April 2018" version="5.7.0.18831" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{3D3449C5-1E4D-47EE-8443-2A820715DE51}" name="icecap_collectionresourcesx64" version="17.4.33006" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{3D6825D1-5843-4585-B915-A9F234554C2C}" name="CorelDRAW Graphics Suite 2021 - IPM Content BR (x64)" version="23.0" publisher="Corel Corporation" inst_dir="c:\Program Files\Corel\CorelDRAW Graphics Suite 2021\" />
+    <Product code="{3E879FA7-A97D-4CCC-B7DF-D144DA23BDE5}" name="Workflow Manager Tools 1.0 for Visual Studio" version="2.1.50924.1" publisher="Microsoft Corporation" inst_dir="C:\Program Files (x86)\Workflow Manager Tools\1.0\" />
+    <Product code="{3EA16E23-14D2-466A-8268-D7CD40DC46B6}" name="Open XML SDK 2.5 for Microsoft Office" version="2.5.5631" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{3F737DA8-C5B7-8740-6B07-BA73B5E62CDF}" name="Windows Desktop Extension SDK" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{4036CD29-55D2-444D-9BD5-1C552076BAE3}" name="Microsoft.Android.Sdk.Windows (x64)" version="33.0.4.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{408DE8D9-0019-492A-8CD2-B84BEAE25E12}" name="Visual C++ Library CRT Desktop Appx Package" version="14.34.31933" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{41167EB6-66D6-4E1B-8811-730EE2A097B1}" name="Xamarin Remoted iOS Simulator" version="17.4.0.477" publisher="Xamarin" inst_dir="" />
+    <Product code="{41C0DB18-1790-465E-B0DD-D9CAA35CACBE}" name="Microsoft Command Line Utilities 15 for SQL Server" version="15.0.1300.359" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{41F38056-60AB-4210-99EF-EF3F1FEF95C9}" name="Paquete de compatibilidad de Microsoft .NET Framework 4.8 (español)" version="4.8.03761" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{4308116D-A763-144D-DC81-6243BE6B2ADF}" name="WinRT Intellisense UAP - en-us" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{4349F57C-0C9C-C16B-9A40-E7B406C451E2}" name="SDK ARM Redistributables" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{45CE28CB-2E4F-4525-A711-72812102AA21}" name="CorelDRAW Graphics Suite 2021 - PHOTO-PAINT (x64)" version="23.1" publisher="Corel Corporation" inst_dir="" />
+    <Product code="{4676806B-3B61-4628-846F-1B24EB2FB718}" name="Microsoft.Maui.Essentials.Ref.win (x64)" version="7.0.49.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{472040E7-C5D7-4D74-B992-DD28BBE5D610}" name="Microsoft Windows Desktop Targeting Pack - 6.0.11 (x64)" version="48.47.50419" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{473B8AD7-56B2-42F2-9190-0C96DA612361}" name="Microsoft.Maui.Controls.Runtime.win (x64)" version="7.0.49.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{47A24DA1-EDEE-45D0-983E-18FBAB30B98F}" name="Microsoft.Maui.Essentials.Runtime.android (x64)" version="7.0.49.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{48A8F171-52F2-372B-8414-EA50617708BE}" name="Microsoft .NET CoreRuntime For CoreCon" version="1.0.0.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{49559293-3192-40D3-864C-5AB88E744A79}" name="vs_FileTracker_Singleton" version="17.4.33006" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{49B0B956-BC8A-4123-8354-8FE9CFAF8C10}" name="Microsoft.NETCore.App.Runtime.Mono.android-arm64 (x64)" version="6.0.11.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{4A34BC3F-E0C3-3BFF-9379-4F3F611AC617}" name="Microsoft ASP.NET Core 6.0.11 Shared Framework (x64)" version="6.0.11.22523" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{4DEF2675-4A45-4F62-97CD-F232E120A042}" name="Microsoft.NETCore.App.Runtime.Mono.android-x86 (x64)" version="7.0.0.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{4E42F88F-F822-44A6-9D2C-D202AA37BBC5}" name="Microsoft .NET 6.0 Templates 7.0.100 (x64)" version="24.7.57200" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{4F09DBC6-B00A-4E83-886D-94EFAD76A36C}" name="CorelDRAW Graphics Suite 2021 - IPM Content DE (x64)" version="23.0" publisher="Corel Corporation" inst_dir="c:\Program Files\Corel\CorelDRAW Graphics Suite 2021\" />
+    <Product code="{4F0D14D8-BE9F-4879-B00D-6BDA4018C528}" name="windows_toolscorepkg" version="17.4.33006" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{50265B05-7EDF-4511-B4A1-4799594D13D7}" name="Microsoft.NETCore.App.Runtime.Mono.iossimulator-arm64 (x64)" version="7.0.0.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{51E50C73-1D46-40F2-AA2A-EE3D351419E4}" name="Visual C++ Library CRT Appx Resource Package" version="14.34.31933" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{529158D3-66FB-45DA-B821-1771F2C1DBF2}" name="CorelDRAW Graphics Suite 2021 - BR (x64)" version="23.1" publisher="Corel Corporation" inst_dir="" />
+    <Product code="{52C0651D-AA0D-4AB1-8A2F-1AB60BF351A2}" name="Microsoft.Maui.Core.Runtime.ios (x64)" version="7.0.49.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{53CF6934-A98D-3D84-9146-FC4EDF3D5641}" name="Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664" version="12.0.40664" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{543E585A-87D5-4F29-A914-7953B2F13EF2}" name="Microsoft.NET.Sdk.iOS.Manifest-7.0.100 (x64)" version="16.0.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{54E5E684-132E-23D3-CBF6-962122E2C568}" name="Windows SDK Desktop Tools arm64" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{56070933-B0D1-493F-8C12-4F7E83CA3071}" name="IIS 10.0 Express" version="10.0.06614" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{56373DD6-9A8E-4C0C-95F6-F64DF2054A6F}" name="vs_filehandler_x86" version="17.4.33006" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{5691C5AB-0847-4862-8C49-43245E7DCE2C}" name="vs_minshellinteropx64msi" version="17.4.33006" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{57816DD5-505C-46E5-A8F5-4BC85E3A7D2C}" name="Microsoft.NET.Sdk.macOS.Manifest-7.0.100 (x64)" version="12.3.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{58791073-AD3F-3AF3-BA24-89E84F780D6B}" name="Microsoft ASP.NET Web Tools Packages 17.0 - ENU" version="17.0.20604.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{59F4AEDD-1897-4E4C-BB25-61DC440429B9}" name="Microsoft .NET Framework 4.8 SDK (español)" version="4.8.03761" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{5B64C01B-2798-A2F6-89C3-AC03906F8788}" name="Windows IoT Extension SDK" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{5E43747F-06CE-407F-9591-531D56CFD888}" name="Microsoft Power BI Desktop (x64)" version="2.111.590.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{5EB98A24-BFFA-4433-81CF-A496861CC299}" name="FortiClient" version="7.0.1.0083" publisher="Fortinet Technologies Inc" inst_dir="C:\Program Files\Fortinet\FortiClient\">
+        <Feature name="Feature_AntiVirus" parent="" inst_status="LOCAL" />
+        <Feature name="Feature_FireWall" parent="" inst_status="LOCAL" />
+        <Feature name="Feature_Vulnerability" parent="" inst_status="LOCAL" />
+        <Feature name="Feature_VPN" parent="" inst_status="LOCAL" />
+        <Feature name="Feature_SSLVPN" parent="" inst_status="LOCAL" />
+        <Feature name="Feature_WebFilter" parent="" inst_status="LOCAL" />
+        <Feature name="Feature_SingleSignOnMobility" parent="" inst_status="LOCAL" />
+        <Feature name="Feature_Sandbox" parent="" inst_status="LOCAL" />
+        <Feature name="Feature_CloudScan" parent="" inst_status="LOCAL" />
+        <Feature name="Feature_AntiRansomware" parent="" inst_status="LOCAL" />
+        <Feature name="Feature_Core" parent="" inst_status="LOCAL" />
+        <Feature name="Feature_Basic" parent="" inst_status="LOCAL" />
+        <Feature name="Feature_EndPointNAC" parent="" inst_status="LOCAL" />
+    </Product>
+    <Product code="{5F1D4DE5-BFF3-503B-D05F-40ED6927DE17}" name="Windows Team Extension SDK Contracts" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{5F6BC78A-E1B9-49E7-B863-10C5A03F5AD2}" name="vs_communitymsires" version="17.4.33006" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{5F6FFC52-B8C2-4BD8-9317-8BEDDD010FA8}" name="Microsoft.NETCore.App.Runtime.Mono.android-arm64 (x64)" version="7.0.0.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{6221E085-FE37-1068-E6D7-9D08ABD32AE2}" name="Windows SDK Desktop Libs arm" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{638F9423-C3B5-403E-BB98-F160882D88CF}" name="Microsoft.iOS.Runtime.ios-arm (x64)" version="16.0.1478.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{63AFEB0D-441E-4BEE-BCAA-CF2525F4CAC0}" name="Microsoft.iOS.Ref (x64)" version="16.0.1478.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{64241AA6-77B2-4E6A-B68F-9ADF24D1A141}" name="Microsoft.NETCore.App.Runtime.Mono.ios-arm64 (x64)" version="7.0.0.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{655A1E62-5489-4356-994B-785B47E53959}" name="SQL Server Integration Services Singleton" version="16.0.5035.3" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{66A25A62-ABC3-4484-B010-917A39E56760}" name="Microsoft.Maui.Essentials.Runtime.win (x64)" version="7.0.49.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{68F11757-8C35-BEB6-2AED-6F7C6CC5B8C0}" name="Windows SDK for Windows Store Apps Tools" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{69331A50-908A-0745-CFCF-8413360C5B96}" name="Windows App Certification Kit Native Components" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{6A35BBB9-7DC9-48E8-B3A8-F48BE041171A}" name="Microsoft .NET Targeting Pack - 6.0.11 (x64)" version="48.47.50420" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{6A7EA630-41A1-455D-849D-2AA2D1420236}" name="vs_tipsmsi" version="17.4.33006" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{6AA3DE9F-ADDE-463B-8F29-27DD247C5282}" name="vs_CoreEditorFonts" version="17.4.33006" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{6AF210BE-348B-4156-8B2E-CD57FC573ABD}" name="vs_clickoncebootstrappermsi" version="17.4.33006" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{6D5C07E3-6A4D-4126-A7A7-8B6EFFE16E51}" name="Entity Framework 6.2.0 Tools  for Visual Studio 2022" version="6.2.0.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{6DAE2F44-C521-4219-8BE0-D72979F8C18E}" name="Microsoft.NET.Sdk.tvOS.Manifest-7.0.100 (x64)" version="16.0.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{6DF3836D-557B-4FA5-9130-49242B9F3597}" name="MySQL Installer - Community" version="1.6.4.0" publisher="Oracle Corporation" inst_dir="" />
+    <Product code="{6F1B1243-7C12-5398-F575-5102906569A6}" name="Windows SDK Desktop Headers x86" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{6F8786B2-A7D0-4734-825C-CFFF7627A8C5}" name="MySQL Documents 8.0" version="8.0.31" publisher="Oracle Corporation" inst_dir="C:\Program Files (x86)\MySQL\MySQL Documentation 8.0" />
+    <Product code="{6F9A2C36-006D-4F06-8104-48DEC8C2C8C6}" name="Microsoft.Maui.Core.Ref.ios (x64)" version="7.0.49.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{70CF13C1-A040-45F5-AA60-6DCA9C95F873}" name="Microsoft.Maui.Controls.Ref.any (x64)" version="7.0.49.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{70DE39F9-D76E-4380-9508-757562CB01F6}" name="Microsoft.MacCatalyst.Templates (x64)" version="15.4.2372.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{710A9653-6136-444E-9191-045FB97213F8}" name="Microsoft OLE DB Driver for SQL Server" version="18.6.4.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{7146BE29-EB2D-45A1-A9BD-E7E397397B34}" name="Visual C++ Library CRT Appx Package" version="14.34.31933" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{731F6BAA-A986-45A4-8936-7C3AAAAA760B}" name="Teams Machine-Wide Installer" version="1.5.0.8070" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{7366DADC-568E-441C-8D5C-8774875DBAF4}" name="CorelDRAW Graphics Suite 2021 - Filters (x64)" version="23.1" publisher="Corel Corporation" inst_dir="" />
+    <Product code="{737FDDA7-B944-4CB5-92D9-3D56373BD301}" name="Microsoft NetStandard SDK" version="15.0.51105" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{74861C33-82F5-4A05-A62F-0DE127F5FCDC}" name="MySQL Connector/ODBC 8.0" version="8.0.31" publisher="Oracle Corporation" inst_dir="C:\Program Files\MySQL\Connector ODBC 8.0\" />
+    <Product code="{769FDB61-14B0-ECC1-98E4-135CE2B1F2E9}" name="GoToAssist Remote Support Unattended" version="5.9.2.1995" publisher="GoTo, Inc." inst_dir="" />
+    <Product code="{77834DAF-FBC4-44C6-9E1F-B0BC7E8E97C8}" name="MySQL Shell 8.0.31" version="8.0.31" publisher="Oracle and/or its affiliates" inst_dir="C:\Program Files\MySQL\MySQL Shell 8.0" />
+    <Product code="{7864E62A-98CF-4196-AA9A-5A8194C49513}" name="sptools_Microsoft.VisualStudio.Vsto.Msi.Resources" version="16.0.28030" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{78E56ECE-FE6B-45A6-BB75-F97066F9EAAB}" name="Microsoft.MacCatalyst.Ref (x64)" version="15.4.2372.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{7907F380-3CFD-247C-9DFC-A23CED2012F8}" name="Windows SDK for Windows Store Apps Metadata" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{7B1FCD52-8F6B-4F12-A143-361EA39F5E7C}" name="Microsoft Update Health Tools" version="3.67.0.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{7B8542BA-01E4-43EB-A172-1DA975AFD00B}" name="VS JIT Debugger" version="17.0.118.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{7B907A0B-2606-42EB-A880-80E1F6AA4C48}" name="vs_clickoncesigntoolmsi" version="17.4.33006" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{7C190DE4-5808-421D-9C41-89ED1FBE95CC}" name="Microsoft.NET.Sdk.MacCatalyst.Manifest-7.0.100 (x64)" version="15.4.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{7C718641-8F3C-4C9D-BA4B-9CD79D156EDC}" name="Visual C++ Library CRT ARM64 Appx Package" version="14.34.31933" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{7C931D41-F302-3494-868C-320A4F4DD9F9}" name="Microsoft Visual Studio Tools for Applications 2019 x86 Hosting Support" version="16.0.28801" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{7CAF3DA2-79F6-C0DB-6C56-2462C8C4914C}" name="Windows SDK Desktop Libs x86" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{7D45DB74-45FE-42D9-96E5-31E228E4C9FC}" name="Microsoft .NET AppHost Pack - 7.0.0 (x64_arm)" version="56.3.50341" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{7D6A7B92-A26B-4DC6-A51F-0D741C9BC70F}" name="icecap_collection_x64" version="17.4.33006" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{7DB947D8-9894-3705-8468-A8FF1E9EE7AE}" name="Microsoft Workflow Debugger v1.0 for x86" version="17.0.33006" publisher="Microsoft" inst_dir="" />
+    <Product code="{7DBE357D-2AA2-7B68-267E-F8DAEB182D6F}" name="Windows SDK Redistributables" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{7EA2A3F7-A6D2-4D28-B3C4-4C32BCF4A0A2}" name="Microsoft Analysis Services OLE DB Provider" version="15.0.2000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{7F123ED4-D3BB-46D2-B1D8-50A70E811E6C}" name="Microsoft SQL Server Migration Assistant for Sybase" version="9.2.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{80399308-725C-4686-B5E1-B0D159960DA7}" name="Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-x64 (x64)" version="6.0.11.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{8122DAB1-ED4D-3676-BB0A-CA368196543E}" name="Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664" version="12.0.40664" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{81258C33-B087-4DA1-A587-AE6AE97CB1B2}" name="CorelDRAW Graphics Suite 2021" version="23.1" publisher="Corel Corporation" inst_dir="c:\Program Files\Corel\CorelDRAW Graphics Suite 2021\" />
+    <Product code="{81D4E442-F6C5-DF4B-DEF8-76E51ACC56F8}" name="Windows App Certification Kit SupportedApiList x86" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{823E92A6-7572-174D-0671-95A55785F991}" name="WinRT Intellisense IoT - en-us" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{82931C8D-83CC-CF2E-F4FA-9AF0829BCA22}" name="Windows SDK Desktop Libs arm64" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{82D662B1-E988-4DD1-A47A-483ECD5D8930}" name="SQL Sentry Plan Explorer" version="22.3.2" publisher="SolarWinds Worldwide, LLC" inst_dir="" />
+    <Product code="{82F9F289-6088-8F39-1918-A45315FEF99A}" name="Universal CRT Tools x64" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{837DD890-14CE-9EB3-E8E1-F96A7EE5CFE5}" name="WinRT Intellisense Desktop - Other Languages" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{839C2D45-DDF6-432C-A6A2-C6AF2EF281BF}" name="Microsoft TestPlatform SDK Local Feed" version="17.0.0.5175695" publisher="Microsoft" inst_dir="" />
+    <Product code="{83C9183A-A0F9-4E57-ACEC-4282F1028D25}" name="SQL Server Management Studio" version="15.0.18424.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{845DDC2C-7877-4012-B9B9-5A35B0B9F947}" name="Microsoft.Maui.Core.Runtime.android (x64)" version="7.0.49.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{8517E528-D4A8-43B7-B7A4-40BDEC5CBEC8}" name="Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-arm (x64)" version="6.0.11.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{853997DA-6FCB-4FB9-918E-E0FF881FAF65}" name="Microsoft ODBC Driver 17 for SQL Server" version="17.7.2.1" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{85516DED-4402-44CD-9D01-1D1F3D0C0178}" name="Microsoft Visual Studio Setup WMI Provider" version="3.4.1128.26111" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{85622533-4445-3620-A1D3-D60036574909}" name="Microsoft ASP.NET Core 6.0.11 Targeting Pack (x86)" version="6.0.11.22523" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{88679CF6-5CF6-431A-AFDB-EC152BAEF3E5}" name="Paquete acumulativo de Intellisense de Microsoft .NET Framework para Visual Studio (español)" version="4.8.09037" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{89B46546-743F-450D-A5FF-B1866EA22022}" name="Microsoft SQL Server Migration Assistant for DB2" version="9.2.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{8A35C063-E995-4E4A-9BD4-A1C941672778}" name="MySQL Workbench 8.0 CE" version="8.0.31" publisher="Oracle Corporation" inst_dir="C:\Program Files\MySQL\MySQL Workbench 8.0" />
+    <Product code="{8B3894C0-B5D2-4DDF-9732-75A96EE9A834}" name="Microsoft.NET.Sdk.Maui.Manifest-7.0.100 (x64)" version="7.0.49" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{8B5DF863-0649-4322-8476-7A42C30F6B0E}" name="Microsoft.NETCore.App.Runtime.Mono.ios-arm (x64)" version="6.0.11.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{8C14B627-CF78-361A-882C-1247BD360E8D}" name="Microsoft Workflow Diagnostic Pack for x64" version="17.4.33006" publisher="Microsoft" inst_dir="" />
+    <Product code="{8C14D3DF-69AD-443A-A607-B4B1BE9575CC}" name="vs_BlendMsi" version="17.4.33006" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{8C352959-35A5-40CA-A49C-91B349AB2778}" name="vs_SQLClickOnceBootstrappermsi" version="17.4.33006" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{8C37A91B-39FC-46E6-A627-7AB10952F804}" name="Microsoft.NET.Runtime.MonoAOTCompiler.Task (x64)" version="6.0.11.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{8C586237-9F46-473C-9D34-EF8C86A39AD4}" name="Microsoft.NETCore.App.Runtime.Mono.android-x64 (x64)" version="7.0.0.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{8CE89D3D-FBC5-4964-B6AD-2F52060304C3}" name="Microsoft Analysis Services OLE DB Provider" version="15.0.2000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{8D7CBEC7-C521-3784-9906-58E181434061}" name="Microsoft Visual Studio Tools for Applications 2022 x86 Hosting Support" version="17.0.33011" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{8E01F958-D571-40F8-9AA3-BEDF961010F7}" name="SolarWinds TFTP Server" version="11.2.0.50028" publisher="SolarWinds" inst_dir="" />
+    <Product code="{8E3AB865-9E38-1E5F-7B49-C8E3A70C6303}" name="WinAppDeploy" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{8EC1DC78-0A65-B6AC-664D-DFB3AC8E9736}" name="Universal CRT Redistributable" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{8EDE105B-885A-D173-50F8-F50F39C51CF9}" name="Windows Mobile Extension SDK Contracts" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{8F9AEFDD-4B47-4256-815D-AF42BE8F595F}" name="CorelDRAW Graphics Suite 2021 - VBA (x64)" version="23.1" publisher="Corel Corporation" inst_dir="" />
+    <Product code="{8FA09899-12C3-4811-A0CF-5CC638DB88D1}" name="Microsoft.Maui.Essentials.Ref.maccatalyst (x64)" version="7.0.49.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{8FAF8722-FAF9-452E-9234-312D02C25CFB}" name="Microsoft.NETCore.App.Runtime.Mono.iossimulator-x64 (x64)" version="6.0.11.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{90120064-0070-0000-0000-4000000FF1CE}" name="Microsoft Visual Basic for Applications 7.1 (x64)" version="7.1.00.00" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{90160000-007E-0000-1000-0000000FF1CE}" name="Office 16 Click-to-Run Licensing Component" version="16.0.15831.20184" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{90160000-008C-0000-1000-0000000FF1CE}" name="Office 16 Click-to-Run Extensibility Component" version="16.0.15726.20202" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{90160000-008C-0C0A-1000-0000000FF1CE}" name="Office 16 Click-to-Run Localization Component" version="16.0.15726.20202" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{90462BD2-DF5B-449C-A401-FCC1DC264E4E}" name="Microsoft Azure Authoring Tools - v2.9.7" version="2.9.8999.45" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{90819A24-C7DD-4956-8CBE-AE50B43D020D}" name="icecap_collection_neutral" version="17.4.33006" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{909AF0EA-E783-4C2E-A1D7-3430DE49D6F5}" name="SQL Server Integration Services Singleton" version="15.0.2000.261" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{90AAE845-42CE-EC12-4041-8ADF7BE765E7}" name="Universal CRT Extension SDK" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{90F60409-7000-11D3-8CFE-0150048383C9}" name="Microsoft Visual Basic for Applications 7.1 (x64) English" version="7.1.0.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{90F60C0A-7000-11D3-8CFE-0150048383C9}" name="Microsoft Visual Basic for Applications 7.1 (x64) Spanish" version="7.1.0.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{913485F7-24A9-45C5-A4D0-8E56AABC66E8}" name="Microsoft .NET AppHost Pack - 7.0.0 (x64)" version="56.3.50341" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{9138874C-2D20-46BC-84BC-A13B31DF8955}" name="vs_Graphics_Singletonx64" version="17.4.33006" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{93F9D7FA-F2FD-837D-E53F-D79767071E44}" name="Windows SDK EULA" version="10.1.22000.832" publisher="Microsoft Corporations" inst_dir="" />
+    <Product code="{943540AE-C12D-426D-93C4-9B9932762853}" name="Microsoft.Maui.Controls.Runtime.maccatalyst (x64)" version="7.0.49.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{9495AEB4-AB97-39DE-8C42-806EEF75ECA7}" name="Microsoft Visual Studio 2010 Tools for Office Runtime (x64)" version="10.0.50908" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{949C0535-171C-480F-9CF4-D25C9E60FE88}" name="Microsoft .NET Framework 4.8 SDK" version="4.8.03928" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{94EE74AD-4205-4038-8748-000D966FA407}" name="Microsoft .NET Runtime - 6.0.11 (x86)" version="48.47.50420" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{9510D978-6BCF-452E-A16A-5380620014F3}" name="Corel Update Manager" version="2.15.656" publisher="Corel corporation" inst_dir="C:\Program Files\Corel\CUH\v2\" />
+    <Product code="{9594C97E-6A20-38B3-81BB-2778C4780BE1}" name="Microsoft Visual Studio Tools for Applications 2017 x86 Hosting Support" version="15.0.27520" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{95A498A9-5E6E-5779-1523-876224F41F94}" name="MSI Development Tools" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{95D3D528-8F5B-436E-ADC6-6F184B13F1B0}" name="Integration Services" version="15.0.2000.229" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{9635E2A9-815E-439C-BC7F-54BD8B6BEC66}" name="Microsoft.Maui.Graphics.Win2D.WinUI.Desktop (x64)" version="7.0.49.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{97A881AD-5134-4CD2-A6A8-371C83E5622B}" name="Microsoft SQL Server 2016 Analysis Management Objects " version="13.1.4561.14" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{98D5C5AA-993C-1371-C7AF-8F8A0E8CAF86}" name="Universal CRT Headers Libraries and Sources" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{99CE4CDC-2522-4ACB-9A78-E42FDFB2AF43}" name="SQL Sentry Plan Explorer SSMS Add-in" version="2.0.5.0" publisher="SolarWinds Worldwide, LLC" inst_dir="" />
+    <Product code="{99DC6816-30B2-32EB-9E12-AF8944C4FA4E}" name="Microsoft Help Viewer 2.3" version="2.3.28307" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{9A2ECB04-21BB-40E8-B9B1-A50FA1972197}" name="Microsoft .NET AppHost Pack - 7.0.0 (x64_x86)" version="56.3.50341" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{9AC08E99-230B-47E8-9721-4577B7F124EA}" name="" version="" publisher="" inst_dir="" />
+    <Product code="{9AD5B71C-AAA0-4B2A-B5C0-EDA5E8BF87AE}" name="Microsoft.NETCore.App.Runtime.Mono.android-arm (x64)" version="6.0.11.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{9B95262A-EC82-31AA-BFC9-FF4C1FB21C48}" name="Microsoft ASP.NET Diagnostic Pack for Visual Studio" version="17.4.326.54890" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{9BF7BDD3-62E8-4E47-AF96-13EA1EB853AD}" name="vs_communityx64msi" version="17.4.33006" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{9C489D54-646B-4966-BA39-1206BF7BEC94}" name="Microsoft.NETCore.App.Runtime.Mono.android-x64 (x64)" version="6.0.11.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{9D4033AD-2990-469B-A2CC-CEE9A707106A}" name="vs_Graphics_Singletonx86" version="17.4.33006" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{9D683FDF-1676-4B2A-A87B-ED680BAA5BC5}" name="Microsoft .NET 7.0 Templates 7.0.100 (x64)" version="28.5.24432" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{9D6CE289-E12C-38BB-9999-E2377EC118B7}" name="Microsoft Visual Studio Tools for Applications 2019 x64 Hosting Support" version="16.0.28801" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{9D93D367-A2CC-4378-BD63-79EF3FE76C78}" name="Microsoft SQL Server 2012 Native Client " version="11.4.7462.6" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{9E6AD877-E152-41A4-BDA1-302B205AEA2F}" name="Microsoft.NETCore.App.Runtime.Mono.maccatalyst-arm64 (x64)" version="7.0.0.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{A0457BA2-84CC-4615-A7E0-4105EE17E757}" name="Microsoft.MacCatalyst.Sdk (x64)" version="15.4.471.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{A06212FE-3C20-31C7-F88A-46673EF72E83}" name="WinRT Intellisense PPI - Other Languages" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{A0B350F1-1461-4428-A0C3-2B2733786EC7}" name="SolarWinds NetFlow Replicator" version="21.3.0" publisher="SolarWinds" inst_dir="" />
+    <Product code="{A0B350F1-1461-4428-A0C3-2B2733786EC8}" name="SolarWinds NetFlow Generator" version="21.3.0" publisher="SolarWinds" inst_dir="" />
+    <Product code="{A11A0537-19D3-4292-951D-467C9CEBF4C6}" name="CorelDRAW Graphics Suite 2021 - DE (x64)" version="23.1" publisher="Corel Corporation" inst_dir="" />
+    <Product code="{A17DDA5A-F944-4E22-B578-FB860C604D21}" name="Microsoft .NET Runtime - 7.0.0 (x64)" version="56.3.50341" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{A1DA436A-2FA4-FDC2-9B0A-FBB40CF0499D}" name="Windows SDK for Windows Store Apps Headers" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{A348DC22-11E6-4E6B-8823-4E73C1EFF06A}" name="Microsoft.Maui.Resizetizer.Sdk (x64)" version="7.0.49.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{A37EDCA8-CE79-403A-AA24-EA512A37526D}" name="Microsoft.Maui.Controls.Runtime.ios (x64)" version="7.0.49.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{A39D4115-3A27-4245-AE92-3214B8B21932}" name="Microsoft Windows Desktop Runtime - 6.0.11 (x64)" version="48.47.50419" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{A7036CFB-B403-4598-85FF-D397ABB88173}" name="Microsoft .NET Standard Targeting Pack - 2.1.0 (x64)" version="24.0.28113" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{A7BBF515-AF5E-32D6-99FB-EB1D793A67E2}" name="Microsoft ASP.NET Core 7.0.0 Shared Framework (x64)" version="7.0.0.22518" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{A829BD53-4BE5-23F2-C4A8-026CB5D47ECF}" name="Universal CRT Tools x86" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{A99B19D4-7F87-03E5-B4A8-80420ECD7F53}" name="Windows SDK ARM Desktop Tools" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{AA0464E0-EBA2-4879-A116-D7FFBC41267E}" name="CorelDRAW Graphics Suite 2021 - IPM Content NL (x64)" version="23.0" publisher="Corel Corporation" inst_dir="c:\Program Files\Corel\CorelDRAW Graphics Suite 2021\" />
+    <Product code="{AA30629A-F6B4-48C7-A7AE-912A461E9249}" name="Visual C++ Library CRT Desktop Appx Package" version="14.34.31933" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{AA516D6C-7225-415D-99A5-2392CC4FBECF}" name="Microsoft.iOS.Windows.Sdk (x64)" version="16.0.1478.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{AAA9F15B-AF45-4562-9991-93A848D3A902}" name="Visual Studio 2017 Isolated Shell for SSMS" version="15.0.28307.421" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{AB1BDF73-7393-42CE-812D-9A90918814D5}" name="Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.34.31931" version="14.34.31931" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{AC76BA86-0804-1033-1959-018244601032}" name="Adobe Refresh Manager" version="1.8.0" publisher="Adobe Systems Incorporated" inst_dir="C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\" />
+    <Product code="{AC76BA86-1033-FFFF-7760-0C0F074E4100}" name="Adobe Acrobat" version="22.003.20282" publisher="Adobe Systems Incorporated" inst_dir="C:\Program Files (x86)\Adobe\Acrobat DC\" />
+    <Product code="{ACBBFCA9-A48A-425A-BF50-B6FB8EFE7934}" name="vs_vswebprotocolselectormsi" version="17.4.33006" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{AD3B32A0-5F71-DE89-B55A-9E85964186D8}" name="Windows SDK for Windows Store Apps Contracts" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{AD4E2027-6AAC-4E31-9F34-27E382EA471C}" name="CorelDRAW Graphics Suite 2021 - IT (x64)" version="23.1" publisher="Corel Corporation" inst_dir="" />
+    <Product code="{AE0BFB6D-B11A-4E43-910C-D7CC85979C2F}" name="MySQL Installer for Windows - Community" version="1.6.5.0" publisher="Oracle Corporation" inst_dir="" />
+    <Product code="{AE333C57-1303-489D-91EF-77CB47767424}" name="Microsoft Windows Desktop Targeting Pack - 6.0.11 (x86)" version="48.47.50419" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{AFFB9D8D-6E58-38A0-A7DD-F6F1F4247B36}" name="Microsoft Visual Studio Tools for Applications 2017 x64 Hosting Support" version="15.0.27520" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{B0AA0B89-7D40-41F1-AF56-C39BF02DB818}" name="Microsoft.iOS.Templates (x64)" version="16.0.1478.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{B0CB401F-F1EF-E63C-8191-9A447FC24C58}" name="Windows SDK for Windows Store Managed Apps Libs" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{B175520C-86A2-35A7-8619-86DC379688B9}" name="Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030" version="11.0.61030" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{B19E9990-FA36-4C42-A5A1-3218C3644C24}" name="vs_minshellmsires" version="17.4.33006" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{B1CFE19E-298A-4D14-BACD-CAA36AC4895B}" name="Microsoft Visual Studio Setup Configuration" version="3.4.1128.26111" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{B25E3578-EA46-4F9E-BD0F-089F3DC9DF10}" name="MySQL Server 8.0" version="8.0.31" publisher="Oracle Corporation" inst_dir="C:\Program Files\MySQL\MySQL Server 8.0\" />
+    <Product code="{B29CDDEE-A6FA-49B0-BDCC-91F3F14D9586}" name="Microsoft .NET SDK 7.0.100 (x64) from Visual Studio" version="7.1.22.52112" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{B3AD548B-67F5-4510-9A13-85B18A7C3805}" name="vs_vswebprotocolselectormsires" version="17.4.33006" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{B56EF9C1-B982-45B1-BEB5-3C8F50B21CF2}" name="vs_communitysharedmsi" version="17.4.33006" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{B618B2AA-4B45-3B04-98CA-50466370B650}" name="Microsoft Visual Studio 2010 Tools for Office Runtime (x64) Language Pack - ESN" version="10.0.50903" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{B719DBF4-6A90-4D83-A663-27DF71097B05}" name="CorelDRAW Graphics Suite 2021 - Workspaces (x64)" version="23.1" publisher="Corel Corporation" inst_dir="" />
+    <Product code="{B8AA32BB-8947-4A28-9632-2B52C04D4AD6}" name="Microsoft.Maui.Core.Ref.maccatalyst (x64)" version="7.0.49.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{B9A2EE66-E1B9-ED85-E75B-041A348EB46D}" name="Windows SDK DirectX x86 Remote" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{B9EA48EE-695F-4E90-B89D-F7CE4767B49F}" name="CorelDRAW Graphics Suite 2021 - Setup Files (x64)" version="23.1" publisher="Corel Corporation" inst_dir="" />
+    <Product code="{BA8E32C6-566B-48CC-9DB6-03690F718544}" name="CorelDRAW Graphics Suite 2021 - Discovery (x64)" version="23.0.1" publisher="Corel Corporation" inst_dir="" />
+    <Product code="{BAAF5851-0759-422D-A1E9-90061B597188}" name="Microsoft .NET Framework 4.8 Targeting Pack" version="4.8.03761" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{BACF91C4-B403-4D85-AB6F-D0CA940023E0}" name="Microsoft.Maui.Essentials.Runtime.ios (x64)" version="7.0.49.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{BB458F3C-BD61-4095-B2B0-E9E7ACF72DBA}" name="Microsoft.NET.Runtime.MonoTargets.Sdk (x64)" version="6.0.11.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{BCE4DAEE-4995-4E80-9222-86C950DDD940}" name="SSMS Post Install Tasks" version="15.0.18424.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{BD786819-AA80-7B18-125D-AA03AAF2759B}" name="SDK ARM Additions" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{BD95A8CD-1D9F-35AD-981A-3E7925026EBB}" name="Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030" version="11.0.61030" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{BE6438FD-8DCE-46CF-9678-825A064DAAAA}" name="Microsoft .NET Host - 7.0.0 (x64)" version="56.3.50341" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{C09A0D3F-BC83-4280-BCE0-E3B5CFB32F74}" name="Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest (x64)" version="56.3.50341" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{C0F4DFA5-5C99-4A55-8C37-03AEAD4D7E55}" name="CorelDRAW Graphics Suite 2021 - Capture (x64)" version="23.1" publisher="Corel Corporation" inst_dir="" />
+    <Product code="{C1C309B6-E8F1-4F26-A247-A937160267D4}" name="Microsoft.MacCatalyst.Runtime.maccatalyst-arm64 (x64)" version="15.4.2372.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{C1C4EDF1-D834-4FE9-A945-24EBC2574A0C}" name="Visual C++ Library CRT ARM64 Appx Package" version="14.34.31933" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{C2662EFF-06E6-4FD1-9D6D-FDCA91025757}" name="Microsoft Visual C++ 2022 X86 Additional Runtime - 14.34.31931" version="14.34.31931" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{C32CB038-8A83-4860-853F-9168214E3536}" name="vs_minshellsharedmsi" version="17.4.33006" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{C3DD1448-513A-4DB8-978D-6991562EA63D}" name="Microsoft .NET Runtime - 6.0.11 (x64)" version="48.47.50420" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{C44567AC-29AF-4122-9718-B94F2E328FD0}" name="Microsoft.iOS.Runtime.iossimulator-arm64 (x64)" version="16.0.1478.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{C44F38F6-424B-4446-9457-B151B2EB7313}" name="SolarWinds Event Log Forwarder for Windows" version="1.2.0.114" publisher="SolarWinds" inst_dir="C:\Program Files (x86)\SolarWinds\SolarWinds Event Log Forwarder for Windows\" />
+    <Product code="{C47F0820-6424-AE53-6BAF-2D41E829C855}" name="Windows SDK Desktop Headers x64" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{C49E181B-C19F-4A1F-BE76-D463E7E3B2B5}" name="Microsoft AS OLE DB Provider for SQL Server 2016" version="13.1.4561.14" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{C5C91AA6-3E83-430E-8B7A-6B790083F28D}" name="Microsoft Azure Libraries for .NET – v2.9" version="3.0.0127.060" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{C6191176-8496-45CC-80BA-D844A28DA7D9}" name="ipMonitor Snap" version="11.1.147.0" publisher="SolarWinds Worldwide, LLC" inst_dir="" />
+    <Product code="{C68480ED-BE15-4F0F-9E94-35DF7A0CD29F}" name="MySQL Connector NET 8.0.31" version="8.0.31" publisher="Oracle" inst_dir="C:\Program Files (x86)\MySQL\Connector NET 8.0" />
+    <Product code="{C697E994-12BE-4CF3-B9BF-B3FD1659E717}" name="Corel Graphics - Windows Shell Extension 32 Bit Keys" version="23.0.362" publisher="Corel Corporation" inst_dir="c:\Program Files\Common Files\Corel\Shared\Shell Extension\" />
+    <Product code="{C7003747-0610-488A-8875-53ABAD1B2A43}" name="SolarWinds NetFlow Configurator" version="21.3.0" publisher="SolarWinds" inst_dir="" />
+    <Product code="{C756420B-C91C-4410-8092-F49C24CEF594}" name="Microsoft UniversalWindowsPlatform SDK" version="15.9.16" publisher="Microsoft" inst_dir="" />
+    <Product code="{C7C68DA0-8501-16DD-1E6A-6C34AAA28F21}" name="Windows SDK Desktop Headers arm" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{C8891AD2-C223-45CD-A9BE-617A68923B61}" name="IntelliTraceProfilerProxy" version="15.0.21225.01" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{C8977C7D-F685-8282-3C78-6276E03E3B32}" name="Windows SDK for Windows Store Apps Libs" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{C8EA234A-FC2F-4EEC-BF7F-DB14C28C84D2}" name="VS Script Debugging Common" version="17.0.118.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{C963ED28-385B-4290-A8A2-3AD3891A1A4B}" name="ipMonitor" version="11.2.0.110" publisher="SolarWinds" inst_dir="" />
+    <Product code="{CB0DEA40-4FE1-4630-8C18-4963AE60DE2C}" name="Microsoft.Android.Sdk.Windows (x64)" version="32.0.476.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{CC07497D-B5AF-463E-B35E-2B35F73E4186}" name="Microsoft.Android.Ref.33 (x64)" version="33.0.4.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{CC1A689D-052A-45FF-8597-20F1EA41D316}" name="Microsoft .NET AppHost Pack - 6.0.11 (x64_arm)" version="48.47.50420" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{CEC8687D-F40D-4B56-8C5E-1ED92894A05B}" name="Microsoft SQL Server Migration Assistant for Oracle Extension Pack" version="9.2.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{CF2BEA3C-26EA-32F8-AA9B-331F7E34BA97}" name="Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030" version="11.0.61030" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{CF4C347D-954E-4543-88D2-EC17F07F466F}" name="Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.34.31931" version="14.34.31931" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{CF83D17D-FB70-21A1-36E4-37EE7EC1B587}" name="Kits Configuration Installer" version="10.1.22000.832" publisher="Microsoft" inst_dir="" />
+    <Product code="{CFC51C75-8F08-1968-BC86-70A396D353D9}" name="Windows SDK for Windows Store Apps" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{D17171BC-6CDF-4400-904D-74098B347834}" name="Microsoft.iOS.Windows.Sdk (x64)" version="16.0.527.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{D307C8A5-7335-056E-6E64-E28544674EFD}" name="WinRT Intellisense UAP - Other Languages" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{D401961D-3A20-3AC7-943B-6139D5BD490A}" name="Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664" version="12.0.40664" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{D4D19395-F38C-4818-B8D6-30A0FCB22E94}" name="Microsoft.Maui.Controls.Runtime.android (x64)" version="7.0.49.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{D54B24F7-43DE-C7BF-3A5C-83F9E8E0700D}" name="Windows Desktop Extension SDK Contracts" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{D55CFE22-1460-4192-BD73-C320E70F6FEE}" name="CorelDRAW Graphics Suite 2021 - Custom Data (x64)" version="23.0" publisher="Corel Corporation" inst_dir="" />
+    <Product code="{D629D35F-A26E-4CF7-A512-3C890257A790}" name="sptools_Microsoft.VisualStudio.Vsto.Msi.x64" version="16.0.28030" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{D62BC488-4C4A-BF17-A0CE-21B4BF8F9B30}" name="Universal General MIDI DLS Extension SDK" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{D6DDBE6D-E2D0-48C1-9DAC-5DB93DA8DA83}" name="CorelDRAW Graphics Suite 2021 - IPM Content FR (x64)" version="23.0" publisher="Corel Corporation" inst_dir="c:\Program Files\Corel\CorelDRAW Graphics Suite 2021\" />
+    <Product code="{D6DE5C4A-0CDB-4213-9E4D-922907B3DC86}" name="Microsoft.iOS.Sdk (x64)" version="16.0.1478.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{D76AC755-F881-4D85-8B42-31A3FAE6F9DD}" name="CorelDRAW Graphics Suite 2021 - FR (x64)" version="23.1" publisher="Corel Corporation" inst_dir="" />
+    <Product code="{D77EDB1F-AF76-47C9-BFEC-8018435F0B34}" name="CorelDRAW Graphics Suite 2021 - EN (x64)" version="23.1" publisher="Corel Corporation" inst_dir="" />
+    <Product code="{D80BC240-4E00-4B20-84B8-B7EA6C633751}" name="Microsoft.Maui.Sdk (x64)" version="6.0.547.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{DA42513E-CCCB-48E8-AFEB-3B87524D0C0C}" name="Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-arm64 (x64)" version="7.0.0.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{DA8921AE-3BCF-412D-9C8E-5F07C9AAB6DD}" name="Microsoft.iOS.Sdk (x64)" version="16.0.527.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{DB384B11-74C0-4C1E-9263-1D6D08ADA14C}" name="Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-x86 (x64)" version="7.0.0.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{DD3A3886-0EDB-42E1-AC6C-628A796EBFEE}" name="Microsoft SQL Server Migration Assistant for Sybase Extension Pack" version="9.2.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{DDD18F44-5B1B-44FB-A604-1A4EBDB65FC9}" name="CorelDRAW Graphics Suite 2021 - IPM Content EN (x64)" version="23.0" publisher="Corel Corporation" inst_dir="c:\Program Files\Corel\CorelDRAW Graphics Suite 2021\" />
+    <Product code="{DE06DCD3-71A1-42AC-9F6C-B2F391B63B18}" name="Microsoft.Android.Runtime.33.android-arm (x64)" version="33.0.4.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{DE9EAC0A-7859-4294-B05F-4A056D83024C}" name="Paquete de compatibilidad de Microsoft .NET Framework 4.7.2 (español)" version="4.7.03062" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{DEA65BBA-FE42-4E80-855E-9EF1247D221A}" name="SolarWinds SCP Server" version="2.2.1.50096" publisher="SolarWinds" inst_dir="" />
+    <Product code="{DF2A6855-DB81-9047-3033-8D6AC6055AEF}" name="Windows Mobile Extension SDK" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{DF744B97-2258-4FF8-8337-9BFA15808D8C}" name="Microsoft .NET Targeting Pack - 7.0.0 (x86)" version="56.3.50341" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{DF92C1EB-1A05-4E89-BF83-E1899E5E6F2A}" name="Microsoft.Maui.Controls.Runtime.any (x64)" version="7.0.49.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{E2097C26-6179-45C6-9508-8E08D43FC603}" name="Microsoft.NETCore.App.Runtime.Mono.maccatalyst-arm64 (x64)" version="6.0.11.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{E27EC595-4DDF-4DFE-8DCF-95CE32AC4170}" name="Microsoft SQL Server Reporting Services" version="16.0.8361.39598" publisher="Microsoft" inst_dir="" />
+    <Product code="{E331A51C-128D-4007-9BA1-6D1FDFCBE283}" name="Microsoft.NET.Runtime.MonoTargets.Sdk (x64)" version="7.0.0.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{E414058D-38CD-42D0-9050-C8C13E7EE911}" name="Microsoft Windows Desktop Runtime - 6.0.11 (x86)" version="48.47.50419" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{E46F0737-F554-4B48-A5BA-9CC16675C033}" name="Microsoft.Maui.Essentials.Ref.any (x64)" version="7.0.49.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{E4FF65A0-D6B2-4E8F-94F8-C387A1A3BD0D}" name="Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-x64 (x64)" version="7.0.0.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{E5250A53-3EE1-4EE8-BF69-B10ABC207136}" name="Microsoft.Maui.Sdk (x64)" version="7.0.49.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{E5715C32-34B0-6F8E-81B8-13FB19B1B682}" name="Windows SDK Desktop Tools x64" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{E80CACF9-CECB-4F62-8E1C-CCC2F54D2469}" name="PersonalGatewayComponents" version="15.150.12" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{E8C3B3B0-361B-44C2-8A74-ED5CCEF03367}" name=".NET MAUI Templates (x64)" version="6.0.547.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{E95657EA-CED1-4E10-B47F-09ED8ACD7EDE}" name="Microsoft.Maui.Core.Ref.any (x64)" version="7.0.49.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{E99C1E2D-2E57-46B8-B19D-57E0AB3F11BA}" name="Microsoft.MacCatalyst.Runtime.maccatalyst-x64 (x64)" version="15.4.2372.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{EA338ECA-C63F-4BD6-B66F-274433C75A49}" name="Windows SDK Modern Versioned Developer Tools" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{EAE242B1-0A26-485A-BFEB-0292EE9F03CB}" name="Microsoft Visual C++ 2022 X64 Additional Runtime - 14.34.31931" version="14.34.31931" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{EC073C7E-990D-4BB1-BFA9-45C6704E3571}" name="Microsoft .NET Framework 4.7 Targeting Pack" version="4.7.02053" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{EC38B47E-AD87-4203-8AF4-5415A8C31711}" name="Microsoft .NET AppHost Pack - 6.0.11 (x64_arm64)" version="48.47.50420" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{EC766230-FA07-4462-95EC-589FE19A6B19}" name="SQL Server Management Studio for Reporting Services" version="15.0.18424.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{ECB33BF5-DE47-4967-A810-4396DFCF3662}" name="Power BI Report Builder" version="15.7.1801.18" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{ECC23FD6-535B-43CB-894B-F47FA605EBB3}" name="SQL Server Management Studio" version="15.0.18424.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{ED5BB610-66F3-38DA-ACCD-63980E0E8198}" name="Microsoft Visual Studio Tools for Applications 2022 x64 Hosting Support" version="17.0.33011" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{ED790B20-D67B-465C-B3B9-768547F5E389}" name="CorelDRAW Graphics Suite 2021 - IPM Content IT (x64)" version="23.0" publisher="Corel Corporation" inst_dir="c:\Program Files\Corel\CorelDRAW Graphics Suite 2021\" />
+    <Product code="{EF0C772D-F5E3-36D0-BDAB-FD378533CD40}" name="Microsoft .NET Native SDK" version="15.0.24211.07" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{EF56927C-ED92-41B1-8B88-FA225384E2A4}" name="CorelDRAW Graphics Suite 2021 - IPM (x64)" version="23.1" publisher="Corel Corporation" inst_dir="c:\Program Files\Corel\CorelDRAW Graphics Suite 2021\" />
+    <Product code="{EF7B099A-705C-4948-8322-397DC462E324}" name="Microsoft Data Migration Assistant" version="5.6.5445.3" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}" name="Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219" version="10.0.40219" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{F0E9CE77-BF19-4BBE-B228-A42F782F82E4}" name="Microsoft ASP.NET Core Module V2 for IIS Express" version="17.0.22116.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{F1180F89-B07A-44FE-8810-2D4B1E5F47C6}" name="CorelDRAW Graphics Suite 2021 - NL (x64)" version="23.1" publisher="Corel Corporation" inst_dir="" />
+    <Product code="{F1D276E0-5687-4E3E-B3CA-838464BD07E1}" name="Microsoft.Maui.Essentials.Runtime.maccatalyst (x64)" version="7.0.49.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{F273FD0A-40B2-4D49-B1FA-DFA0E6D380FD}" name="Visual C++ Library CRT Appx Package" version="14.34.31933" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{F2BAAC7E-935C-4A0E-8689-4AF4E0A0A962}" name="MySQL Connector J" version="8.0.31" publisher="Oracle Corporation" inst_dir="C:\Program Files (x86)\MySQL\Connector J 8.0" />
+    <Product code="{F344391D-5AF6-496B-853B-1745F22154C8}" name="Microsoft.Maui.Graphics (x64)" version="7.0.49.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{F373DE40-290F-4BAE-9B71-84388FD87A7F}" name="SolarWinds DBA xPress" version="21.8.0" publisher="SolarWinds" inst_dir="" />
+    <Product code="{F40BCC33-0605-39EB-9CC4-C17182175899}" name="Microsoft ASP.NET Core 7.0.0 Targeting Pack (x86)" version="7.0.0.22518" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{F5109AF2-2480-4132-BD48-C54AB499F7E0}" name="Microsoft.Maui.Controls.Ref.android (x64)" version="7.0.49.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{F51247B7-5C10-4E06-975C-4921CE8E991D}" name="Paquete de compatibilidad de Microsoft .NET Framework 4.7 (español)" version="4.7.02053" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{F70620F4-083B-47B1-99CF-D0F32A7995AB}" name="SSIS Productivity Pack (64-bit)" version="22.1.0.29801" publisher="KingswaySoft" inst_dir="" />
+    <Product code="{F7411C67-C203-48C3-9A7C-F7977FAB4994}" name="Microsoft SQL Server Migration Assistant for MySQL" version="9.2.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{F893E9F8-0105-4EA1-8682-3B6F0E74149E}" name="Microsoft.Android.Runtime.33.android-arm64 (x64)" version="33.0.4.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{F8AA44A5-5B1F-4802-9B7B-3B6373AC51FB}" name="sptools_Microsoft.VisualStudio.Vsto.Msi" version="16.0.28030" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{F8B9E8C8-61E8-4E9E-879D-F3F498AD0230}" name="IntelliTraceProfilerProxy" version="15.0.21225.01" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{F8BC94FF-FF0C-4226-AE0A-811960F93DF7}" name="Microsoft .NET Host FX Resolver - 7.0.0 (x64)" version="56.3.50341" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{F952BB8C-E8EC-49CE-BEDB-D6ACC3BFF717}" name="Microsoft.NET.Workload.Mono.Toolchain.net6.Manifest (x64)" version="56.3.50341" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{F9862516-0FC0-4DE4-ABC8-7EA1F48DE1C6}" name="Microsoft.Maui.Core.Runtime.any (x64)" version="7.0.49.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{FA582B75-7D9C-2717-5E64-1A8CC5E46ABD}" name="Windows SDK Modern Non-Versioned Developer Tools" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{FACBFC45-D8A0-40EA-9144-3AA94DBBDA82}" name="Microsoft .NET AppHost Pack - 6.0.11 (x64)" version="48.47.50420" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{FAFEE5E3-E00A-4CE8-B495-8F66A5FAB236}" name="Microsoft ASP.NET Core Module for IIS Express" version="12.2.18292.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{FAFFE35F-C942-43D5-AD40-F8F24E9F1C8A}" name="Microsoft.Android.Runtime.33.android-x64 (x64)" version="33.0.4.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{FBF034E1-563E-1F9D-DC45-491BB88E9B9E}" name="WinRT Intellisense Desktop - en-us" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{FC35A7A0-628A-3C48-B93F-9F2CB23DCA73}" name="Microsoft ASP.NET Core 7.0.0 Shared Framework (x86)" version="7.0.0.22518" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{FD68622A-634F-FB49-6E94-E21A451A3B5A}" name="Windows App Certification Kit x64" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{FE506C51-87F3-4FA6-B4FC-859ED984EC99}" name="Microsoft .NET Host FX Resolver - 7.0.0 (x86)" version="56.3.50341" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{FE768F65-89B5-40E5-9CE5-25D002197AE7}" name="Microsoft.NET.Sdk.Android.Manifest-7.0.100 (x64)" version="33.0.4" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{FEAF2203-A2AC-080C-9D55-9F09623F38C3}" name="WinRT Intellisense PPI - en-us" version="10.1.22000.832" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{FECAFEB5-8D0E-4AE4-8FA0-745BAA835C35}" name="DiagnosticsHub_CollectionService" version="17.3.32601" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{FF38206D-3E62-4050-8247-4724E1C00F87}" name="Microsoft.Maui.Core.Runtime.maccatalyst (x64)" version="7.0.49.0" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{FF576B8A-70E1-4AC3-A0F1-7E692B3ECA27}" name="Microsoft.NET.Workload.Emscripten.net7.Manifest (x64)" version="56.31.50225" publisher="Microsoft Corporation" inst_dir="" />
+    <Product code="{FF986DA1-69E8-41F8-99AC-A32FD9E0C682}" name="Microsoft.NETCore.App.Runtime.Mono.android-x86 (x64)" version="6.0.11.0" publisher="Microsoft Corporation" inst_dir="" />
+</InstalledProducts>

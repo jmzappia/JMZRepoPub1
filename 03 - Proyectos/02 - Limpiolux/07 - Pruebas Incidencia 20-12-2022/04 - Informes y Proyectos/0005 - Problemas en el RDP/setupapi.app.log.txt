@@ -1,0 +1,23 @@
+[Device Install Log]
+     OS Version = 10.0.19045
+     Service Pack = 0.0
+     Suite = 0x0100
+     ProductType = 1
+     Architecture = amd64
+
+[BeginLog]
+     dvi: Installing new driver
+     dvi: Selected driver:
+     dvi: INF path C:\Windows\INF\oem58.inf
+     dvi: INF section FilterWiFi
+     dvi: INF version 12.38.28.955
+     dvi: Installing new driver
+     dvi: Selected driver:
+     dvi: INF path C:\Windows\INF\netpgm.inf
+     dvi: INF section MS_RMCAST.PrimaryInstall
+     dvi: INF version 10.0.19041.1
+     dvi: Installing new driver
+     dvi: Selected driver:
+     dvi: INF path C:\Windows\INF\netvwififlt.inf
+     dvi: INF section Install
+     dvi: INF version 10.0.19041.1

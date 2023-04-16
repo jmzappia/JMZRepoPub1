@@ -1,0 +1,27 @@
+Deben acceder a una PC en la red de Diarco con un usuario de dominio de Diarco.
+
+Yo uso la PC 192.168.0.56
+ 
+
+Te paso mis credenciales para que puedan acceder ahora. Estimo que deberían pedir que les generen credenciales nuevas para Uds. y dar permisos en esa carpeta.
+
+Usuario: Diarco\dbraithwaite
+Clave: Diarco2023
+Para hacer estas acciones, deben conectarse a la VPN previamente.
+
+
+Datos:
+
+VPN FORTICLIENT (Diarco)
+
+jallegrini/Diarco2020
+GW: 200.41.192.202
+Port: 446
+ 
+
+VPN POTIGIAN
+190.221.18.138 (zuser.potigian.com.ar)
+Puerto 442
+
+
+jallegrini/Argen2020!

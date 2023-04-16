@@ -1,0 +1,19 @@
+Product Name: Windows 10 Pro
+Product ID: 00331-20071-40983-AA873
+Product Key: JDCKB-7VNPD-QD376-MMRQJ-JFG6Y
+
+
+jzappia@limpiolux.com.ar
+Poste.8911
+
+
+jzappia
+Poste.8911
+
+
+User: sajzappia
+Pass: Terremoto.5368
+
+
+chkdsk /f /r /x
+defrag /C /g /o /X

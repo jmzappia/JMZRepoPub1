@@ -1,0 +1,1115 @@
+[Device Install Log]
+     OS Version = 10.0.19045
+     Service Pack = 0.0
+     Suite = 0x0100
+     ProductType = 1
+     Architecture = x86
+
+[BeginLog]
+
+[Boot Session: 2022/12/09 20:12:33.500]
+
+>>>  [Setup Import Driver Package - c:\program files (x86)\adobe\acrobat dc\acrobat\xtras\adobepdf\adobepdf.inf]
+>>>  Section start 2022/12/11 20:28:06.770
+      cmd: C:\Windows\syswow64\MsiExec.exe -Embedding 7084EFFC0B45E960D2D0BECBC64AD024 E Global\MSI0000
+     inf: Provider: Adobe
+     inf: Class GUID: {4D36E979-E325-11CE-BFC1-08002BE10318}
+     inf: Driver Version: 11/11/2021,21.3.0000.0
+     inf: Catalog File: AdobePDF.cat
+     ump: Import flags: 0x00000009
+     pol: {Driver package policy check} 20:28:07.392
+     pol: {Driver package policy check - exit(0x00000000)} 20:28:07.393
+     sto: {Stage Driver Package: c:\program files (x86)\adobe\acrobat dc\acrobat\xtras\adobepdf\adobepdf.inf} 20:28:07.397
+     inf:      {Query Configurability: c:\program files (x86)\adobe\acrobat dc\acrobat\xtras\adobepdf\adobepdf.inf} 20:28:07.665
+     inf:           Driver package 'adobepdf.inf' is configurable.
+     inf:      {Query Configurability: exit(0x00000000)} 20:28:07.676
+     flq:      {FILE_QUEUE_COMMIT} 20:28:07.931
+     flq:           Copying 'c:\program files (x86)\adobe\acrobat dc\acrobat\xtras\adobepdf\AdobePDF.cat' to 'C:\Windows\System32\DriverStore\Temp\{6b365c77-e89d-bb4e-9ca1-0cb1f10699fa}\AdobePDF.cat'.
+     flq:           Copying 'c:\program files (x86)\adobe\acrobat dc\acrobat\xtras\adobepdf\adobepdf.inf' to 'C:\Windows\System32\DriverStore\Temp\{6b365c77-e89d-bb4e-9ca1-0cb1f10699fa}\adobepdf.inf'.
+     flq:           Copying 'c:\program files (x86)\adobe\acrobat dc\acrobat\xtras\adobepdf\Amd64Vista\AdobePdf.dll' to 'C:\Windows\System32\DriverStore\Temp\{6b365c77-e89d-bb4e-9ca1-0cb1f10699fa}\Amd64Vista\AdobePdf.dll'.
+     flq:           Copying 'c:\program files (x86)\adobe\acrobat dc\acrobat\xtras\adobepdf\Amd64Vista\AdobePDFUI.dll' to 'C:\Windows\System32\DriverStore\Temp\{6b365c77-e89d-bb4e-9ca1-0cb1f10699fa}\Amd64Vista\AdobePDFUI.dll'.
+     flq:           Copying 'c:\program files (x86)\adobe\acrobat dc\acrobat\xtras\adobepdf\Amd64\PSCRPTFE.NTF' to 'C:\Windows\System32\DriverStore\Temp\{6b365c77-e89d-bb4e-9ca1-0cb1f10699fa}\Amd64\PSCRPTFE.NTF'.
+     flq:           Copying 'c:\program files (x86)\adobe\acrobat dc\acrobat\xtras\adobepdf\Amd64\ADPDF9.PPD' to 'C:\Windows\System32\DriverStore\Temp\{6b365c77-e89d-bb4e-9ca1-0cb1f10699fa}\Amd64\ADPDF9.PPD'.
+     flq:           Copying 'c:\program files (x86)\adobe\acrobat dc\acrobat\xtras\adobepdf\Amd64\ADGELP.INI' to 'C:\Windows\System32\DriverStore\Temp\{6b365c77-e89d-bb4e-9ca1-0cb1f10699fa}\Amd64\ADGELP.INI'.
+     flq:           Copying 'c:\program files (x86)\adobe\acrobat dc\acrobat\xtras\adobepdf\Amd64\ADREGP.DLL' to 'C:\Windows\System32\DriverStore\Temp\{6b365c77-e89d-bb4e-9ca1-0cb1f10699fa}\Amd64\ADREGP.DLL'.
+     flq:           Copying 'c:\program files (x86)\adobe\acrobat dc\acrobat\xtras\adobepdf\Amd64\ADUIGP.DLL' to 'C:\Windows\System32\DriverStore\Temp\{6b365c77-e89d-bb4e-9ca1-0cb1f10699fa}\Amd64\ADUIGP.DLL'.
+     flq:      {FILE_QUEUE_COMMIT - exit(0x00000000)} 20:28:08.472
+     sto:      {DRIVERSTORE IMPORT VALIDATE} 20:28:08.475
+     sig:           Driver package catalog is valid.
+     sig:           {_VERIFY_FILE_SIGNATURE} 20:28:08.505
+     sig:                Key      = adobepdf.inf
+     sig:                FilePath = C:\Windows\System32\DriverStore\Temp\{6b365c77-e89d-bb4e-9ca1-0cb1f10699fa}\adobepdf.inf
+     sig:                Catalog  = C:\Windows\System32\DriverStore\Temp\{6b365c77-e89d-bb4e-9ca1-0cb1f10699fa}\AdobePDF.cat
+     sig:                Success: File is signed in catalog.
+     sig:           {_VERIFY_FILE_SIGNATURE exit(0x00000000)} 20:28:08.514
+     sto:      {DRIVERSTORE IMPORT VALIDATE: exit(0x00000000)} 20:28:08.565
+     sig:      Signer Score  = 0x0D000005 (WHQL)
+     sig:      Signer Name   = Microsoft Windows Hardware Compatibility Publisher
+     sig:      Submission ID = 30099620_14071346503137299_1152921505694165155
+     sto:      {Core Driver Package Import: adobepdf.inf_amd64_b7f4492e18ad270b} 20:28:08.569
+     sto:           {DRIVERSTORE IMPORT BEGIN} 20:28:08.569
+     sto:           {DRIVERSTORE IMPORT BEGIN: exit(0x00000000)} 20:28:08.570
+     cpy:           {Copy Directory: C:\Windows\System32\DriverStore\Temp\{6b365c77-e89d-bb4e-9ca1-0cb1f10699fa}} 20:28:08.570
+     cpy:                Target Path = C:\Windows\System32\DriverStore\FileRepository\adobepdf.inf_amd64_b7f4492e18ad270b
+     cpy:                {Copy Directory: C:\Windows\System32\DriverStore\Temp\{6b365c77-e89d-bb4e-9ca1-0cb1f10699fa}\Amd64} 20:28:08.572
+     cpy:                     Target Path = C:\Windows\System32\DriverStore\FileRepository\adobepdf.inf_amd64_b7f4492e18ad270b\Amd64
+     cpy:                {Copy Directory: exit(0x00000000)} 20:28:08.575
+     cpy:                {Copy Directory: C:\Windows\System32\DriverStore\Temp\{6b365c77-e89d-bb4e-9ca1-0cb1f10699fa}\Amd64Vista} 20:28:08.575
+     cpy:                     Target Path = C:\Windows\System32\DriverStore\FileRepository\adobepdf.inf_amd64_b7f4492e18ad270b\Amd64Vista
+     cpy:                {Copy Directory: exit(0x00000000)} 20:28:08.577
+     cpy:           {Copy Directory: exit(0x00000000)} 20:28:08.577
+     idb:           {Register Driver Package: C:\Windows\System32\DriverStore\FileRepository\adobepdf.inf_amd64_b7f4492e18ad270b\adobepdf.inf} 20:28:08.578
+     idb:                Created driver package object 'adobepdf.inf_amd64_b7f4492e18ad270b' in DRIVERS database node.
+     idb:                Created driver INF file object 'oem59.inf' in DRIVERS database node.
+     idb:                Registered driver package 'adobepdf.inf_amd64_b7f4492e18ad270b' with 'oem59.inf'.
+     idb:           {Register Driver Package: exit(0x00000000)} 20:28:08.585
+     idb:           {Publish Driver Package: C:\Windows\System32\DriverStore\FileRepository\adobepdf.inf_amd64_b7f4492e18ad270b\adobepdf.inf} 20:28:08.585
+     idb:                Activating driver package 'adobepdf.inf_amd64_b7f4492e18ad270b'.
+     cpy:                Published 'adobepdf.inf_amd64_b7f4492e18ad270b\adobepdf.inf' to 'oem59.inf'.
+     idb:                Indexed 2 device IDs for 'adobepdf.inf_amd64_b7f4492e18ad270b'.
+     sto:                Flushed driver database node 'DRIVERS'. Time = 203 ms
+     sto:                Flushed driver database node 'SYSTEM'. Time = 16 ms
+     idb:           {Publish Driver Package: exit(0x00000000)} 20:28:08.841
+     sto:           {DRIVERSTORE IMPORT END} 20:28:08.847
+     dvi:                Flushed all driver package files to disk. Time = 1078 ms
+     sig:                Installed catalog 'AdobePDF.cat' as 'oem59.cat'.
+     sto:           {DRIVERSTORE IMPORT END: exit(0x00000000)} 20:28:10.149
+     sto:      {Core Driver Package Import: exit(0x00000000)} 20:28:10.149
+     sto: {Stage Driver Package: exit(0x00000000)} 20:28:10.153
+<<<  Section end 2022/12/11 20:28:10.229
+<<<  [Exit status: SUCCESS]
+
+
+[Boot Session: 2022/12/11 21:36:38.500]
+
+>>>  [Device Installation Restrictions Policy Check]
+>>>  Section start 2022/12/11 21:39:31.342
+<<<  Section end 2022/12/11 21:39:31.370
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [Delete Device - SWD\PRINTENUM\{9C1D5433-C026-40DF-85AF-217FF64B7CD0}]
+>>>  Section start 2022/12/14 22:40:24.853
+      cmd: C:\Windows\System32\spoolsv.exe
+<<<  Section end 2022/12/14 22:40:24.880
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [Setup Import Driver Package - c:\program files (x86)\adobe\acrobat dc\acrobat\xtras\adobepdf\adobepdf.inf]
+>>>  Section start 2022/12/14 22:41:38.088
+      cmd: C:\Windows\syswow64\MsiExec.exe -Embedding AF2789998D6530953808E6A3E3C57C1B E Global\MSI0000
+     sto: Driver package already imported as 'oem59.inf'.
+<<<  Section end 2022/12/14 22:41:38.139
+<<<  [Exit status: SUCCESS]
+
+
+[Boot Session: 2022/12/17 08:29:17.500]
+
+>>>  [Setup Import Driver Package - C:\Program Files\Microsoft Office\root\Office16\OneNote\\prnms006.inf]
+>>>  Section start 2022/12/17 22:15:27.116
+      cmd: integrator.exe /I /Extension /Msi /C2R PackageGUID="9AC08E99-230B-47e8-9721-4577B7F124EA" PackageRoot="C:\Program Files\Microsoft Office\root"
+     sto: Driver package already imported as 'oem53.inf'.
+<<<  Section end 2022/12/17 22:15:27.209
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [Delete Device - SWD\PRINTENUM\{405CE411-4DA3-423A-BF26-C5DD17525EC1}]
+>>>  Section start 2022/12/17 22:15:27.288
+      cmd: C:\Windows\System32\spoolsv.exe
+!    dvi: Access denied from Query and Remove
+<<<  Section end 2022/12/17 22:15:27.311
+<<<  [Exit status: SUCCESS]
+
+
+[Boot Session: 2022/12/19 18:12:46.500]
+
+>>>  [Device Installation Restrictions Policy Check]
+>>>  Section start 2022/12/19 19:58:10.246
+<<<  Section end 2022/12/19 19:58:10.271
+<<<  [Exit status: SUCCESS]
+
+
+[Boot Session: 2022/12/19 20:20:43.500]
+
+>>>  [Set network binding enabled - ms_implat->ROOT\NET\0001]
+>>>  Section start 2022/12/19 22:16:18.247
+      cmd: C:\Windows\system32\DllHost.exe /Processid:{7007ACD1-3202-11D1-AAD2-00805FC1270E}
+<<<  Section end 2022/12/19 22:16:18.251
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [Set network binding enabled - ms_implat->ROOT\NET\0001]
+>>>  Section start 2022/12/19 22:17:14.096
+      cmd: C:\Windows\system32\DllHost.exe /Processid:{7007ACD1-3202-11D1-AAD2-00805FC1270E}
+<<<  Section end 2022/12/19 22:17:14.097
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [Set network binding enabled - ms_implat->ROOT\NET\0001]
+>>>  Section start 2022/12/19 22:18:13.886
+      cmd: C:\Windows\system32\DllHost.exe /Processid:{7007ACD1-3202-11D1-AAD2-00805FC1270E}
+<<<  Section end 2022/12/19 22:18:13.886
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [Setup Import Driver Package - c:\users\jzappia\appdata\roaming\anydesk\printer_driver\anydeskprintdriver.inf]
+>>>  Section start 2022/12/19 22:54:09.269
+      cmd: "C:\Windows\System32\rundll32.exe" printui.dll, PrintUIEntry /if /b "AnyDesk Printer" /f "C:\Users\jzappia\AppData\Roaming\AnyDesk\printer_driver\AnyDeskPrintDriver.inf" /r "AD_Port" /m "AnyDesk v4 Printer Driver"
+     inf: Provider: AnyDesk
+     inf: Class GUID: {4D36E979-E325-11CE-BFC1-08002BE10318}
+     inf: Driver Version: 12/04/2018,10.40.28.109
+     inf: Catalog File: AnyDeskPrintDriver.cat
+     sto: {Copy Driver Package: c:\users\jzappia\appdata\roaming\anydesk\printer_driver\anydeskprintdriver.inf} 22:54:09.280
+     sto:      Driver Package = c:\users\jzappia\appdata\roaming\anydesk\printer_driver\anydeskprintdriver.inf
+     sto:      Architecture   = amd64
+     sto:      Flags          = 0x00000007
+     sto:      Destination    = C:\Users\jzappia\AppData\Local\Temp\{6e88b087-bac3-2244-92fd-b0a702b639df}
+     sto:      Copying driver package files to 'C:\Users\jzappia\AppData\Local\Temp\{6e88b087-bac3-2244-92fd-b0a702b639df}'.
+     flq:      {FILE_QUEUE_COMMIT} 22:54:09.285
+     flq:           Copying 'c:\users\jzappia\appdata\roaming\anydesk\printer_driver\AnyDeskPrintDriverRenderFilter.dll' to 'C:\Users\jzappia\AppData\Local\Temp\{6e88b087-bac3-2244-92fd-b0a702b639df}\AnyDeskPrintDriverRenderFilter.dll'.
+     flq:           Copying 'c:\users\jzappia\appdata\roaming\anydesk\printer_driver\AnyDeskPrintDriverRenderFilter-PipelineConfig.xml' to 'C:\Users\jzappia\AppData\Local\Temp\{6e88b087-bac3-2244-92fd-b0a702b639df}\AnyDeskPrintDriverRenderFilter-PipelineConfig.xml'.
+     flq:           Copying 'c:\users\jzappia\appdata\roaming\anydesk\printer_driver\AnyDeskPrintDriver-manifest.ini' to 'C:\Users\jzappia\AppData\Local\Temp\{6e88b087-bac3-2244-92fd-b0a702b639df}\AnyDeskPrintDriver-manifest.ini'.
+     flq:           Copying 'c:\users\jzappia\appdata\roaming\anydesk\printer_driver\AnyDeskPrintDriver.cat' to 'C:\Users\jzappia\AppData\Local\Temp\{6e88b087-bac3-2244-92fd-b0a702b639df}\AnyDeskPrintDriver.cat'.
+     flq:           Copying 'c:\users\jzappia\appdata\roaming\anydesk\printer_driver\AnyDeskPrintDriver.gpd' to 'C:\Users\jzappia\AppData\Local\Temp\{6e88b087-bac3-2244-92fd-b0a702b639df}\AnyDeskPrintDriver.gpd'.
+     flq:           Copying 'c:\users\jzappia\appdata\roaming\anydesk\printer_driver\anydeskprintdriver.inf' to 'C:\Users\jzappia\AppData\Local\Temp\{6e88b087-bac3-2244-92fd-b0a702b639df}\anydeskprintdriver.inf'.
+     flq:      {FILE_QUEUE_COMMIT - exit(0x00000000)} 22:54:09.306
+     sto: {Copy Driver Package: exit(0x00000000)} 22:54:09.306
+     ump: Import flags: 0x00000000
+     pol: {Driver package policy check} 22:54:09.380
+     pol: {Driver package policy check - exit(0x00000000)} 22:54:09.380
+     sto: {Stage Driver Package: C:\Users\jzappia\AppData\Local\Temp\{6e88b087-bac3-2244-92fd-b0a702b639df}\anydeskprintdriver.inf} 22:54:09.383
+     inf:      {Query Configurability: C:\Users\jzappia\AppData\Local\Temp\{6e88b087-bac3-2244-92fd-b0a702b639df}\anydeskprintdriver.inf} 22:54:09.389
+     inf:           Driver package 'anydeskprintdriver.inf' is configurable.
+     inf:      {Query Configurability: exit(0x00000000)} 22:54:09.391
+     flq:      {FILE_QUEUE_COMMIT} 22:54:09.392
+     flq:           Copying 'C:\Users\jzappia\AppData\Local\Temp\{6e88b087-bac3-2244-92fd-b0a702b639df}\AnyDeskPrintDriverRenderFilter.dll' to 'C:\Windows\System32\DriverStore\Temp\{5276857a-b368-964c-9f60-05108892a66f}\AnyDeskPrintDriverRenderFilter.dll'.
+     flq:           Copying 'C:\Users\jzappia\AppData\Local\Temp\{6e88b087-bac3-2244-92fd-b0a702b639df}\AnyDeskPrintDriverRenderFilter-PipelineConfig.xml' to 'C:\Windows\System32\DriverStore\Temp\{5276857a-b368-964c-9f60-05108892a66f}\AnyDeskPrintDriverRenderFilter-PipelineConfig.xml'.
+     flq:           Copying 'C:\Users\jzappia\AppData\Local\Temp\{6e88b087-bac3-2244-92fd-b0a702b639df}\AnyDeskPrintDriver-manifest.ini' to 'C:\Windows\System32\DriverStore\Temp\{5276857a-b368-964c-9f60-05108892a66f}\AnyDeskPrintDriver-manifest.ini'.
+     flq:           Copying 'C:\Users\jzappia\AppData\Local\Temp\{6e88b087-bac3-2244-92fd-b0a702b639df}\AnyDeskPrintDriver.cat' to 'C:\Windows\System32\DriverStore\Temp\{5276857a-b368-964c-9f60-05108892a66f}\AnyDeskPrintDriver.cat'.
+     flq:           Copying 'C:\Users\jzappia\AppData\Local\Temp\{6e88b087-bac3-2244-92fd-b0a702b639df}\AnyDeskPrintDriver.gpd' to 'C:\Windows\System32\DriverStore\Temp\{5276857a-b368-964c-9f60-05108892a66f}\AnyDeskPrintDriver.gpd'.
+     flq:           Copying 'C:\Users\jzappia\AppData\Local\Temp\{6e88b087-bac3-2244-92fd-b0a702b639df}\anydeskprintdriver.inf' to 'C:\Windows\System32\DriverStore\Temp\{5276857a-b368-964c-9f60-05108892a66f}\anydeskprintdriver.inf'.
+     flq:      {FILE_QUEUE_COMMIT - exit(0x00000000)} 22:54:09.414
+     sto:      {DRIVERSTORE IMPORT VALIDATE} 22:54:09.416
+     sig:           Driver package catalog is valid.
+     sig:           {_VERIFY_FILE_SIGNATURE} 22:54:09.450
+     sig:                Key      = anydeskprintdriver.inf
+     sig:                FilePath = C:\Windows\System32\DriverStore\Temp\{5276857a-b368-964c-9f60-05108892a66f}\anydeskprintdriver.inf
+     sig:                Catalog  = C:\Windows\System32\DriverStore\Temp\{5276857a-b368-964c-9f60-05108892a66f}\AnyDeskPrintDriver.cat
+!    sig:                Verifying file against specific (valid) catalog failed.
+     sig:           {_VERIFY_FILE_SIGNATURE exit(0x800b0109)} 22:54:09.466
+     sig:           {_VERIFY_FILE_SIGNATURE} 22:54:09.469
+     sig:                Key      = anydeskprintdriver.inf
+     sig:                FilePath = C:\Windows\System32\DriverStore\Temp\{5276857a-b368-964c-9f60-05108892a66f}\anydeskprintdriver.inf
+     sig:                Catalog  = C:\Windows\System32\DriverStore\Temp\{5276857a-b368-964c-9f60-05108892a66f}\AnyDeskPrintDriver.cat
+     sig:                Success: File is signed in Authenticode(tm) catalog.
+     sig:           {_VERIFY_FILE_SIGNATURE exit(0xe0000242)} 22:54:09.492
+!    sig:           Driver package signer is unknown, but user trusts signer.
+     sig:           Driver package certificate was successfully installed.
+     sto:      {DRIVERSTORE IMPORT VALIDATE: exit(0x00000000)} 22:54:20.247
+     sig:      Signer Score  = 0x0F000000 (Authenticode)
+     sig:      Signer Name   = philandro Software GmbH
+     sto:      {Core Driver Package Import: anydeskprintdriver.inf_amd64_07b22d0a6997cb3a} 22:54:20.249
+     sto:           {DRIVERSTORE IMPORT BEGIN} 22:54:20.249
+     sto:           {DRIVERSTORE IMPORT BEGIN: exit(0x00000000)} 22:54:20.249
+     cpy:           {Copy Directory: C:\Windows\System32\DriverStore\Temp\{5276857a-b368-964c-9f60-05108892a66f}} 22:54:20.249
+     cpy:                Target Path = C:\Windows\System32\DriverStore\FileRepository\anydeskprintdriver.inf_amd64_07b22d0a6997cb3a
+     cpy:           {Copy Directory: exit(0x00000000)} 22:54:20.252
+     idb:           {Register Driver Package: C:\Windows\System32\DriverStore\FileRepository\anydeskprintdriver.inf_amd64_07b22d0a6997cb3a\anydeskprintdriver.inf} 22:54:20.253
+     idb:                Created driver package object 'anydeskprintdriver.inf_amd64_07b22d0a6997cb3a' in DRIVERS database node.
+     idb:                Created driver INF file object 'oem60.inf' in DRIVERS database node.
+     idb:                Registered driver package 'anydeskprintdriver.inf_amd64_07b22d0a6997cb3a' with 'oem60.inf'.
+     idb:           {Register Driver Package: exit(0x00000000)} 22:54:20.257
+     idb:           {Publish Driver Package: C:\Windows\System32\DriverStore\FileRepository\anydeskprintdriver.inf_amd64_07b22d0a6997cb3a\anydeskprintdriver.inf} 22:54:20.257
+     idb:                Activating driver package 'anydeskprintdriver.inf_amd64_07b22d0a6997cb3a'.
+     cpy:                Published 'anydeskprintdriver.inf_amd64_07b22d0a6997cb3a\anydeskprintdriver.inf' to 'oem60.inf'.
+     idb:                Indexed 4 device IDs for 'anydeskprintdriver.inf_amd64_07b22d0a6997cb3a'.
+     sto:                Flushed driver database node 'DRIVERS'. Time = 0 ms
+     sto:                Flushed driver database node 'SYSTEM'. Time = 0 ms
+     idb:           {Publish Driver Package: exit(0x00000000)} 22:54:20.272
+     sto:           {DRIVERSTORE IMPORT END} 22:54:20.275
+     dvi:                Flushed all driver package files to disk. Time = 16 ms
+     sig:                Installed catalog 'AnyDeskPrintDriver.cat' as 'oem60.cat'.
+     sto:           {DRIVERSTORE IMPORT END: exit(0x00000000)} 22:54:20.394
+     sto:      {Core Driver Package Import: exit(0x00000000)} 22:54:20.394
+     sto: {Stage Driver Package: exit(0x00000000)} 22:54:20.395
+<<<  Section end 2022/12/19 22:54:20.447
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [SetupCopyOEMInf - C:\Program Files\Electronic Team\FlexiHub\drivers\USB\nt10x64\UsbStub.inf]
+>>>  Section start 2022/12/19 23:02:12.909
+      cmd: "C:\Program Files\Electronic Team\FlexiHub\drivers\USB\nt10x64\setup_server_flexihub.exe"
+     inf: Copy style: 0x00000000
+     sto: {Setup Import Driver Package: C:\Program Files\Electronic Team\FlexiHub\drivers\USB\nt10x64\UsbStub.inf} 23:02:12.964
+     inf:      Provider: Electronic Team, Inc.
+     inf:      Class GUID: {BA60D326-EE12-4957-B702-7F5EDBE9ECE5}
+     inf:      Driver Version: 07/14/2021,9.2.2343.0
+     inf:      Catalog File: UsbOverTcp.cat
+     sto:      {Copy Driver Package: C:\Program Files\Electronic Team\FlexiHub\drivers\USB\nt10x64\UsbStub.inf} 23:02:12.970
+     sto:           Driver Package = C:\Program Files\Electronic Team\FlexiHub\drivers\USB\nt10x64\UsbStub.inf
+     sto:           Flags          = 0x00000007
+     sto:           Destination    = C:\Users\jzappia\AppData\Local\Temp\{fe771397-5ded-1646-a9b2-42913d54fe84}
+     sto:           Copying driver package files to 'C:\Users\jzappia\AppData\Local\Temp\{fe771397-5ded-1646-a9b2-42913d54fe84}'.
+     flq:           {FILE_QUEUE_COMMIT} 23:02:12.973
+     flq:                Copying 'C:\Program Files\Electronic Team\FlexiHub\drivers\USB\nt10x64\UsbStub.inf' to 'C:\Users\jzappia\AppData\Local\Temp\{fe771397-5ded-1646-a9b2-42913d54fe84}\UsbStub.inf'.
+     flq:                Copying 'C:\Program Files\Electronic Team\FlexiHub\drivers\USB\nt10x64\eusbstub.sys' to 'C:\Users\jzappia\AppData\Local\Temp\{fe771397-5ded-1646-a9b2-42913d54fe84}\eusbstub.sys'.
+     flq:                Copying 'C:\Program Files\Electronic Team\FlexiHub\drivers\USB\nt10x64\UsbOverTcp.cat' to 'C:\Users\jzappia\AppData\Local\Temp\{fe771397-5ded-1646-a9b2-42913d54fe84}\UsbOverTcp.cat'.
+     flq:           {FILE_QUEUE_COMMIT - exit(0x00000000)} 23:02:12.982
+     sto:      {Copy Driver Package: exit(0x00000000)} 23:02:12.982
+     ump:      Import flags: 0x00000000
+     pol:      {Driver package policy check} 23:02:13.043
+     pol:      {Driver package policy check - exit(0x00000000)} 23:02:13.043
+     sto:      {Stage Driver Package: C:\Users\jzappia\AppData\Local\Temp\{fe771397-5ded-1646-a9b2-42913d54fe84}\UsbStub.inf} 23:02:13.044
+     inf:           {Query Configurability: C:\Users\jzappia\AppData\Local\Temp\{fe771397-5ded-1646-a9b2-42913d54fe84}\UsbStub.inf} 23:02:13.046
+     inf:                Driver package 'UsbStub.inf' is configurable.
+     inf:           {Query Configurability: exit(0x00000000)} 23:02:13.047
+     flq:           {FILE_QUEUE_COMMIT} 23:02:13.048
+     flq:                Copying 'C:\Users\jzappia\AppData\Local\Temp\{fe771397-5ded-1646-a9b2-42913d54fe84}\UsbStub.inf' to 'C:\Windows\System32\DriverStore\Temp\{2eb9acc2-e43b-064f-a91d-c6f50ca358e1}\UsbStub.inf'.
+     flq:                Copying 'C:\Users\jzappia\AppData\Local\Temp\{fe771397-5ded-1646-a9b2-42913d54fe84}\eusbstub.sys' to 'C:\Windows\System32\DriverStore\Temp\{2eb9acc2-e43b-064f-a91d-c6f50ca358e1}\eusbstub.sys'.
+     flq:                Copying 'C:\Users\jzappia\AppData\Local\Temp\{fe771397-5ded-1646-a9b2-42913d54fe84}\UsbOverTcp.cat' to 'C:\Windows\System32\DriverStore\Temp\{2eb9acc2-e43b-064f-a91d-c6f50ca358e1}\UsbOverTcp.cat'.
+     flq:           {FILE_QUEUE_COMMIT - exit(0x00000000)} 23:02:13.057
+     sto:           {DRIVERSTORE IMPORT VALIDATE} 23:02:13.058
+     sig:                Driver package catalog is valid.
+     sig:                {_VERIFY_FILE_SIGNATURE} 23:02:13.077
+     sig:                     Key      = UsbStub.inf
+     sig:                     FilePath = C:\Windows\System32\DriverStore\Temp\{2eb9acc2-e43b-064f-a91d-c6f50ca358e1}\UsbStub.inf
+     sig:                     Catalog  = C:\Windows\System32\DriverStore\Temp\{2eb9acc2-e43b-064f-a91d-c6f50ca358e1}\UsbOverTcp.cat
+     sig:                     Success: File is signed in catalog.
+     sig:                {_VERIFY_FILE_SIGNATURE exit(0x00000000)} 23:02:13.083
+     sto:           {DRIVERSTORE IMPORT VALIDATE: exit(0x00000000)} 23:02:13.084
+     sig:           Signer Score  = 0x0D000005 (WHQL)
+     sig:           Signer Name   = Microsoft Windows Hardware Compatibility Publisher
+     sig:           Submission ID = 60142220_13941872273305160_1152921505693683616
+     sto:           {Core Driver Package Import: usbstub.inf_amd64_b9de7c1cded4a198} 23:02:13.086
+     sto:                {DRIVERSTORE IMPORT BEGIN} 23:02:13.086
+     sto:                {DRIVERSTORE IMPORT BEGIN: exit(0x00000000)} 23:02:13.086
+     cpy:                {Copy Directory: C:\Windows\System32\DriverStore\Temp\{2eb9acc2-e43b-064f-a91d-c6f50ca358e1}} 23:02:13.087
+     cpy:                     Target Path = C:\Windows\System32\DriverStore\FileRepository\usbstub.inf_amd64_b9de7c1cded4a198
+     cpy:                {Copy Directory: exit(0x00000000)} 23:02:13.089
+     idb:                {Register Driver Package: C:\Windows\System32\DriverStore\FileRepository\usbstub.inf_amd64_b9de7c1cded4a198\UsbStub.inf} 23:02:13.090
+     idb:                     Created driver package object 'usbstub.inf_amd64_b9de7c1cded4a198' in DRIVERS database node.
+     idb:                     Created driver INF file object 'oem61.inf' in DRIVERS database node.
+     idb:                     Registered driver package 'usbstub.inf_amd64_b9de7c1cded4a198' with 'oem61.inf'.
+     idb:                     {Configure Device Setup Class: {ba60d326-ee12-4957-b702-7f5edbe9ece5}}
+     idb:                          Class Name = EUsbStub
+     idb:                     {Configure Device Setup Class: exit(0x00000000)}
+     flq:                     {FILE_QUEUE_COMMIT} 23:02:13.105
+     flq:                          Copying 'C:\Windows\System32\DriverStore\FileRepository\usbstub.inf_amd64_b9de7c1cded4a198\eusbstub.sys' to 'C:\Windows\System32\drivers\eusbstub.sys'.
+     flq:                     {FILE_QUEUE_COMMIT - exit(0x00000000)} 23:02:13.110
+     idb:                {Register Driver Package: exit(0x00000000)} 23:02:13.110
+     idb:                {Publish Driver Package: C:\Windows\System32\DriverStore\FileRepository\usbstub.inf_amd64_b9de7c1cded4a198\UsbStub.inf} 23:02:13.110
+     idb:                     Activating driver package 'usbstub.inf_amd64_b9de7c1cded4a198'.
+     cpy:                     Published 'usbstub.inf_amd64_b9de7c1cded4a198\usbstub.inf' to 'oem61.inf'.
+     idb:                     Indexed 2 device IDs for 'usbstub.inf_amd64_b9de7c1cded4a198'.
+     sto:                     Flushed driver database node 'DRIVERS'. Time = 0 ms
+     sto:                     Flushed driver database node 'SYSTEM'. Time = 0 ms
+     idb:                {Publish Driver Package: exit(0x00000000)} 23:02:13.120
+     sto:                {DRIVERSTORE IMPORT END} 23:02:13.120
+     dvi:                     Flushed all driver package files to disk. Time = 16 ms
+     sig:                     Installed catalog 'UsbOverTcp.cat' as 'oem61.cat'.
+     sto:                {DRIVERSTORE IMPORT END: exit(0x00000000)} 23:02:13.130
+     sto:           {Core Driver Package Import: exit(0x00000000)} 23:02:13.130
+     sto:      {Stage Driver Package: exit(0x00000000)} 23:02:13.130
+     sto: {Setup Import Driver Package - exit (0x00000000)} 23:02:13.173
+     inf: Driver Store Path: C:\Windows\System32\DriverStore\FileRepository\usbstub.inf_amd64_b9de7c1cded4a198\UsbStub.inf
+     inf: Published Inf Path: C:\Windows\INF\oem61.inf
+<<<  Section end 2022/12/19 23:02:13.175
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [Device Install (UpdateDriverForPlugAndPlayDevices) - vuhub]
+>>>  Section start 2022/12/19 23:02:13.547
+      cmd: "C:\Program Files\Electronic Team\FlexiHub\drivers\USB\nt10x64\setup_server_flexihub.exe"
+     ndv: INF path: C:\Program Files\Electronic Team\FlexiHub\drivers\USB\nt10x64\vuh.inf
+     ndv: Install flags: 0x00000001
+     ndv: {Update Device Driver - ROOT\SYSTEM\0001}
+     ndv:      Search options: 0x00000080
+     ndv:      Searching single INF 'C:\Program Files\Electronic Team\FlexiHub\drivers\USB\nt10x64\vuh.inf'
+     dvi:      {Build Driver List} 23:02:13.564
+     dvi:           Searching for hardware ID(s):
+     dvi:                vuhub
+     sig:           {_VERIFY_FILE_SIGNATURE} 23:02:13.567
+     sig:                Key      = vuh.inf
+     sig:                FilePath = c:\program files\electronic team\flexihub\drivers\usb\nt10x64\vuh.inf
+     sig:                Catalog  = c:\program files\electronic team\flexihub\drivers\usb\nt10x64\UsbOverTcp.cat
+     sig:                Success: File is signed in catalog.
+     sig:           {_VERIFY_FILE_SIGNATURE exit(0x00000000)} 23:02:13.571
+     dvi:           Created Driver Node:
+     dvi:                HardwareID   - vuhub
+     dvi:                InfName      - c:\program files\electronic team\flexihub\drivers\usb\nt10x64\vuh.inf
+     dvi:                DevDesc      - Virtual Usb Hub
+     dvi:                Section      - VUHUB_Device.NT
+     dvi:                Rank         - 0x00ff0000
+     dvi:                Signer Score - WHQL
+     dvi:                DrvDate      - 07/14/2021
+     dvi:                Version      - 9.2.2343.0
+     dvi:      {Build Driver List - exit(0x00000000)} 23:02:13.573
+     dvi:      {DIF_SELECTBESTCOMPATDRV} 23:02:13.574
+     dvi:           Default installer: Enter 23:02:13.574
+     dvi:                {Select Best Driver}
+     dvi:                     Class GUID of device changed to: {4d36e97d-e325-11ce-bfc1-08002be10318}.
+     dvi:                     Selected Driver:
+     dvi:                          Description - Virtual Usb Hub
+     dvi:                          InfFile     - c:\program files\electronic team\flexihub\drivers\usb\nt10x64\vuh.inf
+     dvi:                          Section     - VUHUB_Device
+     dvi:                {Select Best Driver - exit(0x00000000)}
+     dvi:           Default installer: Exit
+     dvi:      {DIF_SELECTBESTCOMPATDRV - exit(0x00000000)} 23:02:13.576
+     ndv:      Force Installing Driver:
+     ndv:           Inf Name       - vuh.inf
+     ndv:           Driver Date    - 07/14/2021
+     ndv:           Driver Version - 9.2.2343.0
+     sto:      {Setup Import Driver Package: c:\program files\electronic team\flexihub\drivers\usb\nt10x64\vuh.inf} 23:02:13.578
+     inf:           Provider: Electronic Team, Inc.
+     inf:           Class GUID: {4D36E97D-E325-11CE-BFC1-08002BE10318}
+     inf:           Driver Version: 07/14/2021,9.2.2343.0
+     inf:           Catalog File: UsbOverTcp.cat
+     sto:           {Copy Driver Package: c:\program files\electronic team\flexihub\drivers\usb\nt10x64\vuh.inf} 23:02:13.581
+     sto:                Driver Package = c:\program files\electronic team\flexihub\drivers\usb\nt10x64\vuh.inf
+     sto:                Flags          = 0x00000007
+     sto:                Destination    = C:\Users\jzappia\AppData\Local\Temp\{e3b4b2d9-5106-3746-a652-b304bd0ea01c}
+     sto:                Copying driver package files to 'C:\Users\jzappia\AppData\Local\Temp\{e3b4b2d9-5106-3746-a652-b304bd0ea01c}'.
+     flq:                {FILE_QUEUE_COMMIT} 23:02:13.583
+     flq:                     Copying 'c:\program files\electronic team\flexihub\drivers\usb\nt10x64\vuh.inf' to 'C:\Users\jzappia\AppData\Local\Temp\{e3b4b2d9-5106-3746-a652-b304bd0ea01c}\vuh.inf'.
+     flq:                     Copying 'c:\program files\electronic team\flexihub\drivers\usb\nt10x64\UsbOverTcp.cat' to 'C:\Users\jzappia\AppData\Local\Temp\{e3b4b2d9-5106-3746-a652-b304bd0ea01c}\UsbOverTcp.cat'.
+     flq:                     Copying 'c:\program files\electronic team\flexihub\drivers\usb\nt10x64\vuhub.sys' to 'C:\Users\jzappia\AppData\Local\Temp\{e3b4b2d9-5106-3746-a652-b304bd0ea01c}\vuhub.sys'.
+     flq:                {FILE_QUEUE_COMMIT - exit(0x00000000)} 23:02:13.588
+     sto:           {Copy Driver Package: exit(0x00000000)} 23:02:13.589
+     ump:           Import flags: 0x00000000
+     pol:           {Driver package policy check} 23:02:13.601
+     pol:           {Driver package policy check - exit(0x00000000)} 23:02:13.601
+     sto:           {Stage Driver Package: C:\Users\jzappia\AppData\Local\Temp\{e3b4b2d9-5106-3746-a652-b304bd0ea01c}\vuh.inf} 23:02:13.602
+     inf:                {Query Configurability: C:\Users\jzappia\AppData\Local\Temp\{e3b4b2d9-5106-3746-a652-b304bd0ea01c}\vuh.inf} 23:02:13.604
+     inf:                     Driver package 'vuh.inf' is configurable.
+     inf:                {Query Configurability: exit(0x00000000)} 23:02:13.605
+     flq:                {FILE_QUEUE_COMMIT} 23:02:13.605
+     flq:                     Copying 'C:\Users\jzappia\AppData\Local\Temp\{e3b4b2d9-5106-3746-a652-b304bd0ea01c}\vuh.inf' to 'C:\Windows\System32\DriverStore\Temp\{d36957e6-65a8-a34f-8ce4-d8fd80f5f781}\vuh.inf'.
+     flq:                     Copying 'C:\Users\jzappia\AppData\Local\Temp\{e3b4b2d9-5106-3746-a652-b304bd0ea01c}\UsbOverTcp.cat' to 'C:\Windows\System32\DriverStore\Temp\{d36957e6-65a8-a34f-8ce4-d8fd80f5f781}\UsbOverTcp.cat'.
+     flq:                     Copying 'C:\Users\jzappia\AppData\Local\Temp\{e3b4b2d9-5106-3746-a652-b304bd0ea01c}\vuhub.sys' to 'C:\Windows\System32\DriverStore\Temp\{d36957e6-65a8-a34f-8ce4-d8fd80f5f781}\vuhub.sys'.
+     flq:                {FILE_QUEUE_COMMIT - exit(0x00000000)} 23:02:13.615
+     sto:                {DRIVERSTORE IMPORT VALIDATE} 23:02:13.615
+     sig:                     Driver package catalog is valid.
+     sig:                     {_VERIFY_FILE_SIGNATURE} 23:02:13.634
+     sig:                          Key      = vuh.inf
+     sig:                          FilePath = C:\Windows\System32\DriverStore\Temp\{d36957e6-65a8-a34f-8ce4-d8fd80f5f781}\vuh.inf
+     sig:                          Catalog  = C:\Windows\System32\DriverStore\Temp\{d36957e6-65a8-a34f-8ce4-d8fd80f5f781}\UsbOverTcp.cat
+     sig:                          Success: File is signed in catalog.
+     sig:                     {_VERIFY_FILE_SIGNATURE exit(0x00000000)} 23:02:13.639
+     sto:                {DRIVERSTORE IMPORT VALIDATE: exit(0x00000000)} 23:02:13.641
+     sig:                Signer Score  = 0x0D000005 (WHQL)
+     sig:                Signer Name   = Microsoft Windows Hardware Compatibility Publisher
+     sig:                Submission ID = 60142220_13941872273305160_1152921505693683616
+     sto:                {Core Driver Package Import: vuh.inf_amd64_78c9ebccd886d89c} 23:02:13.643
+     sto:                     {DRIVERSTORE IMPORT BEGIN} 23:02:13.643
+     sto:                     {DRIVERSTORE IMPORT BEGIN: exit(0x00000000)} 23:02:13.643
+     cpy:                     {Copy Directory: C:\Windows\System32\DriverStore\Temp\{d36957e6-65a8-a34f-8ce4-d8fd80f5f781}} 23:02:13.643
+     cpy:                          Target Path = C:\Windows\System32\DriverStore\FileRepository\vuh.inf_amd64_78c9ebccd886d89c
+     cpy:                     {Copy Directory: exit(0x00000000)} 23:02:13.646
+     idb:                     {Register Driver Package: C:\Windows\System32\DriverStore\FileRepository\vuh.inf_amd64_78c9ebccd886d89c\vuh.inf} 23:02:13.647
+     idb:                          Created driver package object 'vuh.inf_amd64_78c9ebccd886d89c' in SYSTEM database node.
+     idb:                          Created driver INF file object 'oem62.inf' in SYSTEM database node.
+     idb:                          Registered driver package 'vuh.inf_amd64_78c9ebccd886d89c' with 'oem62.inf'.
+     idb:                     {Register Driver Package: exit(0x00000000)} 23:02:13.651
+     idb:                     {Publish Driver Package: C:\Windows\System32\DriverStore\FileRepository\vuh.inf_amd64_78c9ebccd886d89c\vuh.inf} 23:02:13.651
+     idb:                          Activating driver package 'vuh.inf_amd64_78c9ebccd886d89c'.
+     cpy:                          Published 'vuh.inf_amd64_78c9ebccd886d89c\vuh.inf' to 'oem62.inf'.
+     idb:                          Indexed 2 device IDs for 'vuh.inf_amd64_78c9ebccd886d89c'.
+     sto:                          Flushed driver database node 'SYSTEM'. Time = 0 ms
+     idb:                     {Publish Driver Package: exit(0x00000000)} 23:02:13.661
+     sto:                     {DRIVERSTORE IMPORT END} 23:02:13.662
+     dvi:                          Flushed all driver package files to disk. Time = 0 ms
+     sig:                          Installed catalog 'UsbOverTcp.cat' as 'oem62.cat'.
+     sto:                     {DRIVERSTORE IMPORT END: exit(0x00000000)} 23:02:13.668
+     sto:                {Core Driver Package Import: exit(0x00000000)} 23:02:13.669
+     sto:           {Stage Driver Package: exit(0x00000000)} 23:02:13.669
+     sto:      {Setup Import Driver Package - exit (0x00000000)} 23:02:13.709
+     dvi:      Searching for hardware ID(s):
+     dvi:           vuhub
+     dvi:      Class GUID of device changed to: {4d36e97d-e325-11ce-bfc1-08002be10318}.
+     ump:      {Plug and Play Service: Device Install for ROOT\SYSTEM\0001}
+     dvi:           {Core Device Install} 23:02:13.728
+     dvi:                {Configure Device - ROOT\SYSTEM\0001} 23:02:13.729
+     dvi:                     Device Status: 0x01802001
+     dvi:                     Parent Device: HTREE\ROOT\0
+     sto:                     {Configure Driver Package: C:\Windows\System32\DriverStore\FileRepository\vuh.inf_amd64_78c9ebccd886d89c\vuh.inf}
+     sto:                          Source Filter  = vuhub
+     inf:                          Class GUID     = {4d36e97d-e325-11ce-bfc1-08002be10318}
+     inf:                          Class Options  = Configurable BootCritical
+     inf:                          {Configure Driver: Virtual Usb Hub}
+     inf:                               Section Name = VUHUB_Device.NT
+     inf:                               {Add Service: vuhub}
+     inf:                                    Start Type    = 3
+     inf:                                    Service Type  = 1
+     inf:                                    Error Control = 1
+     inf:                                    Image Path    = \SystemRoot\System32\drivers\vuhub.sys
+     inf:                                    Display Name  = Virtual Usb Hub
+     inf:                                    Group         = Extended Base
+     inf:                                    Created new service 'vuhub'.
+     inf:                               {Add Service: exit(0x00000000)}
+     inf:                               Hardware Id  = vuhub
+     inf:                               {Configure Driver Configuration: VUHUB_Device.NT}
+     inf:                                    Service Name  = vuhub
+     inf:                                    Config Flags  = 0x00000000
+     inf:                               {Configure Driver Configuration: exit(0x00000000)}
+     inf:                          {Configure Driver: exit(0x00000000)}
+     flq:                          {FILE_QUEUE_COMMIT} 23:02:13.749
+     flq:                               Copying 'C:\Windows\System32\DriverStore\FileRepository\vuh.inf_amd64_78c9ebccd886d89c\vuhub.sys' to 'C:\Windows\System32\drivers\vuhub.sys'.
+     flq:                          {FILE_QUEUE_COMMIT - exit(0x00000000)} 23:02:13.752
+     dvi:                          Existing files modified, may need to restart related services.
+     sto:                     {Configure Driver Package: exit(0x00000bc3)}
+     dvi:                     Restart required for any devices using this driver.
+     dvi:                     Install Device: Configuring device. 23:02:13.753
+     dvi:                          Configuration: oem62.inf:vuhub,VUHUB_Device
+     dvi:                     Install Device: Configuring device completed. 23:02:13.758
+     dvi:                     Device Status: 0x01802001
+     dvi:                     {Restarting Devices} 23:02:13.759
+     dvi:                          Start: ROOT\SYSTEM\0001
+     dvi:                     {Restarting Devices exit} 23:02:13.799
+     dvi:                {Configure Device - exit(0x00000000)} 23:02:13.800
+     dvi:           {Core Device Install - exit(0x00000000)} 23:02:13.801
+     ump:      {Plug and Play Service: Device Install exit(00000000)}
+     ndv: {Update Device Driver - exit(00000000)}
+     ndv: {Install Related Drivers} 23:02:13.937
+     ndv: {Install Related Drivers: exit(0x00000000)} 23:02:13.938
+<<<  Section end 2022/12/19 23:02:13.940
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [Device Install (Hardware initiated) - UsbEStub\Devices\0000]
+>>>  Section start 2022/12/19 23:02:13.811
+     utl: {Select Drivers - UsbEStub\Devices\0000} 23:02:13.828
+     utl:      Driver Node:
+     utl:           Status         - Selected
+     utl:           Driver INF     - oem61.inf (C:\Windows\System32\DriverStore\FileRepository\usbstub.inf_amd64_b9de7c1cded4a198\usbstub.inf)
+     utl:           Class GUID     - {ba60d326-ee12-4957-b702-7f5edbe9ece5}
+     utl:           Driver Version - 07/14/2021,9.2.2343.0
+     utl:           Configuration  - UsbEStub
+     utl:           Driver Rank    - 00FF0000
+     utl:           Signer Score   - WHQL (0D000005)
+     utl: {Select Drivers - exit(0x00000000} 23:02:13.834
+     dvi: {Core Device Install} 23:02:13.835
+     dvi:      {Configure Device - UsbEStub\Devices\0000} 23:02:13.837
+     dvi:           Device Status: 0x01806400 [0x01 - 0xc0000493]
+     dvi:           Parent Device: ROOT\SYSTEM\0001
+     sto:           {Configure Driver Package: C:\Windows\System32\DriverStore\FileRepository\usbstub.inf_amd64_b9de7c1cded4a198\usbstub.inf}
+     sto:                Source Filter  = UsbEStub
+     inf:                Class GUID     = {ba60d326-ee12-4957-b702-7f5edbe9ece5}
+     inf:                Class Options  = Configurable
+     idb:                {Configure Device Setup Class: {ba60d326-ee12-4957-b702-7f5edbe9ece5}}
+     idb:                     Updating existing class.
+     idb:                     Class Name = EUsbStub
+     idb:                {Configure Device Setup Class: exit(0x00000000)}
+     inf:                {Configure Driver: Usb Stub (Electronic Team, Inc.)}
+     inf:                     Section Name = UsbStub.NT
+     inf:                     {Add Service: eustub}
+     inf:                          Start Type    = 3
+     inf:                          Service Type  = 1
+     inf:                          Error Control = 1
+     inf:                          Image Path    = \SystemRoot\System32\drivers\eusbstub.sys
+     inf:                          Display Name  = Usb Stub (Electronic Team, Inc.)
+     inf:                          Group         = Extended Base
+     inf:                          Updated service 'eustub'.
+     inf:                          Service image path changed. Restart required for any devices using this service.
+     inf:                     {Add Service: exit(0x00000000)}
+     inf:                     Hardware Id  = UsbEStub
+     inf:                     {Configure Driver Configuration: UsbStub.NT}
+     inf:                          Service Name  = eustub
+     inf:                          Config Flags  = 0x00000000
+     inf:                     {Configure Driver Configuration: exit(0x00000000)}
+     inf:                {Configure Driver: exit(0x00000000)}
+     flq:                {FILE_QUEUE_COMMIT} 23:02:13.851
+     flq:                     Copying 'C:\Windows\System32\DriverStore\FileRepository\usbstub.inf_amd64_b9de7c1cded4a198\eusbstub.sys' to 'C:\Windows\System32\drivers\eusbstub.sys'.
+     cpy:                     Existing file 'C:\Windows\System32\drivers\eusbstub.sys' remains unchanged.
+     flq:                {FILE_QUEUE_COMMIT - exit(0x00000000)} 23:02:13.860
+     dvi:                Existing files modified, may need to restart related services.
+     sto:           {Configure Driver Package: exit(0x00000bc3)}
+     dvi:           Restart required for any devices using this driver.
+     dvi:           Install Device: Configuring device. 23:02:13.861
+     dvi:                Configuration: oem61.inf:UsbEStub,*
+     dvi:           Install Device: Configuring device completed. 23:02:13.865
+     dvi:           Device Status: 0x01806000
+     dvi:           {Restarting Devices} 23:02:13.866
+     dvi:                Start: USBESTUB\DEVICES\0000
+     dvi:           {Restarting Devices exit} 23:02:13.901
+     dvi:      {Configure Device - exit(0x00000000)} 23:02:13.901
+     dvi: {Core Device Install - exit(0x00000000)} 23:02:13.903
+<<<  Section end 2022/12/19 23:02:14.031
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [Device Install (Hardware initiated) - UsbEStub\Devices\0004]
+>>>  Section start 2022/12/19 23:02:13.875
+     utl: {Select Drivers - UsbEStub\Devices\0004} 23:02:13.892
+     utl:      Driver Node:
+     utl:           Status         - Selected
+     utl:           Driver INF     - oem61.inf (C:\Windows\System32\DriverStore\FileRepository\usbstub.inf_amd64_b9de7c1cded4a198\usbstub.inf)
+     utl:           Class GUID     - {ba60d326-ee12-4957-b702-7f5edbe9ece5}
+     utl:           Driver Version - 07/14/2021,9.2.2343.0
+     utl:           Configuration  - UsbEStub [UsbStub.NT]
+     utl:           Driver Rank    - 00FF0000
+     utl:           Signer Score   - WHQL (0D000005)
+     utl: {Select Drivers - exit(0x00000000} 23:02:13.896
+     dvi: Waiting for previous device install to complete. 23:02:13.897
+     dvi: {Core Device Install} 23:02:13.904
+     dvi:      {Configure Device - UsbEStub\Devices\0004} 23:02:13.906
+     dvi:           Device Status: 0x01806400 [0x01 - 0xc0000493]
+     dvi:           Parent Device: ROOT\SYSTEM\0001
+     sto:           {Configure Driver Package: C:\Windows\System32\DriverStore\FileRepository\usbstub.inf_amd64_b9de7c1cded4a198\usbstub.inf}
+     sto:                Source Filter  = UsbEStub
+     inf:                Class GUID     = {ba60d326-ee12-4957-b702-7f5edbe9ece5}
+     inf:                Class Options  = Configurable
+     idb:                {Configure Device Setup Class: {ba60d326-ee12-4957-b702-7f5edbe9ece5}}
+     idb:                     Updating existing class.
+     idb:                     Class Name = EUsbStub
+     idb:                {Configure Device Setup Class: exit(0x00000000)}
+     inf:                {Configure Driver: Usb Stub (Electronic Team, Inc.)}
+     inf:                     Section Name = UsbStub.NT
+     inf:                     {Add Service: eustub}
+     inf:                          Start Type    = 3
+     inf:                          Service Type  = 1
+     inf:                          Error Control = 1
+     inf:                          Image Path    = \SystemRoot\System32\drivers\eusbstub.sys
+     inf:                          Display Name  = Usb Stub (Electronic Team, Inc.)
+     inf:                          Group         = Extended Base
+     inf:                          Updated service 'eustub'.
+     inf:                     {Add Service: exit(0x00000000)}
+     inf:                     Hardware Id  = UsbEStub
+     inf:                     {Configure Driver Configuration: UsbStub.NT}
+     inf:                          Service Name  = eustub
+     inf:                          Config Flags  = 0x00000000
+     inf:                     {Configure Driver Configuration: exit(0x00000000)}
+     inf:                {Configure Driver: exit(0x00000000)}
+     flq:                {FILE_QUEUE_COMMIT} 23:02:13.922
+     flq:                     Copying 'C:\Windows\System32\DriverStore\FileRepository\usbstub.inf_amd64_b9de7c1cded4a198\eusbstub.sys' to 'C:\Windows\System32\drivers\eusbstub.sys'.
+     cpy:                     Existing file 'C:\Windows\System32\drivers\eusbstub.sys' remains unchanged.
+     flq:                {FILE_QUEUE_COMMIT - exit(0x00000000)} 23:02:13.931
+     sto:           {Configure Driver Package: exit(0x00000000)}
+     dvi:           Install Device: Configuring device. 23:02:13.932
+     dvi:                Configuration: oem61.inf:UsbEStub,UsbStub.NT
+     dvi:           Install Device: Configuring device completed. 23:02:13.938
+     dvi:           Device Status: 0x01806000
+     dvi:           Install Device: Starting device 'USBESTUB\DEVICES\0004'. 23:02:14.000
+     dvi:           Install Device: Starting device completed. 23:02:14.004
+     dvi:      {Configure Device - exit(0x00000000)} 23:02:14.005
+     dvi: {Core Device Install - exit(0x00000000)} 23:02:14.008
+<<<  Section end 2022/12/19 23:02:14.012
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [Device Install (UpdateDriverForPlugAndPlayDevices) - ROOT\VUHub3]
+>>>  Section start 2022/12/19 23:02:13.950
+      cmd: "C:\Program Files\Electronic Team\FlexiHub\drivers\USB\nt10x64\setup_server_flexihub.exe"
+     ndv: INF path: C:\Program Files\Electronic Team\FlexiHub\drivers\USB\nt10x64\vuhub3.inf
+     ndv: Install flags: 0x00000001
+     ndv: {Update Device Driver - ROOT\USB\0000}
+     ndv:      Search options: 0x00000080
+     ndv:      Searching single INF 'C:\Program Files\Electronic Team\FlexiHub\drivers\USB\nt10x64\vuhub3.inf'
+     dvi:      {Build Driver List} 23:02:13.968
+     dvi:           Searching for hardware ID(s):
+     dvi:                root\vuhub3
+     sig:           {_VERIFY_FILE_SIGNATURE} 23:02:13.969
+     sig:                Key      = vuhub3.inf
+     sig:                FilePath = c:\program files\electronic team\flexihub\drivers\usb\nt10x64\vuhub3.inf
+     sig:                Catalog  = c:\program files\electronic team\flexihub\drivers\usb\nt10x64\vuhub3.CAT
+     sig:                Success: File is signed in catalog.
+     sig:           {_VERIFY_FILE_SIGNATURE exit(0x00000000)} 23:02:13.974
+     dvi:           Created Driver Node:
+     dvi:                HardwareID   - ROOT\VUHub3
+     dvi:                InfName      - c:\program files\electronic team\flexihub\drivers\usb\nt10x64\vuhub3.inf
+     dvi:                DevDesc      - Electronic Usb hub 3.0
+     dvi:                Section      - Generic.Install.NT
+     dvi:                Rank         - 0x00ff0000
+     dvi:                Signer Score - WHQL
+     dvi:                DrvDate      - 07/14/2021
+     dvi:                Version      - 11.18.43.775
+     dvi:      {Build Driver List - exit(0x00000000)} 23:02:13.976
+     dvi:      {DIF_SELECTBESTCOMPATDRV} 23:02:13.976
+     dvi:           Default installer: Enter 23:02:13.977
+     dvi:                {Select Best Driver}
+     dvi:                     Class GUID of device changed to: {36fc9e60-c465-11cf-8056-444553540000}.
+     dvi:                     Selected Driver:
+     dvi:                          Description - Electronic Usb hub 3.0
+     dvi:                          InfFile     - c:\program files\electronic team\flexihub\drivers\usb\nt10x64\vuhub3.inf
+     dvi:                          Section     - Generic.Install
+     dvi:                {Select Best Driver - exit(0x00000000)}
+     dvi:           Default installer: Exit
+     dvi:      {DIF_SELECTBESTCOMPATDRV - exit(0x00000000)} 23:02:13.979
+     ndv:      Force Installing Driver:
+     ndv:           Inf Name       - vuhub3.inf
+     ndv:           Driver Date    - 07/14/2021
+     ndv:           Driver Version - 11.18.43.775
+     sto:      {Setup Import Driver Package: c:\program files\electronic team\flexihub\drivers\usb\nt10x64\vuhub3.inf} 23:02:13.982
+     inf:           Provider: Electronic Team, Inc.
+     inf:           Class GUID: {36FC9E60-C465-11CF-8056-444553540000}
+     inf:           Driver Version: 07/14/2021,11.18.43.775
+     inf:           Catalog File: vuhub3.CAT
+     sto:           {Copy Driver Package: c:\program files\electronic team\flexihub\drivers\usb\nt10x64\vuhub3.inf} 23:02:13.986
+     sto:                Driver Package = c:\program files\electronic team\flexihub\drivers\usb\nt10x64\vuhub3.inf
+     sto:                Flags          = 0x00000007
+     sto:                Destination    = C:\Users\jzappia\AppData\Local\Temp\{bfd4510f-2a1b-ec41-acef-14a1e9b0c6d9}
+     sto:                Copying driver package files to 'C:\Users\jzappia\AppData\Local\Temp\{bfd4510f-2a1b-ec41-acef-14a1e9b0c6d9}'.
+     flq:                {FILE_QUEUE_COMMIT} 23:02:14.007
+     flq:                     Copying 'c:\program files\electronic team\flexihub\drivers\usb\nt10x64\vuhub3.CAT' to 'C:\Users\jzappia\AppData\Local\Temp\{bfd4510f-2a1b-ec41-acef-14a1e9b0c6d9}\vuhub3.CAT'.
+     flq:                     Copying 'c:\program files\electronic team\flexihub\drivers\usb\nt10x64\vuhub3.inf' to 'C:\Users\jzappia\AppData\Local\Temp\{bfd4510f-2a1b-ec41-acef-14a1e9b0c6d9}\vuhub3.inf'.
+     flq:                     Copying 'c:\program files\electronic team\flexihub\drivers\usb\nt10x64\vuhub3.SYS' to 'C:\Users\jzappia\AppData\Local\Temp\{bfd4510f-2a1b-ec41-acef-14a1e9b0c6d9}\vuhub3.SYS'.
+     flq:                {FILE_QUEUE_COMMIT - exit(0x00000000)} 23:02:14.083
+     sto:           {Copy Driver Package: exit(0x00000000)} 23:02:14.083
+     ump:           Import flags: 0x00000000
+     pol:           {Driver package policy check} 23:02:14.099
+     pol:           {Driver package policy check - exit(0x00000000)} 23:02:14.100
+     sto:           {Stage Driver Package: C:\Users\jzappia\AppData\Local\Temp\{bfd4510f-2a1b-ec41-acef-14a1e9b0c6d9}\vuhub3.inf} 23:02:14.100
+     inf:                {Query Configurability: C:\Users\jzappia\AppData\Local\Temp\{bfd4510f-2a1b-ec41-acef-14a1e9b0c6d9}\vuhub3.inf} 23:02:14.110
+     inf:                     Driver package 'vuhub3.inf' is configurable.
+     inf:                {Query Configurability: exit(0x00000000)} 23:02:14.121
+     flq:                {FILE_QUEUE_COMMIT} 23:02:14.123
+     flq:                     Copying 'C:\Users\jzappia\AppData\Local\Temp\{bfd4510f-2a1b-ec41-acef-14a1e9b0c6d9}\vuhub3.CAT' to 'C:\Windows\System32\DriverStore\Temp\{0c699e0f-dbb4-4e4c-9dff-19bbe9e32c36}\vuhub3.CAT'.
+     flq:                     Copying 'C:\Users\jzappia\AppData\Local\Temp\{bfd4510f-2a1b-ec41-acef-14a1e9b0c6d9}\vuhub3.inf' to 'C:\Windows\System32\DriverStore\Temp\{0c699e0f-dbb4-4e4c-9dff-19bbe9e32c36}\vuhub3.inf'.
+     flq:                     Copying 'C:\Users\jzappia\AppData\Local\Temp\{bfd4510f-2a1b-ec41-acef-14a1e9b0c6d9}\vuhub3.SYS' to 'C:\Windows\System32\DriverStore\Temp\{0c699e0f-dbb4-4e4c-9dff-19bbe9e32c36}\vuhub3.SYS'.
+     flq:                {FILE_QUEUE_COMMIT - exit(0x00000000)} 23:02:14.135
+     sto:                {DRIVERSTORE IMPORT VALIDATE} 23:02:14.136
+     sig:                     Driver package catalog is valid.
+     sig:                     {_VERIFY_FILE_SIGNATURE} 23:02:14.164
+     sig:                          Key      = vuhub3.inf
+     sig:                          FilePath = C:\Windows\System32\DriverStore\Temp\{0c699e0f-dbb4-4e4c-9dff-19bbe9e32c36}\vuhub3.inf
+     sig:                          Catalog  = C:\Windows\System32\DriverStore\Temp\{0c699e0f-dbb4-4e4c-9dff-19bbe9e32c36}\vuhub3.CAT
+     sig:                          Success: File is signed in catalog.
+     sig:                     {_VERIFY_FILE_SIGNATURE exit(0x00000000)} 23:02:14.172
+     sto:                {DRIVERSTORE IMPORT VALIDATE: exit(0x00000000)} 23:02:14.175
+     sig:                Signer Score  = 0x0D000005 (WHQL)
+     sig:                Signer Name   = Microsoft Windows Hardware Compatibility Publisher
+     sig:                Submission ID = 60142220_13941872273305160_1152921505693683616
+     sto:                {Core Driver Package Import: vuhub3.inf_amd64_1ade006f8d0eac31} 23:02:14.176
+     sto:                     {DRIVERSTORE IMPORT BEGIN} 23:02:14.176
+     sto:                     {DRIVERSTORE IMPORT BEGIN: exit(0x00000000)} 23:02:14.177
+     cpy:                     {Copy Directory: C:\Windows\System32\DriverStore\Temp\{0c699e0f-dbb4-4e4c-9dff-19bbe9e32c36}} 23:02:14.177
+     cpy:                          Target Path = C:\Windows\System32\DriverStore\FileRepository\vuhub3.inf_amd64_1ade006f8d0eac31
+     cpy:                     {Copy Directory: exit(0x00000000)} 23:02:14.179
+     idb:                     {Register Driver Package: C:\Windows\System32\DriverStore\FileRepository\vuhub3.inf_amd64_1ade006f8d0eac31\vuhub3.inf} 23:02:14.180
+     idb:                          Created driver package object 'vuhub3.inf_amd64_1ade006f8d0eac31' in SYSTEM database node.
+     idb:                          Created driver INF file object 'oem63.inf' in SYSTEM database node.
+     idb:                          Registered driver package 'vuhub3.inf_amd64_1ade006f8d0eac31' with 'oem63.inf'.
+     idb:                     {Register Driver Package: exit(0x00000000)} 23:02:14.184
+     idb:                     {Publish Driver Package: C:\Windows\System32\DriverStore\FileRepository\vuhub3.inf_amd64_1ade006f8d0eac31\vuhub3.inf} 23:02:14.185
+     idb:                          Activating driver package 'vuhub3.inf_amd64_1ade006f8d0eac31'.
+     cpy:                          Published 'vuhub3.inf_amd64_1ade006f8d0eac31\vuhub3.inf' to 'oem63.inf'.
+     idb:                          Indexed 2 device IDs for 'vuhub3.inf_amd64_1ade006f8d0eac31'.
+     sto:                          Flushed driver database node 'SYSTEM'. Time = 0 ms
+     idb:                     {Publish Driver Package: exit(0x00000000)} 23:02:14.192
+     sto:                     {DRIVERSTORE IMPORT END} 23:02:14.193
+     dvi:                          Flushed all driver package files to disk. Time = 0 ms
+     sig:                          Installed catalog 'vuhub3.CAT' as 'oem63.cat'.
+     sto:                     {DRIVERSTORE IMPORT END: exit(0x00000000)} 23:02:14.201
+     sto:                {Core Driver Package Import: exit(0x00000000)} 23:02:14.202
+     sto:           {Stage Driver Package: exit(0x00000000)} 23:02:14.202
+     sto:      {Setup Import Driver Package - exit (0x00000000)} 23:02:14.243
+     dvi:      Searching for hardware ID(s):
+     dvi:           root\vuhub3
+     dvi:      Class GUID of device changed to: {36fc9e60-c465-11cf-8056-444553540000}.
+     ump:      {Plug and Play Service: Device Install for ROOT\USB\0000}
+     dvi:           {Core Device Install} 23:02:14.262
+     dvi:                {Configure Device - ROOT\USB\0000} 23:02:14.262
+     dvi:                     Device Status: 0x01802001
+     dvi:                     Parent Device: HTREE\ROOT\0
+     sto:                     {Configure Driver Package: C:\Windows\System32\DriverStore\FileRepository\vuhub3.inf_amd64_1ade006f8d0eac31\vuhub3.inf}
+     sto:                          Source Filter  = root\vuhub3
+     inf:                          Class GUID     = {36fc9e60-c465-11cf-8056-444553540000}
+     inf:                          Class Options  = Configurable BootCritical
+     inf:                          {Configure Driver: Electronic Usb hub 3.0}
+     inf:                               Section Name = Generic.Install.NT
+     inf:                               {Add Service: vuhub3}
+     inf:                                    Start Type    = 3
+     inf:                                    Service Type  = 1
+     inf:                                    Error Control = 1
+     inf:                                    Image Path    = \SystemRoot\System32\drivers\vuhub3.SYS
+     inf:                                    Display Name  = Electronic Usb hub 3.0
+     inf:                                    Dependencies  = ucx01000
+     inf:                                                    udecx
+     inf:                                    Created new service 'vuhub3'.
+     inf:                               {Add Service: exit(0x00000000)}
+     inf:                               Hardware Id  = ROOT\VUHub3
+     inf:                               {Configure Driver Configuration: Generic.Install.NT}
+     inf:                                    Service Name  = vuhub3
+     inf:                                    Included INFs = machine.inf
+     inf:                                                    pci.inf
+     inf:                                    Config Flags  = 0x00000000
+     inf:                               {Configure Driver Configuration: exit(0x00000000)}
+     inf:                          {Configure Driver: exit(0x00000000)}
+     flq:                          {FILE_QUEUE_COMMIT} 23:02:14.283
+     flq:                               Hardlinking 'C:\Windows\System32\DriverStore\FileRepository\vuhub3.inf_amd64_1ade006f8d0eac31\vuhub3.SYS' to 'C:\Windows\System32\drivers\vuhub3.SYS'.
+!    cpy:                               Cannot set 'Inbox Windows-Signed' protection on non-inbox file 'C:\Windows\System32\drivers\vuhub3.SYS'.
+     flq:                          {FILE_QUEUE_COMMIT - exit(0x00000000)} 23:02:14.286
+     dvi:                          Existing files modified, may need to restart related services.
+     sto:                     {Configure Driver Package: exit(0x00000bc3)}
+     dvi:                     Restart required for any devices using this driver.
+     dvi:                     Install Device: Configuring device. 23:02:14.287
+     dvi:                          Configuration: oem63.inf:root\vuhub3,Generic.Install
+     dvi:                     Install Device: Configuring device completed. 23:02:14.290
+     dvi:                     Device Status: 0x01802001
+     dvi:                     {Restarting Devices} 23:02:14.291
+     dvi:                          Start: ROOT\USB\0000
+     dvi:                     {Restarting Devices exit} 23:02:14.461
+     dvi:                {Configure Device - exit(0x00000000)} 23:02:14.537
+     dvi:           {Core Device Install - exit(0x00000000)} 23:02:14.538
+     ump:      {Plug and Play Service: Device Install exit(00000000)}
+     ndv: {Update Device Driver - exit(00000000)}
+     ndv: {Install Related Drivers} 23:02:14.662
+     ndv: {Install Related Drivers: exit(0x00000000)} 23:02:14.663
+<<<  Section end 2022/12/19 23:02:14.667
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [SetupCopyOEMInf - C:\Program Files\Electronic Team\FlexiHub\drivers\VSPD\NT6X64\evserial9.inf]
+>>>  Section start 2022/12/19 23:02:21.336
+      cmd: "C:\Program Files\Electronic Team\FlexiHub\drivers\VSPD\NT6X64\vsbsetup.exe" 
+     inf: Copy style: 0x00000000
+     sto: {Setup Import Driver Package: C:\Program Files\Electronic Team\FlexiHub\drivers\VSPD\NT6X64\evserial9.inf} 23:02:21.339
+     inf:      Provider: Electronic Team
+     inf:      Class GUID: {4d36e978-e325-11ce-bfc1-08002be10318}
+     inf:      Driver Version: 09/08/2021,10.5.856.0
+     inf:      Catalog File: evserial9.cat
+     sto:      {Copy Driver Package: C:\Program Files\Electronic Team\FlexiHub\drivers\VSPD\NT6X64\evserial9.inf} 23:02:21.342
+     sto:           Driver Package = C:\Program Files\Electronic Team\FlexiHub\drivers\VSPD\NT6X64\evserial9.inf
+     sto:           Flags          = 0x00000007
+     sto:           Destination    = C:\Users\jzappia\AppData\Local\Temp\{05a69204-be09-804f-b126-3ca04869a67c}
+     sto:           Copying driver package files to 'C:\Users\jzappia\AppData\Local\Temp\{05a69204-be09-804f-b126-3ca04869a67c}'.
+     flq:           {FILE_QUEUE_COMMIT} 23:02:21.344
+     flq:                Copying 'C:\Program Files\Electronic Team\FlexiHub\drivers\VSPD\NT6X64\evserial9.cat' to 'C:\Users\jzappia\AppData\Local\Temp\{05a69204-be09-804f-b126-3ca04869a67c}\evserial9.cat'.
+     flq:                Copying 'C:\Program Files\Electronic Team\FlexiHub\drivers\VSPD\NT6X64\evserial9.inf' to 'C:\Users\jzappia\AppData\Local\Temp\{05a69204-be09-804f-b126-3ca04869a67c}\evserial9.inf'.
+     flq:                Copying 'C:\Program Files\Electronic Team\FlexiHub\drivers\VSPD\NT6X64\evserial9.sys' to 'C:\Users\jzappia\AppData\Local\Temp\{05a69204-be09-804f-b126-3ca04869a67c}\evserial9.sys'.
+     flq:                Copying 'C:\Program Files\Electronic Team\FlexiHub\drivers\VSPD\NT6X64\evspd9.dll' to 'C:\Users\jzappia\AppData\Local\Temp\{05a69204-be09-804f-b126-3ca04869a67c}\evspd9.dll'.
+     flq:           {FILE_QUEUE_COMMIT - exit(0x00000000)} 23:02:21.358
+     sto:      {Copy Driver Package: exit(0x00000000)} 23:02:21.358
+     ump:      Import flags: 0x00000000
+     pol:      {Driver package policy check} 23:02:21.372
+     pol:      {Driver package policy check - exit(0x00000000)} 23:02:21.374
+     sto:      {Stage Driver Package: C:\Users\jzappia\AppData\Local\Temp\{05a69204-be09-804f-b126-3ca04869a67c}\evserial9.inf} 23:02:21.374
+     inf:           {Query Configurability: C:\Users\jzappia\AppData\Local\Temp\{05a69204-be09-804f-b126-3ca04869a67c}\evserial9.inf} 23:02:21.377
+!    inf:                Found legacy AddReg operation defining co-installers (CoInstallers32). Code = 1303
+!    inf:                Driver package 'evserial9.inf' is NOT configurable.
+     inf:           {Query Configurability: exit(0x00000000)} 23:02:21.379
+     flq:           {FILE_QUEUE_COMMIT} 23:02:21.380
+     flq:                Copying 'C:\Users\jzappia\AppData\Local\Temp\{05a69204-be09-804f-b126-3ca04869a67c}\evserial9.cat' to 'C:\Windows\System32\DriverStore\Temp\{bcd138c5-24f0-9849-a796-9c07ed215a6a}\evserial9.cat'.
+     flq:                Copying 'C:\Users\jzappia\AppData\Local\Temp\{05a69204-be09-804f-b126-3ca04869a67c}\evserial9.inf' to 'C:\Windows\System32\DriverStore\Temp\{bcd138c5-24f0-9849-a796-9c07ed215a6a}\evserial9.inf'.
+     flq:                Copying 'C:\Users\jzappia\AppData\Local\Temp\{05a69204-be09-804f-b126-3ca04869a67c}\evserial9.sys' to 'C:\Windows\System32\DriverStore\Temp\{bcd138c5-24f0-9849-a796-9c07ed215a6a}\evserial9.sys'.
+     flq:                Copying 'C:\Users\jzappia\AppData\Local\Temp\{05a69204-be09-804f-b126-3ca04869a67c}\evspd9.dll' to 'C:\Windows\System32\DriverStore\Temp\{bcd138c5-24f0-9849-a796-9c07ed215a6a}\evspd9.dll'.
+     flq:           {FILE_QUEUE_COMMIT - exit(0x00000000)} 23:02:21.398
+     sto:           {DRIVERSTORE IMPORT VALIDATE} 23:02:21.399
+     sig:                Driver package catalog is valid.
+     sig:                {_VERIFY_FILE_SIGNATURE} 23:02:21.452
+     sig:                     Key      = evserial9.inf
+     sig:                     FilePath = C:\Windows\System32\DriverStore\Temp\{bcd138c5-24f0-9849-a796-9c07ed215a6a}\evserial9.inf
+     sig:                     Catalog  = C:\Windows\System32\DriverStore\Temp\{bcd138c5-24f0-9849-a796-9c07ed215a6a}\evserial9.cat
+     sig:                     Success: File is signed in catalog.
+     sig:                {_VERIFY_FILE_SIGNATURE exit(0x00000000)} 23:02:21.458
+     sto:           {DRIVERSTORE IMPORT VALIDATE: exit(0x00000000)} 23:02:21.460
+     sig:           Signer Score  = 0x0D000005 (WHQL)
+     sig:           Signer Name   = Microsoft Windows Hardware Compatibility Publisher
+     sig:           Submission ID = 60142220_14602397515535033_1152921505693904980
+     sto:           {Core Driver Package Import: evserial9.inf_amd64_fc1370d73a2cfd54} 23:02:21.462
+     sto:                {DRIVERSTORE IMPORT BEGIN} 23:02:21.462
+     sto:                {DRIVERSTORE IMPORT BEGIN: exit(0x00000000)} 23:02:21.462
+     cpy:                {Copy Directory: C:\Windows\System32\DriverStore\Temp\{bcd138c5-24f0-9849-a796-9c07ed215a6a}} 23:02:21.462
+     cpy:                     Target Path = C:\Windows\System32\DriverStore\FileRepository\evserial9.inf_amd64_fc1370d73a2cfd54
+     cpy:                {Copy Directory: exit(0x00000000)} 23:02:21.464
+     idb:                {Register Driver Package: C:\Windows\System32\DriverStore\FileRepository\evserial9.inf_amd64_fc1370d73a2cfd54\evserial9.inf} 23:02:21.464
+     idb:                     Created driver package object 'evserial9.inf_amd64_fc1370d73a2cfd54' in SYSTEM database node.
+     idb:                     Created driver INF file object 'oem64.inf' in SYSTEM database node.
+     idb:                     Registered driver package 'evserial9.inf_amd64_fc1370d73a2cfd54' with 'oem64.inf'.
+     idb:                {Register Driver Package: exit(0x00000000)} 23:02:21.466
+     idb:                {Publish Driver Package: C:\Windows\System32\DriverStore\FileRepository\evserial9.inf_amd64_fc1370d73a2cfd54\evserial9.inf} 23:02:21.467
+     idb:                     Activating driver package 'evserial9.inf_amd64_fc1370d73a2cfd54'.
+     cpy:                     Published 'evserial9.inf_amd64_fc1370d73a2cfd54\evserial9.inf' to 'oem64.inf'.
+     idb:                     Indexed 2 device IDs for 'evserial9.inf_amd64_fc1370d73a2cfd54'.
+     sto:                     Flushed driver database node 'SYSTEM'. Time = 0 ms
+     idb:                {Publish Driver Package: exit(0x00000000)} 23:02:21.477
+     sto:                {DRIVERSTORE IMPORT END} 23:02:21.478
+     dvi:                     Flushed all driver package files to disk. Time = 0 ms
+     sig:                     Installed catalog 'evserial9.cat' as 'oem64.cat'.
+     sto:                {DRIVERSTORE IMPORT END: exit(0x00000000)} 23:02:21.489
+     sto:           {Core Driver Package Import: exit(0x00000000)} 23:02:21.490
+     sto:      {Stage Driver Package: exit(0x00000000)} 23:02:21.492
+     sto: {Setup Import Driver Package - exit (0x00000000)} 23:02:21.542
+     inf: Driver Store Path: C:\Windows\System32\DriverStore\FileRepository\evserial9.inf_amd64_fc1370d73a2cfd54\evserial9.inf
+     inf: Published Inf Path: C:\Windows\INF\oem64.inf
+<<<  Section end 2022/12/19 23:02:21.543
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [Device Install (UpdateDriverForPlugAndPlayDevices) - VSBC9]
+>>>  Section start 2022/12/19 23:02:21.557
+      cmd: "C:\Program Files\Electronic Team\FlexiHub\drivers\VSPD\NT6X64\vsbsetup.exe" 
+     ndv: INF path: C:\Program Files\Electronic Team\FlexiHub\drivers\VSPD\NT6X64\evsbc9.inf
+     ndv: Install flags: 0x00000001
+     ndv: {Update Device Driver - ROOT\SYSTEM\0002}
+     ndv:      Search options: 0x00000080
+     ndv:      Searching single INF 'C:\Program Files\Electronic Team\FlexiHub\drivers\VSPD\NT6X64\evsbc9.inf'
+     dvi:      {Build Driver List} 23:02:21.572
+     dvi:           Searching for hardware ID(s):
+     dvi:                vsbc9
+     sig:           {_VERIFY_FILE_SIGNATURE} 23:02:21.573
+     sig:                Key      = evsbc9.inf
+     sig:                FilePath = c:\program files\electronic team\flexihub\drivers\vspd\nt6x64\evsbc9.inf
+     sig:                Catalog  = c:\program files\electronic team\flexihub\drivers\vspd\nt6x64\evsbc9.cat
+     sig:                Success: File is signed in catalog.
+     sig:           {_VERIFY_FILE_SIGNATURE exit(0x00000000)} 23:02:21.598
+     dvi:           Created Driver Node:
+     dvi:                HardwareID   - VSBC9
+     dvi:                InfName      - c:\program files\electronic team\flexihub\drivers\vspd\nt6x64\evsbc9.inf
+     dvi:                DevDesc      - Virtual Serial Bus Enumerator 9 (Electronic Team)
+     dvi:                Section      - VSBus_Device.NT
+     dvi:                Rank         - 0x00ff0000
+     dvi:                Signer Score - WHQL
+     dvi:                DrvDate      - 09/08/2021
+     dvi:                Version      - 10.5.856.0
+     dvi:      {Build Driver List - exit(0x00000000)} 23:02:21.600
+     dvi:      {DIF_SELECTBESTCOMPATDRV} 23:02:21.601
+     dvi:           Default installer: Enter 23:02:21.601
+     dvi:                {Select Best Driver}
+     dvi:                     Class GUID of device changed to: {4d36e97d-e325-11ce-bfc1-08002be10318}.
+     dvi:                     Selected Driver:
+     dvi:                          Description - Virtual Serial Bus Enumerator 9 (Electronic Team)
+     dvi:                          InfFile     - c:\program files\electronic team\flexihub\drivers\vspd\nt6x64\evsbc9.inf
+     dvi:                          Section     - VSBus_Device
+     dvi:                {Select Best Driver - exit(0x00000000)}
+     dvi:           Default installer: Exit
+     dvi:      {DIF_SELECTBESTCOMPATDRV - exit(0x00000000)} 23:02:21.603
+     ndv:      Force Installing Driver:
+     ndv:           Inf Name       - evsbc9.inf
+     ndv:           Driver Date    - 09/08/2021
+     ndv:           Driver Version - 10.5.856.0
+     sto:      {Setup Import Driver Package: c:\program files\electronic team\flexihub\drivers\vspd\nt6x64\evsbc9.inf} 23:02:21.604
+     inf:           Provider: Electronic Team
+     inf:           Class GUID: {4D36E97D-E325-11CE-BFC1-08002BE10318}
+     inf:           Driver Version: 09/08/2021,10.5.856.0
+     inf:           Catalog File: evsbc9.cat
+     sto:           {Copy Driver Package: c:\program files\electronic team\flexihub\drivers\vspd\nt6x64\evsbc9.inf} 23:02:21.607
+     sto:                Driver Package = c:\program files\electronic team\flexihub\drivers\vspd\nt6x64\evsbc9.inf
+     sto:                Flags          = 0x00000007
+     sto:                Destination    = C:\Users\jzappia\AppData\Local\Temp\{c48051b7-c2f7-fb4d-a62b-13da72e88e85}
+     sto:                Copying driver package files to 'C:\Users\jzappia\AppData\Local\Temp\{c48051b7-c2f7-fb4d-a62b-13da72e88e85}'.
+     flq:                {FILE_QUEUE_COMMIT} 23:02:21.609
+     flq:                     Copying 'c:\program files\electronic team\flexihub\drivers\vspd\nt6x64\evsbc9.cat' to 'C:\Users\jzappia\AppData\Local\Temp\{c48051b7-c2f7-fb4d-a62b-13da72e88e85}\evsbc9.cat'.
+     flq:                     Copying 'c:\program files\electronic team\flexihub\drivers\vspd\nt6x64\evsbc9.inf' to 'C:\Users\jzappia\AppData\Local\Temp\{c48051b7-c2f7-fb4d-a62b-13da72e88e85}\evsbc9.inf'.
+     flq:                     Copying 'c:\program files\electronic team\flexihub\drivers\vspd\nt6x64\evsbc9.sys' to 'C:\Users\jzappia\AppData\Local\Temp\{c48051b7-c2f7-fb4d-a62b-13da72e88e85}\evsbc9.sys'.
+     flq:                {FILE_QUEUE_COMMIT - exit(0x00000000)} 23:02:21.615
+     sto:           {Copy Driver Package: exit(0x00000000)} 23:02:21.616
+     ump:           Import flags: 0x00000000
+     pol:           {Driver package policy check} 23:02:21.630
+     pol:           {Driver package policy check - exit(0x00000000)} 23:02:21.630
+     sto:           {Stage Driver Package: C:\Users\jzappia\AppData\Local\Temp\{c48051b7-c2f7-fb4d-a62b-13da72e88e85}\evsbc9.inf} 23:02:21.630
+     inf:                {Query Configurability: C:\Users\jzappia\AppData\Local\Temp\{c48051b7-c2f7-fb4d-a62b-13da72e88e85}\evsbc9.inf} 23:02:21.632
+     inf:                     Driver package 'evsbc9.inf' is configurable.
+     inf:                {Query Configurability: exit(0x00000000)} 23:02:21.633
+     flq:                {FILE_QUEUE_COMMIT} 23:02:21.634
+     flq:                     Copying 'C:\Users\jzappia\AppData\Local\Temp\{c48051b7-c2f7-fb4d-a62b-13da72e88e85}\evsbc9.cat' to 'C:\Windows\System32\DriverStore\Temp\{bbfa929f-2d3f-484c-bd1b-fee819a11b42}\evsbc9.cat'.
+     flq:                     Copying 'C:\Users\jzappia\AppData\Local\Temp\{c48051b7-c2f7-fb4d-a62b-13da72e88e85}\evsbc9.inf' to 'C:\Windows\System32\DriverStore\Temp\{bbfa929f-2d3f-484c-bd1b-fee819a11b42}\evsbc9.inf'.
+     flq:                     Copying 'C:\Users\jzappia\AppData\Local\Temp\{c48051b7-c2f7-fb4d-a62b-13da72e88e85}\evsbc9.sys' to 'C:\Windows\System32\DriverStore\Temp\{bbfa929f-2d3f-484c-bd1b-fee819a11b42}\evsbc9.sys'.
+     flq:                {FILE_QUEUE_COMMIT - exit(0x00000000)} 23:02:21.641
+     sto:                {DRIVERSTORE IMPORT VALIDATE} 23:02:21.641
+     sig:                     Driver package catalog is valid.
+     sig:                     {_VERIFY_FILE_SIGNATURE} 23:02:21.660
+     sig:                          Key      = evsbc9.inf
+     sig:                          FilePath = C:\Windows\System32\DriverStore\Temp\{bbfa929f-2d3f-484c-bd1b-fee819a11b42}\evsbc9.inf
+     sig:                          Catalog  = C:\Windows\System32\DriverStore\Temp\{bbfa929f-2d3f-484c-bd1b-fee819a11b42}\evsbc9.cat
+     sig:                          Success: File is signed in catalog.
+     sig:                     {_VERIFY_FILE_SIGNATURE exit(0x00000000)} 23:02:21.665
+     sto:                {DRIVERSTORE IMPORT VALIDATE: exit(0x00000000)} 23:02:21.667
+     sig:                Signer Score  = 0x0D000005 (WHQL)
+     sig:                Signer Name   = Microsoft Windows Hardware Compatibility Publisher
+     sig:                Submission ID = 60142220_14602397515535033_1152921505693904980
+     sto:                {Core Driver Package Import: evsbc9.inf_amd64_c067cdb9be570de2} 23:02:21.669
+     sto:                     {DRIVERSTORE IMPORT BEGIN} 23:02:21.669
+     sto:                     {DRIVERSTORE IMPORT BEGIN: exit(0x00000000)} 23:02:21.669
+     cpy:                     {Copy Directory: C:\Windows\System32\DriverStore\Temp\{bbfa929f-2d3f-484c-bd1b-fee819a11b42}} 23:02:21.669
+     cpy:                          Target Path = C:\Windows\System32\DriverStore\FileRepository\evsbc9.inf_amd64_c067cdb9be570de2
+     cpy:                     {Copy Directory: exit(0x00000000)} 23:02:21.671
+     idb:                     {Register Driver Package: C:\Windows\System32\DriverStore\FileRepository\evsbc9.inf_amd64_c067cdb9be570de2\evsbc9.inf} 23:02:21.671
+     idb:                          Created driver package object 'evsbc9.inf_amd64_c067cdb9be570de2' in SYSTEM database node.
+     idb:                          Created driver INF file object 'oem65.inf' in SYSTEM database node.
+     idb:                          Registered driver package 'evsbc9.inf_amd64_c067cdb9be570de2' with 'oem65.inf'.
+     idb:                     {Register Driver Package: exit(0x00000000)} 23:02:21.673
+     idb:                     {Publish Driver Package: C:\Windows\System32\DriverStore\FileRepository\evsbc9.inf_amd64_c067cdb9be570de2\evsbc9.inf} 23:02:21.673
+     idb:                          Activating driver package 'evsbc9.inf_amd64_c067cdb9be570de2'.
+     cpy:                          Published 'evsbc9.inf_amd64_c067cdb9be570de2\evsbc9.inf' to 'oem65.inf'.
+     idb:                          Indexed 2 device IDs for 'evsbc9.inf_amd64_c067cdb9be570de2'.
+     sto:                          Flushed driver database node 'SYSTEM'. Time = 0 ms
+     idb:                     {Publish Driver Package: exit(0x00000000)} 23:02:21.691
+     sto:                     {DRIVERSTORE IMPORT END} 23:02:21.692
+     dvi:                          Flushed all driver package files to disk. Time = 0 ms
+     sig:                          Installed catalog 'evsbc9.cat' as 'oem65.cat'.
+     sto:                     {DRIVERSTORE IMPORT END: exit(0x00000000)} 23:02:21.701
+     sto:                {Core Driver Package Import: exit(0x00000000)} 23:02:21.701
+     sto:           {Stage Driver Package: exit(0x00000000)} 23:02:21.702
+     sto:      {Setup Import Driver Package - exit (0x00000000)} 23:02:21.743
+     dvi:      Searching for hardware ID(s):
+     dvi:           vsbc9
+     dvi:      Class GUID of device changed to: {4d36e97d-e325-11ce-bfc1-08002be10318}.
+     ump:      {Plug and Play Service: Device Install for ROOT\SYSTEM\0002}
+     dvi:           {Core Device Install} 23:02:21.766
+     dvi:                {Configure Device - ROOT\SYSTEM\0002} 23:02:21.767
+     dvi:                     Device Status: 0x01802001
+     dvi:                     Parent Device: HTREE\ROOT\0
+     sto:                     {Configure Driver Package: C:\Windows\System32\DriverStore\FileRepository\evsbc9.inf_amd64_c067cdb9be570de2\evsbc9.inf}
+     sto:                          Source Filter  = vsbc9
+     inf:                          Class GUID     = {4d36e97d-e325-11ce-bfc1-08002be10318}
+     inf:                          Class Options  = Configurable BootCritical
+     inf:                          {Configure Driver: Virtual Serial Bus Enumerator 9 (Electronic Team)}
+     inf:                               Section Name = VSBus_Device.NT
+     inf:                               {Add Service: VSBC9}
+     inf:                                    Start Type    = 3
+     inf:                                    Service Type  = 1
+     inf:                                    Error Control = 1
+     inf:                                    Image Path    = \SystemRoot\System32\drivers\evsbc9.sys
+     inf:                                    Display Name  = Virtual Serial Bus Enumerator 9 (Electronic Team)
+     inf:                                    Group         = Extended Base
+     inf:                                    Created new service 'VSBC9'.
+     inf:                               {Add Service: exit(0x00000000)}
+     inf:                               Hardware Id  = VSBC9
+     inf:                               {Configure Driver Configuration: VSBus_Device.NT}
+     inf:                                    Service Name  = VSBC9
+     inf:                                    Config Flags  = 0x00000000
+     inf:                               {Configure Driver Configuration: exit(0x00000000)}
+     inf:                          {Configure Driver: exit(0x00000000)}
+     flq:                          {FILE_QUEUE_COMMIT} 23:02:21.781
+     flq:                               Hardlinking 'C:\Windows\System32\DriverStore\FileRepository\evsbc9.inf_amd64_c067cdb9be570de2\evsbc9.sys' to 'C:\Windows\System32\drivers\evsbc9.sys'.
+     flq:                          {FILE_QUEUE_COMMIT - exit(0x00000000)} 23:02:21.783
+     dvi:                          Existing files modified, may need to restart related services.
+     sto:                     {Configure Driver Package: exit(0x00000bc3)}
+     dvi:                     Restart required for any devices using this driver.
+     dvi:                     Install Device: Configuring device. 23:02:21.784
+     dvi:                          Configuration: oem65.inf:vsbc9,VSBus_Device
+     dvi:                     Install Device: Configuring device completed. 23:02:21.788
+     dvi:                     Device Status: 0x01802001
+     dvi:                     {Restarting Devices} 23:02:21.788
+     dvi:                          Start: ROOT\SYSTEM\0002
+     dvi:                     {Restarting Devices exit} 23:02:21.820
+     dvi:                {Configure Device - exit(0x00000000)} 23:02:21.821
+     dvi:           {Core Device Install - exit(0x00000000)} 23:02:21.822
+     ump:      {Plug and Play Service: Device Install exit(00000000)}
+     ndv: {Update Device Driver - exit(00000000)}
+     ndv: {Install Related Drivers} 23:02:21.826
+     ndv: {Install Related Drivers: exit(0x00000000)} 23:02:21.827
+<<<  Section end 2022/12/19 23:02:21.828
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [SetupCopyOEMInf - C:\Program Files (x86)\GoToMyPC\x64\g2pvdd.inf]
+>>>  Section start 2022/12/19 23:06:26.883
+      cmd: C:\Windows\System32\MsiExec.exe -Embedding FD071E2D7927A774C6B9AFF27CD0A24F
+     inf: Copy style: 0x00000000
+     sto: {Setup Import Driver Package: C:\Program Files (x86)\GoToMyPC\x64\g2pvdd.inf} 23:06:26.885
+     inf:      Provider: GoTo, Inc.
+     inf:      Class GUID: {4D36E968-E325-11CE-BFC1-08002BE10318}
+     inf:      Driver Version: 07/12/2022,9.19.30.210
+     inf:      Catalog File: g2pvdd.cat
+     sto:      {Copy Driver Package: C:\Program Files (x86)\GoToMyPC\x64\g2pvdd.inf} 23:06:26.891
+     sto:           Driver Package = C:\Program Files (x86)\GoToMyPC\x64\g2pvdd.inf
+     sto:           Flags          = 0x00000007
+     sto:           Destination    = C:\Users\jzappia\AppData\Local\Temp\{bb147d8e-0f23-3145-a539-113977197a50}
+     sto:           Copying driver package files to 'C:\Users\jzappia\AppData\Local\Temp\{bb147d8e-0f23-3145-a539-113977197a50}'.
+     flq:           {FILE_QUEUE_COMMIT} 23:06:26.896
+     flq:                Copying 'C:\Program Files (x86)\GoToMyPC\x64\g2pvdd.cat' to 'C:\Users\jzappia\AppData\Local\Temp\{bb147d8e-0f23-3145-a539-113977197a50}\g2pvdd.cat'.
+     flq:                Copying 'C:\Program Files (x86)\GoToMyPC\x64\g2pvdd.dll' to 'C:\Users\jzappia\AppData\Local\Temp\{bb147d8e-0f23-3145-a539-113977197a50}\g2pvdd.dll'.
+     flq:                Copying 'C:\Program Files (x86)\GoToMyPC\x64\g2pvdd.inf' to 'C:\Users\jzappia\AppData\Local\Temp\{bb147d8e-0f23-3145-a539-113977197a50}\g2pvdd.inf'.
+     flq:           {FILE_QUEUE_COMMIT - exit(0x00000000)} 23:06:26.905
+     sto:      {Copy Driver Package: exit(0x00000000)} 23:06:26.905
+     ump:      Import flags: 0x00000000
+     pol:      {Driver package policy check} 23:06:27.061
+     pol:      {Driver package policy check - exit(0x00000000)} 23:06:27.061
+     sto:      {Stage Driver Package: C:\Users\jzappia\AppData\Local\Temp\{bb147d8e-0f23-3145-a539-113977197a50}\g2pvdd.inf} 23:06:27.062
+     inf:           {Query Configurability: C:\Users\jzappia\AppData\Local\Temp\{bb147d8e-0f23-3145-a539-113977197a50}\g2pvdd.inf} 23:06:27.064
+!    inf:                Using WDF schema version 2.0 when section requires version 2.25. Section = [VDD_Install.NT.Wdf]
+     inf:                Driver package uses WDF.
+     inf:                Driver package 'g2pvdd.inf' is configurable.
+     inf:           {Query Configurability: exit(0x00000000)} 23:06:27.070
+     flq:           {FILE_QUEUE_COMMIT} 23:06:27.070
+     flq:                Copying 'C:\Users\jzappia\AppData\Local\Temp\{bb147d8e-0f23-3145-a539-113977197a50}\g2pvdd.cat' to 'C:\Windows\System32\DriverStore\Temp\{e0b6d41f-c7f9-dd4e-9825-80f873c1129d}\g2pvdd.cat'.
+     flq:                Copying 'C:\Users\jzappia\AppData\Local\Temp\{bb147d8e-0f23-3145-a539-113977197a50}\g2pvdd.dll' to 'C:\Windows\System32\DriverStore\Temp\{e0b6d41f-c7f9-dd4e-9825-80f873c1129d}\g2pvdd.dll'.
+     flq:                Copying 'C:\Users\jzappia\AppData\Local\Temp\{bb147d8e-0f23-3145-a539-113977197a50}\g2pvdd.inf' to 'C:\Windows\System32\DriverStore\Temp\{e0b6d41f-c7f9-dd4e-9825-80f873c1129d}\g2pvdd.inf'.
+     flq:           {FILE_QUEUE_COMMIT - exit(0x00000000)} 23:06:27.077
+     sto:           {DRIVERSTORE IMPORT VALIDATE} 23:06:27.078
+     sig:                Driver package catalog is valid.
+     sig:                {_VERIFY_FILE_SIGNATURE} 23:06:27.099
+     sig:                     Key      = g2pvdd.inf
+     sig:                     FilePath = C:\Windows\System32\DriverStore\Temp\{e0b6d41f-c7f9-dd4e-9825-80f873c1129d}\g2pvdd.inf
+     sig:                     Catalog  = C:\Windows\System32\DriverStore\Temp\{e0b6d41f-c7f9-dd4e-9825-80f873c1129d}\g2pvdd.cat
+     sig:                     Success: File is signed in catalog.
+     sig:                {_VERIFY_FILE_SIGNATURE exit(0x00000000)} 23:06:27.105
+     sto:           {DRIVERSTORE IMPORT VALIDATE: exit(0x00000000)} 23:06:27.107
+     sig:           Signer Score  = 0x0D000005 (WHQL)
+     sig:           Signer Name   = Microsoft Windows Hardware Compatibility Publisher
+     sig:           Submission ID = 30896170_14525444611572967_1152921505695039498
+     sto:           {Core Driver Package Import: g2pvdd.inf_amd64_9181842230506d98} 23:06:27.109
+     sto:                {DRIVERSTORE IMPORT BEGIN} 23:06:27.109
+     sto:                {DRIVERSTORE IMPORT BEGIN: exit(0x00000000)} 23:06:27.109
+     cpy:                {Copy Directory: C:\Windows\System32\DriverStore\Temp\{e0b6d41f-c7f9-dd4e-9825-80f873c1129d}} 23:06:27.109
+     cpy:                     Target Path = C:\Windows\System32\DriverStore\FileRepository\g2pvdd.inf_amd64_9181842230506d98
+     cpy:                {Copy Directory: exit(0x00000000)} 23:06:27.111
+     idb:                {Register Driver Package: C:\Windows\System32\DriverStore\FileRepository\g2pvdd.inf_amd64_9181842230506d98\g2pvdd.inf} 23:06:27.112
+     idb:                     Created driver package object 'g2pvdd.inf_amd64_9181842230506d98' in DRIVERS database node.
+     idb:                     Created driver INF file object 'oem66.inf' in DRIVERS database node.
+     idb:                     Registered driver package 'g2pvdd.inf_amd64_9181842230506d98' with 'oem66.inf'.
+     idb:                {Register Driver Package: exit(0x00000000)} 23:06:27.115
+     idb:                {Publish Driver Package: C:\Windows\System32\DriverStore\FileRepository\g2pvdd.inf_amd64_9181842230506d98\g2pvdd.inf} 23:06:27.115
+     idb:                     Activating driver package 'g2pvdd.inf_amd64_9181842230506d98'.
+     cpy:                     Published 'g2pvdd.inf_amd64_9181842230506d98\g2pvdd.inf' to 'oem66.inf'.
+     idb:                     Indexed 2 device IDs for 'g2pvdd.inf_amd64_9181842230506d98'.
+     sto:                     Flushed driver database node 'DRIVERS'. Time = 16 ms
+     sto:                     Flushed driver database node 'SYSTEM'. Time = 47 ms
+     idb:                {Publish Driver Package: exit(0x00000000)} 23:06:27.169
+     sto:                {DRIVERSTORE IMPORT END} 23:06:27.170
+     dvi:                     Flushed all driver package files to disk. Time = 0 ms
+     sig:                     Installed catalog 'g2pvdd.cat' as 'oem66.cat'.
+     sto:                {DRIVERSTORE IMPORT END: exit(0x00000000)} 23:06:27.177
+     sto:           {Core Driver Package Import: exit(0x00000000)} 23:06:27.177
+     sto:      {Stage Driver Package: exit(0x00000000)} 23:06:27.179
+     sto: {Setup Import Driver Package - exit (0x00000000)} 23:06:27.221
+     inf: Driver Store Path: C:\Windows\System32\DriverStore\FileRepository\g2pvdd.inf_amd64_9181842230506d98\g2pvdd.inf
+     inf: Published Inf Path: C:\Windows\INF\oem66.inf
+<<<  Section end 2022/12/19 23:06:27.223
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [Device Install (UpdateDriverForPlugAndPlayDevices) - GoTo_G2PVDD]
+>>>  Section start 2022/12/19 23:06:27.223
+      cmd: C:\Windows\System32\MsiExec.exe -Embedding FD071E2D7927A774C6B9AFF27CD0A24F
+     ndv: INF path: C:\Program Files (x86)\GoToMyPC\x64\g2pvdd.inf
+     ndv: Install flags: 0x00000005
+!    ndv: Unable to find any matching devices.
+<<<  Section end 2022/12/19 23:06:27.248
+<<<  [Exit status: FAILURE(0xe000020b)]
+
+
+[Boot Session: 2022/12/19 23:07:23.500]
+
+>>>  [Delete Device - SWD\PRINTENUM\{4D7DE7EE-C245-47A0-B449-5151BEEF9AC5}]
+>>>  Section start 2022/12/19 23:11:18.706
+      cmd: C:\Windows\System32\spoolsv.exe
+!    dvi: Access denied from Query and Remove
+<<<  Section end 2022/12/19 23:11:20.478
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [Delete Device - ROOT\SYSTEM\0001]
+>>>  Section start 2022/12/19 23:11:48.207
+      cmd: "C:\Program Files\Electronic Team\FlexiHub\drivers\USB\nt10x64\setup_server_flexihub.exe" /U
+     dvi: Query-and-Remove succeeded
+<<<  Section end 2022/12/19 23:11:49.250
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [Delete Device - ROOT\USB\0000]
+>>>  Section start 2022/12/19 23:11:49.322
+      cmd: "C:\Program Files\Electronic Team\FlexiHub\drivers\USB\nt10x64\setup_server_flexihub.exe" /U
+     dvi: Query-and-Remove succeeded
+<<<  Section end 2022/12/19 23:11:49.352
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [Delete Device - ROOT\SYSTEM\0002]
+>>>  Section start 2022/12/19 23:11:49.624
+      cmd: "C:\Program Files\Electronic Team\FlexiHub\drivers\VSPD\NT6X64\vsbsetup.exe" /u
+     dvi: Query-and-Remove succeeded
+<<<  Section end 2022/12/19 23:11:49.641
+<<<  [Exit status: SUCCESS]
+
