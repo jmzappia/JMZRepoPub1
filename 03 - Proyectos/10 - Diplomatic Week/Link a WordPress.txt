@@ -1,0 +1,4 @@
+http://diplomaticweek.org/wp-login.php?redirect_to=http%3A%2F%2Fdiplomaticweek.org%2Fwp-admin%2F&reauth=1
+
+Usuario: JulianZ
+Pass   : Diplomatic2023

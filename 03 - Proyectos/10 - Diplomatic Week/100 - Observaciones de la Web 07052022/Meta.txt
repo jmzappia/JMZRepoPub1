@@ -1,0 +1,22 @@
+<title>Diplomatic Week | Noticias internacionales</title>
+
+<meta charset="utf-8"/>
+
+<meta name="description" content="Periódico digital de noticias internacionales para todo el mundo"/>
+
+<meta name="keywords" content="noticias, internacionales, países, continentes, america, europa, asia, africa, oceania, organismos, estados, tecnología, educación, sociedad, medicina, salud, bienestar, actualidad, empleos, instantáneas"/>
+
+<meta name="author" content="Diplomatic Week | Fundación Pro Humanae Vitae" />
+
+<meta name="copyright" content="Diplomatic Week | Fundación Pro Humanae Vitae" />
+
+<meta name="robots" content="index,follow"/>
+
+<meta http-equiv="cache-control" content="no-cache"/>
+
+<meta http-equiv="expires" content="0"/>
+
+<meta http-equiv="refresh" content="10; url=http://diplomaticweek.org/"/>
+
+
+
