@@ -1,0 +1,78 @@
+1. Obtener un listado de todos los empleados (nombre y apellido) que ganan no menos de 2000€ al mes y que entraron en la compañía después del 1 de enero de 1975. También se quiere la información correspondiente a su código de trabajo y al número de personal de sus directores.
+
+
+
+CREATE TABLE empleados (
+      nuempl CHAR(6) NOT NULL,
+      nombre CHAR(12) NOT NULL,
+      inicial CHAR(1) NOT NULL,
+      apellido CHAR(15) NOT NULL,
+      dept CHAR(3) NOT NULL,
+      tlfn CHAR(4),
+      feching DATE NOT NULL,
+      codtra SMALLINT NOT NULL,
+      niveduc SMALLINT NOT NULL,
+      sexo CHAR(1) NOT NULL,
+      fechnac DATE NOT NULL,
+      salario DECIMAL(9,2) NOT NULL
+
+);
+
+
+BULK
+INSERT empleados
+FROM 'employees.csv'
+WITH
+(
+FIELDTERMINATOR = ',',
+ROWTERMINATOR = '\n'
+)
+
+
+
+CREATE TABLE departamentos (
+      numdep CHAR(3) NOT NULL,
+      nomdep CHAR(36) NOT NULL,
+      numdirec CHAR(6) NOT NULL
+
+);
+
+
+BULK
+INSERT departamentos
+FROM 'departments.csv'
+WITH
+(
+FIELDTERMINATOR = ',',
+ROWTERMINATOR = '\n'
+)
+
+SELECT nombre, apellido, codtra, numdirec
+FROM empleados
+INNER JOIN departamentos 
+ON (empleados.dept = departamentos.numdep)
+WHERE salario > 2000 AND feching > '01/01/1975';
+
+
+
+2. Obtener un listado de todos los empleados que pertenecen al mismo departamento que Tomás Soler.
+
+
+
+SELECT *
+FROM empleados
+WHERE dept = (select dept from empleados WHERE nombre = 'Tomás' AND apellido = 'Soler');
+
+
+
+3. Obtener un listado de las mujeres de los departamentos que empiecen por D o por E cuyo nivel de educación (niveduc) sea superior a la media, ordenados por número de personal.
+
+
+
+
+SELECT nuempl, nombre, apellido, tlfn, nomdep
+FROM empleados
+INNER JOIN departamentos 
+ON (empleados.dept = departamentos.numdep)
+WHERE sexo='M' AND (departamentos.numdep LIKE 'D%' OR departamentos.numdep LIKE 'E%') AND niveduc > ( SELECT AVG(niveduc) FROM empleados )
+ORDER BY nuempl;

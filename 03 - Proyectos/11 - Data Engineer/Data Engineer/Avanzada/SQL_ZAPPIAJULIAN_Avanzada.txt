@@ -1,0 +1,38 @@
+El instituto meteorológico de México solicita sus servicios para analizar las bases de datos del instituto. El análisis implica armar un modelo que permita obtener:
+· Una base con las temperaturas máxima, mínima, media, las horas de lluvia y el porcentaje de horas de lluvia por día abiertos por país, ciudad, año, mes y día.
+Para realizar esta consulta el instituto le provee las siguientes bases:
+historical_weather : Muestra de información histórica del clima
+country_iso : Descripción ISO de los países
+cities : Muestra de ubicación geográfica de ciudades.
+
+
+
+BASE DE DATOS
+
+- La descripción general de cada archivo
+- La información detallada de cada archivo
+- Visualización previa de la información a recuperar mediante mapa grillado.
+Para el archivo seleccionado se muestra, antes de descargar el archivo:
+- Los metadatos asociados y valoración experta del archivo
+- La gráfica donde se pueden obtener datos a descargar, identificando los dominios regionales de las 4 áreas de estudio, mediante selección de áreas.
+- puntos/áreas seleccionadas con posibilidad de ser “des-seleccionadas” para reducir el tamaño del archivo a descargar, ajustándolo a las necesidades del usuario.
+
+Exportación de la Base de Datos 
+
+Las ST generadas, se exportan de la Base de Datos. Para cada punto seleccionado, se generará un archivo con la ST en formato texto “csv” (comma sepatated values: valores separados por coma), y para el conjunto de archivos obtenidos se construye: ? Un archivo GIS, conteniendo las posiciones de todos los puntos exportados en formato shape del área seleccionada. 
+- Un archivo conteniendo los metadatos asociados. Se utiliza el formato “csv” porque es muy genérico y de fácil importación a distintos utilitarios (por ejemplo MS Excel, Access, o para ser usados por distintos lenguajes de programación: Matlab, R, etc). La estructura del nombre de los archivos es: 
+- Lat{Latitud},_Lon{Longitud}.csv 
+- puntos.{shp|shx | dbf } 
+- detalle.cvs Donde: Latitud: es la latitud correspondiente a cada uno de los puntos exportados Longitud: es la longitud correspondiente a cada uno de los puntos exportados. Puntos: es el archivo shape conteniendo los puntos exportados. Con el conjunto de archivos csv, el archivo shape y detalle, anteriormente descriptos, se construye un archivo comprimido (en formato zip). 
+Se realiza esta compresión pues para el usuario es más eficiente la descarga de los archivos por internet, ya que reduce el tiempo de transferencia. El formato del archivo Latx_Lony.cvs para las ST es: Latitud (numérico -gg.mm) Longitud (numérico -gg.mm) Fecha (date dd/mm/aaaa) Valor (numérico snnn.d) 
+El formato del archivo detalle.cvs es: 
+Registro 1: Nombre de Variable; Unidad: texto libre 
+Registro 2: Archivo original: texto libre 
+Registro 3: Nombre Institución: texto libre 
+Registro 4: Autor: texto libre 
+Registro 5: Cita: texto libre Registro 6: Comentario Experto: Texto libre
+
+
+No finalizado por falta de tiempo y complejidad.
+Ver imagen adjunta al correo electrónico de respuesta con el DER generado.
+
