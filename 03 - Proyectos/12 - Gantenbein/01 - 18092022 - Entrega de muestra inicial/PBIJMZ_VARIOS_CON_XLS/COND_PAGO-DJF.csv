@@ -1,0 +1,5 @@
+Cond. Pago;Cond. Pago_Desc;Cond. Pago_Dias
+CP01;Pago Contado;0
+CP02;Pago 30 d¡as;30
+CP03;Pago 60 d¡as;60
+CP04;Pago 90 d¡as;90
